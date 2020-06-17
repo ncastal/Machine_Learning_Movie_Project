@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>IMDb Movies</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="./assets/js/table.js"></script>
+
+    <!-- <link rel="stylesheet" href="assets/css/style.css"> -->
+</head>
+
+<body>
+<!--NAVIGATION BAR-->
+<div class="container head_foot">
+  <div class="row">
+   <div class="col-md-12">
+       <nav class="navbar navbar-expand-lg navbar-light bg-light">
+           <a class="navbar-brand" href="index.html" ><img src="assets/images/transparent-imbd-logo-1.png" height="100" class="mr-2">Movie Success or Flop</a>
+           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+             <span class="navbar-toggler-icon"></span>
+           </button>
+         
+           <div class="collapse navbar-collapse" id="navbarSupportedContent">
+             <ul class="navbar-nav ml-auto">
+               <li class="nav-item dropdown">
+                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                     Models
+                   </a>
+
+                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                     <div class="font-weight-bold ml-2" style="color: black">Multiple Linear Regression</div>
+                      <a class="dropdown-item" href="regress_imdbrating.html">IMDb User Rating</a>
+                      <a class="dropdown-item" href="regress_metascore.html">Metascore</a>
+                      <a class="dropdown-item" href="regress_wldgrosinc.html">Worldwide Gross Income</a>
+                      <!-- <a class="dropdown-item" href="nlp_naiveBayes.html">Naive Bayes</a> -->
+                      <!-- <a class="dropdown-item" href="nlp_randomForest.html">Random Forest</a> -->
+
+                     <div class="dropdown-divider"></div>
+
+                     <div class="font-weight-bold ml-2" style="color:black">Sentiment Analysis</div>
+                      <a class="dropdown-item" href="svm_goodbadmovies.html">Model Comparison</a>
+                      <!-- <a class="dropdown-item" href="ml_svm.html">Support Vector Machine</a>
+                      <a class="dropdown-item" href="ml_deepLearning.html">Deep Learning</a>
+                      <a class="dropdown-item" href="ml_randomForest.html">Random Forest</a> -->
+                   </div>
+                 </li>
+               <li class="nav-item">
+                 <a class="nav-link" href="data.html">IMDB Data</a>
+               </li>
+               <li class="nav-item">
+                 <a class="nav-link" href="sentiment_data.html">Sentiment Data</a>
+               </li>
+             </ul>
+           </div>
+         </nav>
+   </div>
+  </div>
+</div>
+
+<!--MAIN SECTION-->
+<div class="container pt-4">
+    <div class="row">  
+        <div class="col-md-12">
+            <h1>Data</h1>
+            <hr>
+            <!-- <hr> -->
+            <p>
+                For the original data file <a href="https://imdbmoviedata.s3.amazonaws.com/complete_data.csv" class="font-weight-bold" style="color:#30adc3">click here for AWS download.</a>
+            </p>
+            <p class="font-italic font-weight-light" style="color:grey">Table scrolls horizontally</p>
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                  <thead class="themed-dark">
+                          <tr style="text-align: right;">
+                            <th>title</th>
+                            <th>year</th>
+                            <th>country_1</th>
+                            <th>country_2</th>
+                            <th>country_3</th>
+                            <th>language</th>
+                            <th>duration</th>
+                            <th>genre_1</th>
+                            <th>genre_2</th>
+                            <th>genre_3</th>
+                            <th>production_company</th>
+                            <th>director</th>
+                            <th>description</th>
+                            <th>actor_1</th>
+                            <th>listing_1</th>
+                            <th>actor_2</th>
+                            <th>listing_2</th>
+                            <th>actor_3</th>
+                            <th>listing_3</th>
+                            <th>budget_USD</th>
+                            <th>usa_gross_income</th>
+                            <th>worldwide_gross_income</th>
+                            <th>avg_user_rating</th>
+                            <th>votes</th>
+                            <th>reviews_from_users</th>
+                            <th>metascore</th>
+                            <th>reviews_from_critics</th>
+                            <th>male_avg_rating</th>
+                            <th>male_votes</th>
+                            <th>female_avg_rating</th>
+                            <th>female_votes</th>
+                            <th>avg_rating_<18yrs</th>
+                            <th>votes_<18yrs</th>
+                            <th>avg_rating_18-30yrs</th>
+                            <th>votes_18-30yrs</th>
+                            <th>avg_rating_30-45yrs</th>
+                            <th>votes_30-45yrs</th>
+                            <th>avg_rating_>45rs</th>
+                            <th>votes_>45yrs</th>
+                            <th>positive_votes</th>
+                            <th>neutral_votes</th>
+                            <th>negative_votes</th>
+                            <th>percentage_positive_votes</th>
+                            <th>overall_eval</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                            <!-- APPEND TABLE -->
+                        </tbody>
+                    </table>
+                </div>
+              </div>
+          </div>
+      </div>
+
+<!--FOOTER-->
+<div class = "footer">    
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <hr>
+                    <div class="row">
+                        <a href="https://github.com/kmr292/IMDb-Final-Project" class="ml-auto pr-3">
+                        <img src="assets/images/github_logo.jpg"
+                        alt="Github Icon" height="60"/> 
+                        </a>  
+      
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+      
+      </body>
+      </html>
+ 

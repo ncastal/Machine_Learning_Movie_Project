@@ -1,0 +1,4182 @@
+,title,budget,currency_symbol,currency_amount
+0,Metropolis,DEM 6000000,DEM,10440.0
+1,City Lights,$ 1500000,$,1500000
+2,Modern Times,$ 1500000,$,1500000
+3,Snow White and the Seven Dwarfs,$ 1499000,$,1499000
+4,Gone with the Wind,$ 3977000,$,3977000
+5,Mr. Smith Goes to Washington,$ 1900000,$,1900000
+6,The Wizard of Oz,$ 2777000,$,2777000
+7,Fantasia,$ 2280000,$,2280000
+8,Pinocchio,$ 2600000,$,2600000
+9,Citizen Kane,$ 839727,$,839727
+10,Casablanca,$ 950000,$,950000
+11,Kate & Leopold,$ 48000000,$,48000000
+12,The Best Years of Our Lives,$ 2100000,$,2100000
+13,The Treasure of the Sierra Madre,$ 3000000,$,3000000
+14,All About Eve,$ 1400000,$,1400000
+15,Cinderella,$ 2900000,$,2900000
+16,Rashômon,$ 250000,$,250000
+17,Singin' in the Rain,$ 2540800,$,2540800
+18,From Here to Eternity,$ 1650000,$,1650000
+19,Peter Pan,$ 4000000,$,4000000
+20,Dial M for Murder,$ 1400000,$,1400000
+21,Gojira,$ 175000,$,175000
+22,Rear Window,$ 1000000,$,1000000
+23,Shichinin no samurai,JPY 125000000,JPY,1162500.0
+24,A Star Is Born,$ 5019770,$,5019770
+25,Lady and the Tramp,$ 4000000,$,4000000
+26,Rebel Without a Cause,$ 1500000,$,1500000
+27,Giant,$ 5400000,$,5400000
+28,The Bridge on the River Kwai,$ 3000000,$,3000000
+29,Touch of Evil,$ 829000,$,829000
+30,Vertigo,$ 2479000,$,2479000
+31,Ben-Hur,$ 15000000,$,15000000
+32,Sleeping Beauty,$ 6000000,$,6000000
+33,Le petit soldat,$ 180000,$,180000
+34,Psycho,$ 806947,$,806947
+35,Spartacus,$ 12000000,$,12000000
+36,Swiss Family Robinson,$ 5000000,$,5000000
+37,One Hundred and One Dalmatians,$ 4000000,$,4000000
+38,Une femme est une femme,$ 160000,$,160000
+39,West Side Story,$ 6000000,$,6000000
+40,Dr. No,$ 1100000,$,1100000
+41,How the West Was Won,$ 15000000,$,15000000
+42,Lawrence of Arabia,$ 15000000,$,15000000
+43,The Manchurian Candidate,$ 2200000,$,2200000
+44,To Kill a Mockingbird,$ 2000000,$,2000000
+45,Cleopatra,$ 44000000,$,44000000
+46,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,$ 1800000,$,1800000
+47,From Russia with Love,$ 2000000,$,2000000
+48,It's a Mad Mad Mad Mad World,$ 9400000,$,9400000
+49,The Sword in the Stone,$ 3000000,$,3000000
+50,Bande à part,$ 120000,$,120000
+51,Goldfinger,$ 3000000,$,3000000
+52,A Hard Day's Night,$ 560000,$,560000
+53,Mary Poppins,$ 6000000,$,6000000
+54,My Fair Lady,$ 17000000,$,17000000
+55,Per un pugno di dollari,$ 200000,$,200000
+56,La battaglia di Algeri,$ 800000,$,800000
+57,Doctor Zhivago,$ 11000000,$,11000000
+58,Per qualche dollaro in più,$ 600000,$,600000
+59,The Sound of Music,$ 8200000,$,8200000
+60,Thunderball,$ 9000000,$,9000000
+61,"Il buono, il brutto, il cattivo",$ 1200000,$,1200000
+62,Who's Afraid of Virginia Woolf?,$ 7500000,$,7500000
+63,The Graduate,$ 3000000,$,3000000
+64,Guess Who's Coming to Dinner,$ 4000000,$,4000000
+65,Hang 'Em High,$ 1600000,$,1600000
+66,The Jungle Book,$ 4000000,$,4000000
+67,You Only Live Twice,$ 9500000,$,9500000
+68,2001: A Space Odyssey,$ 12000000,$,12000000
+69,Funny Girl,$ 14100000,$,14100000
+70,Night of the Living Dead,$ 114000,$,114000
+71,The Odd Couple,$ 1200000,$,1200000
+72,Planet of the Apes,$ 5800000,$,5800000
+73,Butch Cassidy and the Sundance Kid,$ 6000000,$,6000000
+74,Easy Rider,$ 360000,$,360000
+75,"Hello, Dolly!",$ 25000000,$,25000000
+76,Midnight Cowboy,$ 3600000,$,3600000
+77,On Her Majesty's Secret Service,$ 7000000,$,7000000
+78,Paint Your Wagon,$ 20000000,$,20000000
+79,Two Mules for Sister Sara,$ 2500000,$,2500000
+80,Where Eagles Dare,$ 7700000,$,7700000
+81,The Wild Bunch,$ 6244087,$,6244087
+82,Airport,$ 10000000,$,10000000
+83,The AristoCats,$ 4000000,$,4000000
+84,Beneath the Planet of the Apes,$ 3000000,$,3000000
+85,Il conformista,$ 750000,$,750000
+86,Kelly's Heroes,$ 4000000,$,4000000
+87,Little Big Man,$ 15000000,$,15000000
+88,Love Story,$ 2200000,$,2200000
+89,THX 1138,$ 777000,$,777000
+90,A Clockwork Orange,$ 2200000,$,2200000
+91,Diamonds Are Forever,$ 7200000,$,7200000
+92,Dirty Harry,$ 4000000,$,4000000
+93,Escape from the Planet of the Apes,$ 2500000,$,2500000
+94,Fiddler on the Roof,$ 9000000,$,9000000
+95,The French Connection,$ 1800000,$,1800000
+96,Wake in Fright,AUD 800000,AUD,520000.0
+97,Play Misty for Me,$ 725000,$,725000
+98,Willy Wonka & the Chocolate Factory,$ 3000000,$,3000000
+99,Conquest of the Planet of the Apes,$ 1700000,$,1700000
+100,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,$ 2000000,$,2000000
+101,The Godfather,$ 6000000,$,6000000
+102,High Plains Drifter,$ 5500000,$,5500000
+103,Solaris,RUR 1000000,RUR,13000.0
+104,American Graffiti,$ 777000,$,777000
+105,Battle for the Planet of the Apes,$ 1800000,$,1800000
+106,The Exorcist,$ 11000000,$,11000000
+107,Live and Let Die,$ 7000000,$,7000000
+108,Mean Streets,$ 500000,$,500000
+109,Papillon,$ 12000000,$,12000000
+110,Serpico,$ 3000000,$,3000000
+111,Sleeper,$ 2000000,$,2000000
+112,The Sting,$ 5500000,$,5500000
+113,Ultimo tango a Parigi,$ 1250000,$,1250000
+114,The Wicker Man,$ 810000,$,810000
+115,Blazing Saddles,$ 2600000,$,2600000
+116,Chinatown,$ 6000000,$,6000000
+117,The Conversation,$ 1600000,$,1600000
+118,The Godfather: Part II,$ 13000000,$,13000000
+119,The Great Gatsby,$ 6500000,$,6500000
+120,The Man with the Golden Gun,$ 7000000,$,7000000
+121,Monty Python and the Holy Grail,GBP 229575,GBP,289264.5
+122,Murder on the Orient Express,GBP 1500000,GBP,1890000.0
+123,The Texas Chain Saw Massacre,$ 300000,$,300000
+124,Thunderbolt and Lightfoot,$ 2200000,$,2200000
+125,The Towering Inferno,$ 14000000,$,14000000
+126,Young Frankenstein,$ 2800000,$,2800000
+127,Dog Day Afternoon,$ 1800000,$,1800000
+128,The Eiger Sanction,$ 9000000,$,9000000
+129,Jaws,$ 7000000,$,7000000
+130,Love and Death,$ 3000000,$,3000000
+131,Nashville,$ 2200000,$,2200000
+132,One Flew Over the Cuckoo's Nest,$ 3000000,$,3000000
+133,Picnic at Hanging Rock,AUD 440000,AUD,286000.0
+134,The Rocky Horror Picture Show,$ 1200000,$,1200000
+135,Tommy,$ 5000000,$,5000000
+136,All the President's Men,$ 8500000,$,8500000
+137,Carrie,$ 1800000,$,1800000
+138,The Enforcer,$ 9000000,$,9000000
+139,King Kong,$ 24000000,$,24000000
+140,Marathon Man,$ 6500000,$,6500000
+141,Network,$ 3800000,$,3800000
+142,The Omen,$ 2800000,$,2800000
+143,The Outlaw Josey Wales,$ 3700000,$,3700000
+144,Rocky,$ 960000,$,960000
+145,A Star Is Born,$ 6000000,$,6000000
+146,Taxi Driver,$ 1300000,$,1300000
+147,Annie Hall,$ 4000000,$,4000000
+148,Close Encounters of the Third Kind,$ 20000000,$,20000000
+149,Exorcist II: The Heretic,$ 14000000,$,14000000
+150,The Gauntlet,$ 5500000,$,5500000
+151,High Anxiety,$ 4015000,$,4015000
+152,"New York, New York",$ 14000000,$,14000000
+153,Pete's Dragon,$ 10000000,$,10000000
+154,The Rescuers,$ 7500000,$,7500000
+155,Saturday Night Fever,$ 3000000,$,3000000
+156,The Spy Who Loved Me,$ 14000000,$,14000000
+157,Star Wars,$ 11000000,$,11000000
+158,Damien: Omen II,$ 6800000,$,6800000
+159,Days of Heaven,$ 3000000,$,3000000
+160,The Deer Hunter,$ 15000000,$,15000000
+161,Every Which Way but Loose,$ 5000000,$,5000000
+162,Force 10 from Navarone,$ 5000000,$,5000000
+163,Grease,$ 6000000,$,6000000
+164,Halloween,$ 325000,$,325000
+165,Invasion of the Body Snatchers,$ 3500000,$,3500000
+166,Jaws 2,$ 20000000,$,20000000
+167,Midnight Express,$ 2300000,$,2300000
+168,National Lampoon's Animal House,$ 3000000,$,3000000
+169,Superman,$ 55000000,$,55000000
+170,Up in Smoke,$ 2000000,$,2000000
+171,Alien,$ 11000000,$,11000000
+172,The Amityville Horror,$ 4700000,$,4700000
+173,Apocalypse Now,$ 31500000,$,31500000
+174,The Black Hole,$ 20000000,$,20000000
+175,The Black Stallion,$ 2700000,$,2700000
+176,Dracula,$ 12164000,$,12164000
+177,Escape from Alcatraz,$ 8000000,$,8000000
+178,Hair,$ 11000000,$,11000000
+179,Kramer vs. Kramer,$ 8000000,$,8000000
+180,Life of Brian,$ 4000000,$,4000000
+181,Mad Max,$ 350000,$,350000
+182,Manhattan,$ 9000000,$,9000000
+183,Meatballs,CAD 1600000,CAD,1152000.0
+184,Moonraker,$ 34000000,$,34000000
+185,Phantasm,$ 300000,$,300000
+186,Rocky II,$ 7000000,$,7000000
+187,Rupan sansei: Kariosutoro no shiro,JPY 5000000000,JPY,46499999.99999999
+188,Star Trek: The Motion Picture,$ 35000000,$,35000000
+189,The Warriors,$ 4000000,$,4000000
+190,Airplane!,$ 3500000,$,3500000
+191,American Gigolo,$ 4800000,$,4800000
+192,Any Which Way You Can,$ 15000000,$,15000000
+193,"Atlantic City, USA",$ 7200000,$,7200000
+194,The Blue Lagoon,$ 4500000,$,4500000
+195,The Blues Brothers,$ 27000000,$,27000000
+196,Bronco Billy,$ 6500000,$,6500000
+197,Caddyshack,$ 6000000,$,6000000
+198,Cruising,$ 11000000,$,11000000
+199,Dressed to Kill,$ 6500000,$,6500000
+200,The Elephant Man,$ 5000000,$,5000000
+201,Star Wars: Episode V - The Empire Strikes Back,$ 18000000,$,18000000
+202,Flash Gordon,$ 20000000,$,20000000
+203,The Fog,$ 1000000,$,1000000
+204,Friday the 13th,$ 550000,$,550000
+205,Heaven's Gate,$ 44000000,$,44000000
+206,Ordinary People,$ 6000000,$,6000000
+207,Popeye,$ 20000000,$,20000000
+208,Raging Bull,$ 18000000,$,18000000
+209,Scanners,CAD 4100000,CAD,2952000.0
+210,The Shining,$ 19000000,$,19000000
+211,Somewhere in Time,$ 5100000,$,5100000
+212,Superman II,$ 54000000,$,54000000
+213,Time Bandits,$ 5000000,$,5000000
+214,Xanadu,$ 20000000,$,20000000
+215,An American Werewolf in London,$ 10000000,$,10000000
+216,Blow Out,$ 18000000,$,18000000
+217,Das Boot,DEM 32000000,DEM,55680.0
+218,Chariots of Fire,$ 5500000,$,5500000
+219,Clash of the Titans,$ 15000000,$,15000000
+220,Deadly Blessing,$ 2500000,$,2500000
+221,Escape from New York,$ 6000000,$,6000000
+222,Excalibur,$ 11000000,$,11000000
+223,The Final Conflict,$ 5000000,$,5000000
+224,For Your Eyes Only,$ 28000000,$,28000000
+225,The Fox and the Hound,$ 12000000,$,12000000
+226,Friday the 13th: Part 2,$ 1250000,$,1250000
+227,Gallipoli,AUD 2600000,AUD,1690000.0
+228,Halloween II,$ 2500000,$,2500000
+229,Heavy Metal,$ 9300000,$,9300000
+230,Mad Max 2,$ 2000000,$,2000000
+231,Outland,$ 16000000,$,16000000
+232,The Postman Always Rings Twice,$ 12000000,$,12000000
+233,Prince of the City,$ 8600000,$,8600000
+234,Raiders of the Lost Ark,$ 18000000,$,18000000
+235,Stripes,$ 10000000,$,10000000
+236,48 Hrs.,$ 12000000,$,12000000
+237,Airplane II: The Sequel,$ 15000000,$,15000000
+238,Annie,$ 50000000,$,50000000
+239,Blade Runner,$ 28000000,$,28000000
+240,Cat People,$ 18000000,$,18000000
+241,Creepshow,$ 8000000,$,8000000
+242,The Dark Crystal,$ 15000000,$,15000000
+243,E.T. the Extra-Terrestrial,$ 10500000,$,10500000
+244,The Evil Dead,$ 350000,$,350000
+245,Fanny och Alexander,$ 6000000,$,6000000
+246,Fast Times at Ridgemont High,$ 4500000,$,4500000
+247,Firefox,$ 18000000,$,18000000
+248,First Blood,$ 15000000,$,15000000
+249,Friday the 13th: Part III,$ 2300000,$,2300000
+250,Gandhi,$ 22000000,$,22000000
+251,Grease 2,$ 13200000,$,13200000
+252,Honkytonk Man,$ 2000000,$,2000000
+253,An Officer and a Gentleman,$ 7500000,$,7500000
+254,Pink Floyd: The Wall,$ 12000000,$,12000000
+255,Poltergeist,$ 20,$,20
+256,Porky's,$ 2500000,$,2500000
+257,Rocky III,$ 17000000,$,17000000
+258,The Secret of NIMH,$ 7000000,$,7000000
+259,Sophie's Choice,$ 12000000,$,12000000
+260,Star Trek II: The Wrath of Khan,$ 11200000,$,11200000
+261,The Thing,$ 15000000,$,15000000
+262,Tootsie,$ 21000000,$,21000000
+263,TRON,$ 17000000,$,17000000
+264,The World According to Garp,$ 17000000,$,17000000
+265,All the Right Moves,$ 5600000,$,5600000
+266,The Big Chill,$ 8000000,$,8000000
+267,Christine,$ 9700000,$,9700000
+268,A Christmas Story,$ 3300000,$,3300000
+269,The Dead Zone,$ 10000000,$,10000000
+270,Flashdance,$ 4000000,$,4000000
+271,Halloween III: Season of the Witch,$ 2500000,$,2500000
+272,Jaws 3-D,$ 20500000,$,20500000
+273,The King of Comedy,$ 20000000,$,20000000
+274,Krull,$ 47000000,$,47000000
+275,National Lampoon's Vacation,$ 15000000,$,15000000
+276,Never Say Never Again,$ 36000000,$,36000000
+277,Octopussy,$ 27500000,$,27500000
+278,The Outsiders,$ 10000000,$,10000000
+279,Private School,$ 3500000,$,3500000
+280,Psycho II,$ 5000000,$,5000000
+281,Star Wars: Episode VI - Return of the Jedi,$ 32500000,$,32500000
+282,The Right Stuff,$ 27000000,$,27000000
+283,Risky Business,$ 6200000,$,6200000
+284,Rumble Fish,$ 10000000,$,10000000
+285,Scarface,$ 25000000,$,25000000
+286,The Adventures of Bob & Doug McKenzie: Strange Brew,$ 4000000,$,4000000
+287,Sudden Impact,$ 22000000,$,22000000
+288,Superman III,$ 39000000,$,39000000
+289,Terms of Endearment,$ 8000000,$,8000000
+290,Trading Places,$ 15000000,$,15000000
+291,Twilight Zone: The Movie,$ 10000000,$,10000000
+292,Valley Girl,$ 350000,$,350000
+293,Videodrome,$ 5952000,$,5952000
+294,WarGames,$ 12000000,$,12000000
+295,2010: The Year We Make Contact,$ 28000000,$,28000000
+296,Amadeus,$ 18000000,$,18000000
+297,Beverly Hills Cop,$ 14000000,$,14000000
+298,Blood Simple,$ 1500000,$,1500000
+299,Body Double,$ 10000000,$,10000000
+300,Children of the Corn,$ 800000,$,800000
+301,The Cotton Club,$ 58000000,$,58000000
+302,Dune,$ 40000000,$,40000000
+303,Firestarter,$ 15000000,$,15000000
+304,Footloose,$ 8200000,$,8200000
+305,Friday the 13th: The Final Chapter,$ 2600000,$,2600000
+306,Ghostbusters,$ 30000000,$,30000000
+307,Godzilla 1985,$ 2000000,$,2000000
+308,Gremlins,$ 11000000,$,11000000
+309,Indiana Jones and the Temple of Doom,$ 28000000,$,28000000
+310,The Karate Kid,$ 8000000,$,8000000
+311,Kaze no tani no Naushika,$ 1000000,$,1000000
+312,The Natural,$ 28000000,$,28000000
+313,A Nightmare on Elm Street,$ 1800000,$,1800000
+314,Nineteen Eighty-Four,GBP 3000000,GBP,3780000.0
+315,"Paris, Texas",GBP 1162000,GBP,1464120.0
+316,The Philadelphia Experiment,$ 21000000,$,21000000
+317,Police Academy,$ 4500000,$,4500000
+318,Purple Rain,$ 7200000,$,7200000
+319,Red Dawn,$ 4200000,$,4200000
+320,Revenge of the Nerds,$ 8000000,$,8000000
+321,Romancing the Stone,$ 10000000,$,10000000
+322,"Silent Night, Deadly Night",$ 1065000,$,1065000
+323,Sixteen Candles,$ 6500000,$,6500000
+324,Splash,$ 8000000,$,8000000
+325,Star Trek III: The Search for Spock,$ 17000000,$,17000000
+326,Starman,$ 22000000,$,22000000
+327,Supergirl,$ 35000000,$,35000000
+328,The Terminator,$ 6400000,$,6400000
+329,This Is Spinal Tap,$ 2500000,$,2500000
+330,Top Secret!,$ 9000000,$,9000000
+331,The NeverEnding Story,$ 27000000,$,27000000
+332,After Hours,$ 4500000,$,4500000
+333,Back to the Future,$ 19000000,$,19000000
+334,The Black Cauldron,$ 44000000,$,44000000
+335,Brazil,$ 15000000,$,15000000
+336,The Breakfast Club,$ 1000000,$,1000000
+337,Brewster's Millions,$ 20000000,$,20000000
+338,Clue,$ 15000000,$,15000000
+339,Cocoon,$ 17500000,$,17500000
+340,The Color Purple,$ 15000000,$,15000000
+341,Commando,$ 10000000,$,10000000
+342,Crimewave,$ 3000000,$,3000000
+343,Day of the Dead,$ 3500000,$,3500000
+344,Death Wish 3,$ 9000000,$,9000000
+345,Desperately Seeking Susan,$ 4500000,$,4500000
+346,Enemy Mine,$ 40000000,$,40000000
+347,Explorers,$ 25000000,$,25000000
+348,Fletch,$ 8000000,$,8000000
+349,Friday the 13th: A New Beginning,$ 2200000,$,2200000
+350,Fright Night,$ 9000000,$,9000000
+351,The Goonies,$ 19000000,$,19000000
+352,Legend,$ 24500000,$,24500000
+353,Mad Max Beyond Thunderdome,$ 10000000,$,10000000
+354,Mishima: A Life in Four Chapters,$ 5000000,$,5000000
+355,National Lampoon's European Vacation,$ 17000000,$,17000000
+356,A Nightmare on Elm Street Part 2: Freddy's Revenge,$ 3000000,$,3000000
+357,Out of Africa,$ 31000000,$,31000000
+358,Pale Rider,$ 6900000,$,6900000
+359,Pee-wee's Big Adventure,$ 6000000,$,6000000
+360,Police Academy 2: Their First Assignment,$ 7600000,$,7600000
+361,The Purple Rose of Cairo,$ 15000000,$,15000000
+362,Rambo: First Blood Part II,$ 44000000,$,44000000
+363,Ran,$ 11500000,$,11500000
+364,Re-Animator,$ 900000,$,900000
+365,Real Genius,$ 8000000,$,8000000
+366,The Return of the Living Dead,$ 4000000,$,4000000
+367,Rocky IV,$ 30000000,$,30000000
+368,Spies Like Us,$ 22000000,$,22000000
+369,St. Elmo's Fire,$ 10000000,$,10000000
+370,A View to a Kill,$ 30000000,$,30000000
+371,Weird Science,$ 7500000,$,7500000
+372,Crocodile Dundee,$ 8800000,$,8800000
+373,Aliens,$ 18500000,$,18500000
+374,Back to School,$ 11000000,$,11000000
+375,Big Trouble in Little China,$ 25000000,$,25000000
+376,Blue Velvet,$ 6000000,$,6000000
+377,Cobra,$ 25000000,$,25000000
+378,Critters,$ 2000000,$,2000000
+379,The Delta Force,$ 12000000,$,12000000
+380,Down by Law,$ 1100000,$,1100000
+381,Ferris Bueller's Day Off,$ 6000000,$,6000000
+382,The Fly,$ 15000000,$,15000000
+383,Friday the 13th Part VI: Jason Lives,$ 3000000,$,3000000
+384,The Golden Child,$ 25000000,$,25000000
+385,The Great Mouse Detective,$ 14000000,$,14000000
+386,Hannah and Her Sisters,$ 6400000,$,6400000
+387,Heartbreak Ridge,$ 15000000,$,15000000
+388,Highlander,$ 16000000,$,16000000
+389,The Hitcher,$ 6000000,$,6000000
+390,House,$ 3000000,$,3000000
+391,Howard the Duck,$ 37000000,$,37000000
+392,Labyrinth,$ 25000000,$,25000000
+393,Little Shop of Horrors,$ 25000000,$,25000000
+394,Manhunter,$ 15000000,$,15000000
+395,Maximum Overdrive,$ 10000000,$,10000000
+396,The Mission,$ 24500000,$,24500000
+397,The Money Pit,$ 10000000,$,10000000
+398,The Mosquito Coast,$ 25000000,$,25000000
+399,My Beautiful Laundrette,GBP 650000,GBP,819000.0
+400,Night of the Creeps,$ 5000000,$,5000000
+401,Peggy Sue Got Married,$ 18000000,$,18000000
+402,Platoon,$ 6000000,$,6000000
+403,Poltergeist II: The Other Side,$ 19000000,$,19000000
+404,Pretty in Pink,$ 9000000,$,9000000
+405,River's Edge,$ 1900000,$,1900000
+406,A Room with a View,$ 3000000,$,3000000
+407,She's Gotta Have It,$ 175000,$,175000
+408,Short Circuit,$ 9000000,$,9000000
+409,Sid and Nancy,$ 4000000,$,4000000
+410,Stand by Me,$ 8000000,$,8000000
+411,Star Trek IV: The Voyage Home,$ 25000000,$,25000000
+412,The Texas Chainsaw Massacre 2,$ 4700000,$,4700000
+413,¡Three Amigos!,$ 25000000,$,25000000
+414,Top Gun,$ 15000000,$,15000000
+415,The Wraith,$ 2700000,$,2700000
+416,Adventures in Babysitting,$ 7000000,$,7000000
+417,Angel Heart,$ 17000000,$,17000000
+418,Beverly Hills Cop II,$ 28000000,$,28000000
+419,Bloodsport,$ 1100000,$,1100000
+420,Cry Freedom,$ 29000000,$,29000000
+421,Dirty Dancing,$ 6000000,$,6000000
+422,Dragnet,$ 20000000,$,20000000
+423,Empire of the Sun,$ 35000000,$,35000000
+424,Evil Dead II,$ 3600000,$,3600000
+425,Fatal Attraction,$ 14000000,$,14000000
+426,Full Metal Jacket,$ 30000000,$,30000000
+427,"Good Morning, Vietnam",$ 13000000,$,13000000
+428,Harry and the Hendersons,$ 10000000,$,10000000
+429,Hellraiser,$ 1000000,$,1000000
+430,Innerspace,$ 27000000,$,27000000
+431,Jaws: The Revenge,$ 23000000,$,23000000
+432,The Last Emperor,GBP 23000000,GBP,28980000.0
+433,Lethal Weapon,$ 15000000,$,15000000
+434,The Living Daylights,$ 40000000,$,40000000
+435,Mannequin,$ 6000000,$,6000000
+436,Masters of the Universe,$ 22000000,$,22000000
+437,Maurice,GBP 1577000,GBP,1987020.0
+438,Moonstruck,$ 15000000,$,15000000
+439,A Nightmare on Elm Street 3: Dream Warriors,$ 4500000,$,4500000
+440,"Planes, Trains & Automobiles",$ 30000000,$,30000000
+441,Predator,$ 15000000,$,15000000
+442,Prince of Darkness,$ 3000000,$,3000000
+443,The Princess Bride,$ 16000000,$,16000000
+444,Raising Arizona,$ 6000000,$,6000000
+445,RoboCop,$ 13000000,$,13000000
+446,Roxanne,$ 12000000,$,12000000
+447,The Running Man,$ 27000000,$,27000000
+448,Spaceballs,$ 22700000,$,22700000
+449,Superman IV: The Quest for Peace,$ 17000000,$,17000000
+450,Teen Wolf Too,$ 3000000,$,3000000
+451,The Untouchables,$ 25000000,$,25000000
+452,Wall Street,$ 15000000,$,15000000
+453,The Witches of Eastwick,$ 22000000,$,22000000
+454,Above the Law,$ 7500000,$,7500000
+455,The Accused,$ 6000000,$,6000000
+456,Beetlejuice,$ 15000000,$,15000000
+457,Big,$ 18000000,$,18000000
+458,Bull Durham,$ 7000000,$,7000000
+459,Child's Play,$ 9000000,$,9000000
+460,Cocktail,$ 20000000,$,20000000
+461,Coming to America,$ 39000000,$,39000000
+462,Critters 2,$ 4500000,$,4500000
+463,Dangerous Liaisons,$ 14000000,$,14000000
+464,The Dead Pool,$ 31000000,$,31000000
+465,Dead Ringers,$ 13000000,$,13000000
+466,Die Hard,$ 28000000,$,28000000
+467,A Fish Called Wanda,$ 7500000,$,7500000
+468,Frantic,$ 20000000,$,20000000
+469,Funny Farm,$ 19000000,$,19000000
+470,Le grand bleu,FRF 80000000,FRF,13600000.000000002
+471,The Great Outdoors,$ 24000000,$,24000000
+472,Hairspray,$ 2000000,$,2000000
+473,Halloween 4: The Return of Michael Myers,$ 5000000,$,5000000
+474,I'm Gonna Git You Sucka,$ 3000000,$,3000000
+475,The Land Before Time,$ 12500000,$,12500000
+476,The Last Temptation of Christ,$ 7000000,$,7000000
+477,License to Drive,$ 8000000,$,8000000
+478,Maniac Cop,$ 1100000,$,1100000
+479,Mississippi Burning,$ 15000000,$,15000000
+480,Monkey Shines,$ 7000000,$,7000000
+481,The Naked Gun: From the Files of Police Squad!,$ 12000000,$,12000000
+482,A Nightmare on Elm Street 4: The Dream Master,$ 13000000,$,13000000
+483,Nuovo Cinema Paradiso,$ 5000000,$,5000000
+484,Oliver & Company,$ 31000000,$,31000000
+485,Phantasm II,$ 3000000,$,3000000
+486,Rain Man,$ 25000000,$,25000000
+487,Rambo III,$ 63000000,$,63000000
+488,Red Heat,$ 29000000,$,29000000
+489,Return of the Living Dead: Part II,$ 6200000,$,6200000
+490,Running on Empty,$ 7000000,$,7000000
+491,They Live,$ 4000000,$,4000000
+492,Tonari no Totoro,$ 3700000,$,3700000
+493,Twins,$ 15000000,$,15000000
+494,The Unbearable Lightness of Being,$ 17000000,$,17000000
+495,Who Framed Roger Rabbit,$ 70000000,$,70000000
+496,Willow,$ 35000000,$,35000000
+497,Working Girl,$ 28000000,$,28000000
+498,The 'Burbs,$ 18000000,$,18000000
+499,The Abyss,$ 70000000,$,70000000
+500,The Adventures of Baron Munchausen,$ 46630000,$,46630000
+501,All Dogs Go to Heaven,$ 13800000,$,13800000
+502,Always,$ 31000000,$,31000000
+503,Back to the Future Part II,$ 40000000,$,40000000
+504,Batman,$ 35000000,$,35000000
+505,Bill & Ted's Excellent Adventure,$ 10000000,$,10000000
+506,Born on the Fourth of July,$ 14000000,$,14000000
+507,Casualties of War,$ 22500000,$,22500000
+508,Crimes and Misdemeanors,$ 19000000,$,19000000
+509,Dead Poets Society,$ 16400000,$,16400000
+510,Do the Right Thing,$ 6500000,$,6500000
+511,Driving Miss Daisy,$ 7500000,$,7500000
+512,Drugstore Cowboy,$ 2500000,$,2500000
+513,Friday the 13th Part VIII: Jason Takes Manhattan,$ 5000000,$,5000000
+514,Ghostbusters II,$ 37000000,$,37000000
+515,Glory,$ 18000000,$,18000000
+516,Halloween 5: The Revenge of Michael Myers,$ 5000000,$,5000000
+517,Harlem Nights,$ 30000000,$,30000000
+518,Heathers,$ 3000000,$,3000000
+519,Henry V,$ 9000000,$,9000000
+520,"Honey, I Shrunk the Kids",$ 18000000,$,18000000
+521,Indiana Jones and the Last Crusade,$ 48000000,$,48000000
+522,K-9,$ 17000000,$,17000000
+523,Kickboxer,$ 1500000,$,1500000
+524,Lethal Weapon 2,$ 28000000,$,28000000
+525,Licence to Kill,$ 32000000,$,32000000
+526,The Little Mermaid,$ 40000000,$,40000000
+527,Lock Up,$ 24000000,$,24000000
+528,Look Who's Talking,$ 7500000,$,7500000
+529,Majo no takkyûbin,JPY 800000000,JPY,7439999.999999999
+530,Major League,$ 11000000,$,11000000
+531,My Left Foot: The Story of Christy Brown,GBP 600000,GBP,756000.0
+532,National Lampoon's Christmas Vacation,$ 27000000,$,27000000
+533,A Nightmare on Elm Street: The Dream Child,$ 6000000,$,6000000
+534,Parenthood,$ 20000000,$,20000000
+535,Pet Sematary,$ 11500000,$,11500000
+536,Police Academy 6: City Under Siege,$ 12000000,$,12000000
+537,Road House,$ 17000000,$,17000000
+538,"See No Evil, Hear No Evil",$ 18000000,$,18000000
+539,Star Trek V: The Final Frontier,$ 27800000,$,27800000
+540,Steel Magnolias,$ 15000000,$,15000000
+541,Tango & Cash,$ 55000000,$,55000000
+542,Turner & Hooch,$ 13000000,$,13000000
+543,Uncle Buck,$ 15000000,$,15000000
+544,Vampire's Kiss,$ 2000000,$,2000000
+545,The War of the Roses,$ 26000000,$,26000000
+546,When Harry Met Sally...,$ 16000000,$,16000000
+547,"Sex, Lies, and Videotape",$ 1200000,$,1200000
+548,Another 48 Hrs.,$ 38000000,$,38000000
+549,Arachnophobia,$ 22000000,$,22000000
+550,Awakenings,$ 31000000,$,31000000
+551,Back to the Future Part III,$ 40000000,$,40000000
+552,The Bonfire of the Vanities,$ 47000000,$,47000000
+553,Child's Play 2,$ 13000000,$,13000000
+554,Cry-Baby,$ 11000000,$,11000000
+555,Dances with Wolves,$ 22000000,$,22000000
+556,Darkman,$ 16000000,$,16000000
+557,Die Hard 2,$ 70000000,$,70000000
+558,Edward Scissorhands,$ 20000000,$,20000000
+559,Flatliners,$ 26000000,$,26000000
+560,Ghost,$ 22000000,$,22000000
+561,The Godfather: Part III,$ 54000000,$,54000000
+562,Goodfellas,$ 25000000,$,25000000
+563,Graveyard Shift,$ 10500000,$,10500000
+564,Hard to Kill,$ 10000000,$,10000000
+565,Henry: Portrait of a Serial Killer,$ 111000,$,111000
+566,Home Alone,$ 18000000,$,18000000
+567,The Hot Spot,$ 13000000,$,13000000
+568,House Party,$ 2500000,$,2500000
+569,Jacob's Ladder,$ 25000000,$,25000000
+570,Joe Versus the Volcano,$ 25000000,$,25000000
+571,Kindergarten Cop,$ 15000000,$,15000000
+572,Leatherface: Texas Chainsaw Massacre III,$ 2000000,$,2000000
+573,Lionheart,$ 6000000,$,6000000
+574,Marked for Death,$ 12000000,$,12000000
+575,Metropolitan,$ 230000,$,230000
+576,Miller's Crossing,$ 14000000,$,14000000
+577,Misery,$ 20000000,$,20000000
+578,Mo' Better Blues,$ 10000000,$,10000000
+579,Night of the Living Dead,$ 4200000,$,4200000
+580,Nikita,FRF 50000000,FRF,8500000.0
+581,Predator 2,$ 35000000,$,35000000
+582,Presumed Innocent,$ 22000000,$,22000000
+583,Pretty Woman,$ 14000000,$,14000000
+584,The Rescuers Down Under,$ 30000000,$,30000000
+585,RoboCop 2,$ 35000000,$,35000000
+586,Rocky V,$ 42000000,$,42000000
+587,Teenage Mutant Ninja Turtles,$ 13500000,$,13500000
+588,Total Recall,$ 65000000,$,65000000
+589,Tremors,$ 11000000,$,11000000
+590,Wild at Heart,$ 9500000,$,9500000
+591,The Addams Family,$ 30000000,$,30000000
+592,Barton Fink,$ 9000000,$,9000000
+593,Beauty and the Beast,$ 25000000,$,25000000
+594,Bill & Ted's Bogus Journey,$ 20000000,$,20000000
+595,Boyz n the Hood,$ 6500000,$,6500000
+596,Cape Fear,$ 35000000,$,35000000
+597,Delicatessen,FRF 24000000,FRF,4080000.0000000005
+598,The Doors,$ 38000000,$,38000000
+599,Drop Dead Fred,$ 6788000,$,6788000
+600,The Fisher King,$ 24000000,$,24000000
+601,Frankie and Johnny,$ 29000000,$,29000000
+602,Freddy's Dead: The Final Nightmare,$ 11000000,$,11000000
+603,Fried Green Tomatoes,$ 11000000,$,11000000
+604,Highlander II: The Quickening,$ 30000000,$,30000000
+605,Hook,$ 70000000,$,70000000
+606,Hot Shots!,$ 26000000,$,26000000
+607,JFK,$ 40000000,$,40000000
+608,The Last Boy Scout,$ 29000000,$,29000000
+609,My Girl,$ 17000000,$,17000000
+610,The Naked Gun 2½: The Smell of Fear,$ 23000000,$,23000000
+611,New Jack City,$ 8000000,$,8000000
+612,Night on Earth,$ 3500000,$,3500000
+613,Out for Justice,$ 14000000,$,14000000
+614,Point Break,$ 24000000,$,24000000
+615,Robin Hood: Prince of Thieves,$ 48000000,$,48000000
+616,The Rocketeer,$ 35000000,$,35000000
+617,The Silence of the Lambs,$ 19000000,$,19000000
+618,Slacker,$ 23000,$,23000
+619,Sleeping with the Enemy,$ 19000000,$,19000000
+620,Star Trek VI: The Undiscovered Country,$ 30000000,$,30000000
+621,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,$ 25000000,$,25000000
+622,Terminator 2: Judgment Day,$ 102000000,$,102000000
+623,Thelma & Louise,$ 16500000,$,16500000
+624,What About Bob?,$ 35000000,$,35000000
+625,White Fang,$ 14000000,$,14000000
+626,1492: Conquest of Paradise,$ 47000000,$,47000000
+627,Aladdin,$ 28000000,$,28000000
+628,Alien³,$ 50000000,$,50000000
+629,Bad Lieutenant,$ 1000000,$,1000000
+630,Basic Instinct,$ 49000000,$,49000000
+631,Batman Returns,$ 80000000,$,80000000
+632,The Bodyguard,$ 25000000,$,25000000
+633,Braindead,$ 3000000,$,3000000
+634,Dracula,$ 40000000,$,40000000
+635,Buffy the Vampire Slayer,$ 7000000,$,7000000
+636,Chaplin,$ 31000000,$,31000000
+637,Child's Play 3,$ 13000000,$,13000000
+638,Cool World,$ 30000000,$,30000000
+639,The Crying Game,GBP 2300000,GBP,2898000.0
+640,Death Becomes Her,$ 55000000,$,55000000
+641,The Distinguished Gentleman,$ 50000000,$,50000000
+642,Far and Away,$ 60000000,$,60000000
+643,FernGully: The Last Rainforest,$ 24000000,$,24000000
+644,A Few Good Men,$ 41000000,$,41000000
+645,Glengarry Glen Ross,$ 12500000,$,12500000
+646,The Hand That Rocks the Cradle,$ 11700000,$,11700000
+647,Hoffa,$ 35000000,$,35000000
+648,"Honey, I Blew Up the Kid",$ 40000000,$,40000000
+649,Juice,$ 5000000,$,5000000
+650,The Last of the Mohicans,$ 40000000,$,40000000
+651,A League of Their Own,$ 40000000,$,40000000
+652,Lethal Weapon 3,$ 35000000,$,35000000
+653,Lorenzo's Oil,$ 30000000,$,30000000
+654,Malcolm X,$ 33000000,$,33000000
+655,El mariachi,$ 7000,$,7000
+656,The Mighty Ducks,$ 10000000,$,10000000
+657,The Muppet Christmas Carol,$ 12000000,$,12000000
+658,My Cousin Vinny,$ 11000000,$,11000000
+659,Newsies,$ 15000000,$,15000000
+660,Pet Sematary II,$ 8000000,$,8000000
+661,Reservoir Dogs,$ 1200000,$,1200000
+662,Scent of a Woman,$ 31000000,$,31000000
+663,School Ties,$ 18000000,$,18000000
+664,Seong lung wui,$ 10000000,$,10000000
+665,Single White Female,$ 16000000,$,16000000
+666,Sister Act,$ 31000000,$,31000000
+667,Sleepwalkers,$ 15000000,$,15000000
+668,Toys,$ 43000000,$,43000000
+669,Twin Peaks: Fire Walk with Me,$ 10000000,$,10000000
+670,Under Siege,$ 35000000,$,35000000
+671,Unforgiven,$ 14400000,$,14400000
+672,Wayne's World,$ 20000000,$,20000000
+673,Addams Family Values,$ 47000000,$,47000000
+674,The Age of Innocence,$ 34000000,$,34000000
+675,Army of Darkness,$ 11000000,$,11000000
+676,Body Snatchers,$ 13000000,$,13000000
+677,A Bronx Tale,$ 22000000,$,22000000
+678,Carlito's Way,$ 30000000,$,30000000
+679,Children of the Corn II: The Final Sacrifice,$ 900000,$,900000
+680,Cliffhanger,$ 70000000,$,70000000
+681,Cool Runnings,$ 14000000,$,14000000
+682,Dazed and Confused,$ 6900000,$,6900000
+683,Demolition Man,$ 57000000,$,57000000
+684,Falling Down,$ 25000000,$,25000000
+685,The Firm,$ 42000000,$,42000000
+686,Free Willy,$ 20000000,$,20000000
+687,The Fugitive,$ 44000000,$,44000000
+688,Groundhog Day,$ 14600000,$,14600000
+689,In the Line of Fire,$ 40000000,$,40000000
+690,In the Name of the Father,$ 13000000,$,13000000
+691,Indecent Proposal,$ 38000000,$,38000000
+692,Jason Goes to Hell: The Final Friday,$ 3000000,$,3000000
+693,Jurassic Park,$ 63000000,$,63000000
+694,Kalifornia,$ 9000000,$,9000000
+695,Last Action Hero,$ 85000000,$,85000000
+696,Menace II Society,$ 3500000,$,3500000
+697,Mrs. Doubtfire,$ 25000000,$,25000000
+698,The Nightmare Before Christmas,$ 18000000,$,18000000
+699,The Pelican Brief,$ 45000000,$,45000000
+700,A Perfect World,$ 30000000,$,30000000
+701,Philadelphia,$ 26000000,$,26000000
+702,The Piano,$ 7000000,$,7000000
+703,The Remains of the Day,$ 15000000,$,15000000
+704,Robin Hood: Men in Tights,$ 20000000,$,20000000
+705,RoboCop 3,$ 22000000,$,22000000
+706,Rookie of the Year,$ 10000000,$,10000000
+707,Schindler's List,$ 22000000,$,22000000
+708,Searching for Bobby Fischer,$ 12000000,$,12000000
+709,The Secret Garden,$ 18000000,$,18000000
+710,Sister Act 2: Back in the Habit,$ 38000000,$,38000000
+711,Sleepless in Seattle,$ 21000000,$,21000000
+712,Teenage Mutant Ninja Turtles III,$ 21000000,$,21000000
+713,Tombstone,$ 25000000,$,25000000
+714,True Romance,$ 13000000,$,13000000
+715,Wayne's World 2,$ 40000000,$,40000000
+716,What's Eating Gilbert Grape,$ 11000000,$,11000000
+717,Ace Ventura: Pet Detective,$ 15000000,$,15000000
+718,Angels in the Outfield,$ 24000000,$,24000000
+719,Beverly Hills Cop III,$ 50000000,$,50000000
+720,Clerks,$ 27000,$,27000
+721,The Client,$ 45000000,$,45000000
+722,The Crow,$ 23000000,$,23000000
+723,Dumb and Dumber,$ 17000000,$,17000000
+724,Ed Wood,$ 18000000,$,18000000
+725,The Flintstones,$ 46000000,$,46000000
+726,Forrest Gump,$ 55000000,$,55000000
+727,Four Weddings and a Funeral,$ 4400000,$,4400000
+728,Fresh,$ 3500000,$,3500000
+729,The Hudsucker Proxy,$ 40000000,$,40000000
+730,Interview with the Vampire: The Vampire Chronicles,$ 60000000,$,60000000
+731,It Could Happen to You,$ 20000000,$,20000000
+732,The Jungle Book,$ 27000000,$,27000000
+733,Junior,$ 60000000,$,60000000
+734,Legends of the Fall,$ 30000000,$,30000000
+735,The Lion King,$ 45000000,$,45000000
+736,The Little Rascals,$ 23000000,$,23000000
+737,Little Women,$ 18000000,$,18000000
+738,Léon,FRF 115000000,FRF,19550000.0
+739,The Mask,$ 23000000,$,23000000
+740,Maverick,$ 75000000,$,75000000
+741,Naked Gun 33 1/3: The Final Insult,$ 30000000,$,30000000
+742,Natural Born Killers,$ 34000000,$,34000000
+743,The Next Karate Kid,$ 12000000,$,12000000
+744,On Deadly Ground,$ 50000000,$,50000000
+745,Il postino,$ 3000000,$,3000000
+746,Pulp Fiction,$ 8000000,$,8000000
+747,Quiz Show,$ 31000000,$,31000000
+748,Reality Bites,$ 11500000,$,11500000
+749,Ri¢hie Ri¢h,$ 40000000,$,40000000
+750,The Santa Clause,$ 22000000,$,22000000
+751,Serial Mom,$ 13000000,$,13000000
+752,Shallow Grave,$ 2500000,$,2500000
+753,The Shawshank Redemption,$ 25000000,$,25000000
+754,Speed,$ 30000000,$,30000000
+755,Star Trek: Generations,$ 35000000,$,35000000
+756,Stargate,$ 55000000,$,55000000
+757,Timecop,$ 27000000,$,27000000
+758,True Lies,$ 115000000,$,115000000
+759,Jui kuen II,$ 10000000,$,10000000
+760,Wes Craven's New Nightmare,$ 8000000,$,8000000
+761,Ace Ventura: When Nature Calls,$ 30000000,$,30000000
+762,Apollo 13,$ 52000000,$,52000000
+763,Babe,$ 30000000,$,30000000
+764,Bad Boys,$ 19000000,$,19000000
+765,Batman Forever,$ 100000000,$,100000000
+766,Before Sunrise,$ 2500000,$,2500000
+767,Billy Madison,$ 10000000,$,10000000
+768,Boys on the Side,$ 21000000,$,21000000
+769,Braveheart,$ 72000000,$,72000000
+770,The Bridges of Madison County,$ 24000000,$,24000000
+771,Casino,$ 52000000,$,52000000
+772,Casper,$ 50000000,$,50000000
+773,La cité des enfants perdus,$ 18000000,$,18000000
+774,Clockers,$ 25000000,$,25000000
+775,Clueless,$ 12000000,$,12000000
+776,Copycat,$ 20000000,$,20000000
+777,Dangerous Minds,$ 23000000,$,23000000
+778,Dead Man,$ 9000000,$,9000000
+779,Dead Man Walking,$ 11000000,$,11000000
+780,Desperado,$ 7000000,$,7000000
+781,Die Hard: With a Vengeance,$ 90000000,$,90000000
+782,Don Juan DeMarco,$ 25000000,$,25000000
+783,Friday,$ 3500000,$,3500000
+784,GoldenEye,$ 60000000,$,60000000
+785,Hackers,$ 20000000,$,20000000
+786,Heat,$ 60000000,$,60000000
+787,Home for the Holidays,$ 20000000,$,20000000
+788,Hung fan kui,$ 7500000,$,7500000
+789,The Indian in the Cupboard,$ 45000000,$,45000000
+790,Jumanji,$ 65000000,$,65000000
+791,Kids,$ 1500000,$,1500000
+792,Kôkaku Kidôtai,JPY 600000000,JPY,5580000.0
+793,Leaving Las Vegas,$ 3600000,$,3600000
+794,A Little Princess,$ 17000000,$,17000000
+795,Mallrats,$ 6000000,$,6000000
+796,Mighty Aphrodite,$ 15000000,$,15000000
+797,Mighty Morphin Power Rangers: The Movie,$ 15000000,$,15000000
+798,Mortal Kombat,$ 18000000,$,18000000
+799,The Net,$ 22000000,$,22000000
+800,Nixon,$ 44000000,$,44000000
+801,Outbreak,$ 50000000,$,50000000
+802,Pocahontas,$ 55000000,$,55000000
+803,The Quick and the Dead,$ 32000000,$,32000000
+804,Se7en,$ 33000000,$,33000000
+805,Sense and Sensibility,$ 16000000,$,16000000
+806,Smoke,$ 7000000,$,7000000
+807,Strange Days,$ 42000000,$,42000000
+808,Tales from the Crypt: Demon Knight,$ 13000000,$,13000000
+809,Tank Girl,$ 25000000,$,25000000
+810,To Die For,$ 20000000,$,20000000
+811,Total Eclipse,$ 8000000,$,8000000
+812,Toy Story,$ 30000000,$,30000000
+813,Twelve Monkeys,$ 29000001,$,29000001
+814,Under Siege 2: Dark Territory,$ 60000000,$,60000000
+815,The Usual Suspects,$ 6000000,$,6000000
+816,A Walk in the Clouds,$ 20000000,$,20000000
+817,Waterworld,$ 175000000,$,175000000
+818,Welcome to the Dollhouse,$ 800000,$,800000
+819,While You Were Sleeping,$ 17000000,$,17000000
+820,101 Dalmatians,$ 75000000,$,75000000
+821,The Arrival,$ 25000000,$,25000000
+822,Beavis and Butt-Head Do America,$ 12000000,$,12000000
+823,The Birdcage,$ 31000000,$,31000000
+824,Bottle Rocket,$ 7000000,$,7000000
+825,Bound,$ 4500000,$,4500000
+826,Bulletproof,$ 25000000,$,25000000
+827,The Cable Guy,$ 47000000,$,47000000
+828,Courage Under Fire,$ 46000000,$,46000000
+829,Crash,$ 9000000,$,9000000
+830,Ed,$ 24000000,$,24000000
+831,The English Patient,$ 27000000,$,27000000
+832,Escape from L.A.,$ 50000000,$,50000000
+833,Evita,$ 55000000,$,55000000
+834,Executive Decision,$ 55000000,$,55000000
+835,The Fan,$ 55000000,$,55000000
+836,Fargo,$ 7000000,$,7000000
+837,The First Wives Club,$ 26000000,$,26000000
+838,Flirting with Disaster,$ 7000000,$,7000000
+839,The Frighteners,$ 30000000,$,30000000
+840,From Dusk Till Dawn,$ 19000000,$,19000000
+841,Happy Gilmore,$ 12000000,$,12000000
+842,Hellraiser: Bloodline,$ 4000000,$,4000000
+843,The Hunchback of Notre Dame,$ 100000000,$,100000000
+844,Independence Day,$ 75000000,$,75000000
+845,Jack,$ 45000000,$,45000000
+846,James and the Giant Peach,$ 38000000,$,38000000
+847,Jerry Maguire,$ 50000000,$,50000000
+848,Jingle All the Way,$ 60000000,$,60000000
+849,Lone Star,$ 5000000,$,5000000
+850,Lost Highway,$ 15000000,$,15000000
+851,Mars Attacks!,$ 70000000,$,70000000
+852,Marvin's Room,$ 23000000,$,23000000
+853,Matilda,$ 36000000,$,36000000
+854,Michael Collins,$ 25000000,$,25000000
+855,Mission: Impossible,$ 80000000,$,80000000
+856,The Nutty Professor,$ 54000000,$,54000000
+857,The People vs. Larry Flynt,$ 36000000,$,36000000
+858,Phenomenon,$ 32000000,$,32000000
+859,Primal Fear,$ 30000000,$,30000000
+860,Pusher,DKK 6000000,DKK,900000.0
+861,Ransom,$ 80000000,$,80000000
+862,The Rock,$ 75000000,$,75000000
+863,Romeo + Juliet,$ 14500000,$,14500000
+864,Scream,$ 14000000,$,14000000
+865,Secrets & Lies,$ 4500000,$,4500000
+866,Shine,$ 5500000,$,5500000
+867,Sleepers,$ 44000000,$,44000000
+868,Sling Blade,$ 1000000,$,1000000
+869,Space Jam,$ 80000000,$,80000000
+870,Star Trek: First Contact,$ 45000000,$,45000000
+871,Stealing Beauty,$ 10000000,$,10000000
+872,Swingers,$ 200000,$,200000
+873,Bordello of Blood,$ 13000000,$,13000000
+874,That Thing You Do!,$ 26000000,$,26000000
+875,A Time to Kill,$ 40000000,$,40000000
+876,Tin Cup,$ 45000000,$,45000000
+877,Trainspotting,$ 3500000,$,3500000
+878,Twister,$ 92000000,$,92000000
+879,8 Heads in a Duffel Bag,$ 3000000,$,3000000
+880,Absolute Power,$ 50000000,$,50000000
+881,Air Force One,$ 85000000,$,85000000
+882,Alien Resurrection,$ 75000000,$,75000000
+883,Amistad,$ 36000000,$,36000000
+884,Anaconda,$ 45000000,$,45000000
+885,Anastasia,$ 50000000,$,50000000
+886,Apt Pupil,$ 14000000,$,14000000
+887,Austin Powers: International Man of Mystery,$ 16500000,$,16500000
+888,Baby Geniuses,$ 12000000,$,12000000
+889,Batman & Robin,$ 125000000,$,125000000
+890,Bean,$ 18000000,$,18000000
+891,The Big Lebowski,$ 15000000,$,15000000
+892,Boogie Nights,$ 15000000,$,15000000
+893,Buffalo '66,$ 1500000,$,1500000
+894,La vita è bella,$ 20000000,$,20000000
+895,Chasing Amy,$ 250000,$,250000
+896,Chun gwong cha sit,$ 4200000,$,4200000
+897,Con Air,$ 75000000,$,75000000
+898,Conspiracy Theory,$ 75000000,$,75000000
+899,Contact,$ 90000000,$,90000000
+900,Dante's Peak,$ 116000000,$,116000000
+901,Dark City,$ 27000000,$,27000000
+902,Deconstructing Harry,$ 20000000,$,20000000
+903,The Devil's Advocate,$ 57000000,$,57000000
+904,The Devil's Own,$ 90000000,$,90000000
+905,Doctor Dolittle,$ 71500000,$,71500000
+906,Donnie Brasco,$ 35000000,$,35000000
+907,Le dîner de cons,FRF 82000000,FRF,13940000.000000002
+908,Event Horizon,$ 60000000,$,60000000
+909,Face/Off,$ 80000000,$,80000000
+910,The Fifth Element,$ 93000000,$,93000000
+911,Fire Down Below,$ 60000000,$,60000000
+912,Flubber,$ 80000000,$,80000000
+913,Fools Rush In,$ 20000000,$,20000000
+914,The Full Monty,$ 3500000,$,3500000
+915,G.I. Jane,$ 50000000,$,50000000
+916,The Game,$ 50000000,$,50000000
+917,Gattaca,$ 36000000,$,36000000
+918,George of the Jungle,$ 55000000,$,55000000
+919,Good Burger,$ 9000000,$,9000000
+920,Good Will Hunting,$ 10000000,$,10000000
+921,Great Expectations,$ 25000000,$,25000000
+922,Grosse Pointe Blank,$ 15000000,$,15000000
+923,Gummo,$ 1300000,$,1300000
+924,Sydney,$ 3000000,$,3000000
+925,Hercules,$ 85000000,$,85000000
+926,I Know What You Did Last Summer,$ 17000000,$,17000000
+927,The Jackal,$ 60000000,$,60000000
+928,Jackie Brown,$ 12000000,$,12000000
+929,Kiss the Girls,$ 27000000,$,27000000
+930,Kundun,$ 28000000,$,28000000
+931,L.A. Confidential,$ 35000000,$,35000000
+932,Liar Liar,$ 45000000,$,45000000
+933,A Life Less Ordinary,$ 12000000,$,12000000
+934,Lolita,$ 62000000,$,62000000
+935,The Lost World: Jurassic Park,$ 73000000,$,73000000
+936,Meet Joe Black,$ 90000000,$,90000000
+937,Men in Black,$ 90000000,$,90000000
+938,Mimic,$ 30000000,$,30000000
+939,Mononoke-hime,JPY 2400000000,JPY,22320000.0
+940,Mortal Kombat: Annihilation,$ 30000000,$,30000000
+941,Mousehunt,$ 38000000,$,38000000
+942,My Best Friend's Wedding,$ 38000000,$,38000000
+943,The Night Flier,$ 1000000,$,1000000
+944,As Good as It Gets,$ 50000000,$,50000000
+945,The Postman,$ 80000000,$,80000000
+946,The Relic,$ 40000000,$,40000000
+947,The Saint,$ 68000000,$,68000000
+948,Scream 2,$ 24000000,$,24000000
+949,Selena,$ 20000000,$,20000000
+950,Seven Years in Tibet,$ 70000000,$,70000000
+951,Sliding Doors,$ 6000000,$,6000000
+952,Soul Food,$ 7500000,$,7500000
+953,Spawn,$ 40000000,$,40000000
+954,Speed 2: Cruise Control,$ 160000000,$,160000000
+955,Three Kings,$ 75000000,$,75000000
+956,Starship Troopers,$ 105000000,$,105000000
+957,Titanic,$ 200000000,$,200000000
+958,Tomorrow Never Dies,$ 110000000,$,110000000
+959,Toy Story 2,$ 90000000,$,90000000
+960,The Truman Show,$ 60000000,$,60000000
+961,Turbo: A Power Rangers Movie,$ 8000000,$,8000000
+962,U Turn,$ 19000000,$,19000000
+963,Vegas Vacation,$ 25000000,$,25000000
+964,Volcano,$ 90000000,$,90000000
+965,The Waterboy,$ 23000000,$,23000000
+966,Celebrity,$ 12000000,$,12000000
+967,American History X,$ 20000000,$,20000000
+968,Antz,$ 105000000,$,105000000
+969,Armageddon,$ 140000000,$,140000000
+970,Babe: Pig in the City,$ 90000000,$,90000000
+971,Barney's Great Adventure,$ 15000000,$,15000000
+972,Being John Malkovich,$ 13000000,$,13000000
+973,Blade,$ 45000000,$,45000000
+974,The Mummy,$ 80000000,$,80000000
+975,A Bug's Life,$ 120000000,$,120000000
+976,Chicken Run,$ 45000000,$,45000000
+977,EverAfter,$ 26000000,$,26000000
+978,City of Angels,$ 55000000,$,55000000
+979,Deep Impact,$ 75000000,$,75000000
+980,Dogma,$ 10000000,$,10000000
+981,Enemy of the State,$ 90000000,$,90000000
+982,Eyes Wide Shut,$ 65000000,$,65000000
+983,Fantastic Four,$ 100000000,$,100000000
+984,Fear and Loathing in Las Vegas,$ 18500000,$,18500000
+985,Frida,$ 12000000,$,12000000
+986,From Hell,$ 35000000,$,35000000
+987,Godzilla,$ 130000000,$,130000000
+988,Stepmom,$ 50000000,$,50000000
+989,The Green Mile,$ 60000000,$,60000000
+990,Half Baked,$ 8000000,$,8000000
+991,Halloween H20: 20 Years Later,$ 17000000,$,17000000
+992,Holy Man,$ 60000000,$,60000000
+993,La leggenda del pianista sull'oceano,$ 9000000,$,9000000
+994,"Lock, Stock and Two Smoking Barrels",GBP 960000,GBP,1209600.0
+995,The Lord of the Rings: The Fellowship of the Ring,$ 93000000,$,93000000
+996,Lost in Space,$ 80000000,$,80000000
+997,The Man in the Iron Mask,$ 35000000,$,35000000
+998,The Mask of Zorro,$ 95000000,$,95000000
+999,Mercury Rising,$ 60000000,$,60000000
+1000,Mission: Impossible II,$ 125000000,$,125000000
+1001,Mulan,$ 90000000,$,90000000
+1002,The Negotiator,$ 50000000,$,50000000
+1003,A Night at the Roxbury,$ 17000000,$,17000000
+1004,Out of Sight,$ 48000000,$,48000000
+1005,Payback,$ 90000000,$,90000000
+1006,A Perfect Murder,$ 60000000,$,60000000
+1007,Pleasantville,$ 60000000,$,60000000
+1008,Practical Magic,$ 75000000,$,75000000
+1009,The Prince of Egypt,$ 70000000,$,70000000
+1010,Resident Evil,$ 33000000,$,33000000
+1011,Rush Hour,$ 33000000,$,33000000
+1012,Saving Private Ryan,$ 70000000,$,70000000
+1013,Senseless,$ 15000000,$,15000000
+1014,Six Days Seven Nights,$ 70000000,$,70000000
+1015,Star Trek: Insurrection,$ 58000000,$,58000000
+1016,Tarzan,$ 130000000,$,130000000
+1017,The Thin Red Line,$ 52000000,$,52000000
+1018,U.S. Marshals,$ 60000000,$,60000000
+1019,Wag the Dog,$ 15000000,$,15000000
+1020,The Wedding Singer,$ 18000000,$,18000000
+1021,What Dreams May Come,$ 85000000,$,85000000
+1022,Wild Things,$ 20000000,$,20000000
+1023,Wild Wild West,$ 170000000,$,170000000
+1024,The X Files,$ 66000000,$,66000000
+1025,X-Men,$ 75000000,$,75000000
+1026,eXistenZ,$ 15000000,$,15000000
+1027,Fantasia 2000,$ 80000000,$,80000000
+1028,Men in Black II,$ 140000000,$,140000000
+1029,Titan A.E.,$ 75000000,$,75000000
+1030,Star Wars: Episode I - The Phantom Menace,$ 115000000,$,115000000
+1031,The Emperor's New Groove,$ 100000000,$,100000000
+1032,Corpse Bride,$ 40000000,$,40000000
+1033,Star Wars: Episode II - Attack of the Clones,$ 115000000,$,115000000
+1034,Star Wars: Episode III - Revenge of the Sith,$ 113000000,$,113000000
+1035,Lethal Weapon 4,$ 140000000,$,140000000
+1036,Analyze This,$ 80000000,$,80000000
+1037,Cube,CAD 365000,CAD,262800.0
+1038,Life,$ 80000000,$,80000000
+1039,Blast from the Past,$ 35000000,$,35000000
+1040,The Cider House Rules,$ 24000000,$,24000000
+1041,He Got Game,$ 25000000,$,25000000
+1042,Orgazmo,$ 1000000,$,1000000
+1043,Simon Birch,$ 30000000,$,30000000
+1044,Heartbreakers,$ 35000000,$,35000000
+1045,Notting Hill,$ 42000000,$,42000000
+1046,Man on the Moon,$ 82000000,$,82000000
+1047,Shrek,$ 60000000,$,60000000
+1048,Pecker,$ 6000000,$,6000000
+1049,Election,$ 25000000,$,25000000
+1050,For Love of the Game,$ 80000000,$,80000000
+1051,Elizabeth,$ 30000000,$,30000000
+1052,Can't Hardly Wait,$ 10000000,$,10000000
+1053,Rounders,$ 12000000,$,12000000
+1054,Rushmore,$ 9000000,$,9000000
+1055,You've Got Mail,$ 65000000,$,65000000
+1056,The Iron Giant,$ 70000000,$,70000000
+1057,Patch Adams,$ 90000000,$,90000000
+1058,There's Something About Mary,$ 23000000,$,23000000
+1059,Mickey Blue Eyes,$ 75000000,$,75000000
+1060,Dinosaur,$ 127500000,$,127500000
+1061,Lola rennt,DEM 3500000,DEM,6090.0
+1062,Bowfinger,$ 55000000,$,55000000
+1063,Edtv,$ 80000000,$,80000000
+1064,BASEketball,$ 25000000,$,25000000
+1065,Mystery Men,$ 68000000,$,68000000
+1066,October Sky,$ 25000000,$,25000000
+1067,The Matrix,$ 63000000,$,63000000
+1068,Planet of the Apes,$ 100000000,$,100000000
+1069,Treasure Planet,$ 140000000,$,140000000
+1070,The Faculty,$ 15000000,$,15000000
+1071,Scream 3,$ 40000000,$,40000000
+1072,The Talented Mr. Ripley,$ 40000000,$,40000000
+1073,Pitch Black,$ 23000000,$,23000000
+1074,Arlington Road,$ 31000000,$,31000000
+1075,Entrapment,$ 66000000,$,66000000
+1076,Fight Club,$ 63000000,$,63000000
+1077,Shakespeare in Love,$ 25000000,$,25000000
+1078,The Astronaut's Wife,$ 75000000,$,75000000
+1079,Intolerable Cruelty,$ 60000000,$,60000000
+1080,Pi,$ 60000,$,60000
+1081,The Road to El Dorado,$ 95000000,$,95000000
+1082,Cruel Intentions,$ 10500000,$,10500000
+1083,Training Day,$ 45000000,$,45000000
+1084,True Crime,$ 55000000,$,55000000
+1085,Varsity Blues,$ 16000000,$,16000000
+1086,The Thirteenth Floor,$ 16000000,$,16000000
+1087,The Insider,$ 90000000,$,90000000
+1088,A Midsummer Night's Dream,$ 11000000,$,11000000
+1089,Forces of Nature,$ 75000000,$,75000000
+1090,Inspector Gadget,$ 90000000,$,90000000
+1091,Crazy in Alabama,$ 15000000,$,15000000
+1092,Big Daddy,$ 34200000,$,34200000
+1093,The Ninth Gate,$ 38000000,$,38000000
+1094,The World Is Not Enough,$ 135000000,$,135000000
+1095,American Psycho,$ 7000000,$,7000000
+1096,The Boondock Saints,$ 6000000,$,6000000
+1097,Bride of Chucky,$ 25000000,$,25000000
+1098,Dick,$ 13000000,$,13000000
+1099,Nutty Professor II: The Klumps,$ 84000000,$,84000000
+1100,The Rage: Carrie 2,$ 21000000,$,21000000
+1101,Highlander: Endgame,$ 25000000,$,25000000
+1102,Spider-Man,$ 139000000,$,139000000
+1103,Angela's Ashes,$ 50000000,$,50000000
+1104,Austin Powers: The Spy Who Shagged Me,$ 33000000,$,33000000
+1105,The Bone Collector,$ 73000000,$,73000000
+1106,Thirteen Days,$ 80000000,$,80000000
+1107,Lara Croft: Tomb Raider,$ 115000000,$,115000000
+1108,Urban Legend,$ 14000000,$,14000000
+1109,End of Days,$ 100000000,$,100000000
+1110,High Fidelity,$ 30000000,$,30000000
+1111,Happiness,$ 2200000,$,2200000
+1112,10 Things I Hate About You,$ 30000000,$,30000000
+1113,Deep Blue Sea,$ 60000000,$,60000000
+1114,Anywhere But Here,$ 23000000,$,23000000
+1115,Double Jeopardy,$ 70000000,$,70000000
+1116,Fucking Åmål,SEK 9000000,SEK,900000.0
+1117,Joan of Arc,$ 85000000,$,85000000
+1118,Never Been Kissed,$ 25000000,$,25000000
+1119,Office Space,$ 10000000,$,10000000
+1120,Festen,$ 1300000,$,1300000
+1121,Following,$ 6000,$,6000
+1122,The Thomas Crown Affair,$ 48000000,$,48000000
+1123,Jawbreaker,$ 3500000,$,3500000
+1124,Psycho,$ 60000000,$,60000000
+1125,My Dog Skip,$ 6000000,$,6000000
+1126,Clockstoppers,$ 26000000,$,26000000
+1127,Drop Dead Gorgeous,$ 15000000,$,15000000
+1128,Sweet and Lowdown,$ 29750000,$,29750000
+1129,The Flintstones in Viva Rock Vegas,$ 83000000,$,83000000
+1130,Muppets from Space,$ 24000000,$,24000000
+1131,"South Park: Bigger, Longer & Uncut",$ 21000000,$,21000000
+1132,The Virgin Suicides,$ 9000000,$,9000000
+1133,Behind Enemy Lines,$ 40000000,$,40000000
+1134,Cold Mountain,$ 79000000,$,79000000
+1135,The Adventures of Elmo in Grouchland,$ 26000000,$,26000000
+1136,Charlie's Angels,$ 93000000,$,93000000
+1137,Dudley Do-Right,$ 70000000,$,70000000
+1138,She's All That,$ 10000000,$,10000000
+1139,What Lies Beneath,$ 100000000,$,100000000
+1140,What's the Worst That Could Happen?,$ 60000000,$,60000000
+1141,Cast Away,$ 90000000,$,90000000
+1142,Ghost World,$ 7000000,$,7000000
+1143,Shaft,$ 46000000,$,46000000
+1144,Sleepy Hollow,$ 100000000,$,100000000
+1145,Summer of Sam,$ 22000000,$,22000000
+1146,Jing Ke ci Qin Wang,$ 15000000,$,15000000
+1147,Jurassic Park III,$ 93000000,$,93000000
+1148,Runaway Bride,$ 70000000,$,70000000
+1149,American Pie,$ 11000000,$,11000000
+1150,The Beach,$ 50000000,$,50000000
+1151,Bringing Out the Dead,$ 55000000,$,55000000
+1152,Hollow Man,$ 95000000,$,95000000
+1153,Drive Me Crazy,$ 8500000,$,8500000
+1154,Stir of Echoes,$ 12000000,$,12000000
+1155,Along Came a Spider,$ 60000000,$,60000000
+1156,Stuart Little,$ 133000000,$,133000000
+1157,Detroit Rock City,$ 34000000,$,34000000
+1158,Romeo Must Die,$ 25000000,$,25000000
+1159,Sinbad: Legend of the Seven Seas,$ 60000000,$,60000000
+1160,East Is East,GBP 1900000,GBP,2394000.0
+1161,Monkeybone,$ 75000000,$,75000000
+1162,Waking Ned,$ 3000000,$,3000000
+1163,Anna and the King,$ 92000000,$,92000000
+1164,Spirit: Stallion of the Cimarron,$ 80000000,$,80000000
+1165,The Straight Story,$ 10000000,$,10000000
+1166,Mulholland Dr.,$ 15000000,$,15000000
+1167,Hellboy,$ 66000000,$,66000000
+1168,The Lord of the Rings: The Return of the King,$ 94000000,$,94000000
+1169,The Lord of the Rings: The Two Towers,$ 94000000,$,94000000
+1170,The Sixth Sense,$ 40000000,$,40000000
+1171,Superstar,$ 34000000,$,34000000
+1172,Thunderbirds,$ 57000000,$,57000000
+1173,Dancer in the Dark,$ 12800000,$,12800000
+1174,Antwone Fisher,$ 12500000,$,12500000
+1175,Lagaan: Once Upon a Time in India,$ 6000000,$,6000000
+1176,American Beauty,$ 15000000,$,15000000
+1177,How the Grinch Stole Christmas,$ 123000000,$,123000000
+1178,The Haunting,$ 80000000,$,80000000
+1179,Keeping the Faith,$ 29000000,$,29000000
+1180,Nurse Betty,$ 35000000,$,35000000
+1181,Ratcatcher,$ 30000,$,30000
+1182,Boys Don't Cry,$ 2000000,$,2000000
+1183,Bad Boys II,$ 130000000,$,130000000
+1184,The End of the Affair,$ 23000000,$,23000000
+1185,"Girl, Interrupted",$ 40000000,$,40000000
+1186,Gladiator,$ 103000000,$,103000000
+1187,Cecil B. DeMented,$ 10000000,$,10000000
+1188,Final Fantasy: The Spirits Within,$ 137000000,$,137000000
+1189,Autumn in New York,$ 65000000,$,65000000
+1190,The Hurricane,$ 50000000,$,50000000
+1191,Scary Movie,$ 19000000,$,19000000
+1192,Magnolia,$ 37000000,$,37000000
+1193,Galaxy Quest,$ 45000000,$,45000000
+1194,The Perfect Storm,$ 140000000,$,140000000
+1195,But I'm a Cheerleader,$ 1200000,$,1200000
+1196,Quills,$ 13500000,$,13500000
+1197,Requiem for a Dream,$ 4500000,$,4500000
+1198,Blue Streak,$ 65000000,$,65000000
+1199,Finding Forrester,$ 43000000,$,43000000
+1200,Minority Report,$ 102000000,$,102000000
+1201,Osmosis Jones,$ 70000000,$,70000000
+1202,Terminator 3: Rise of the Machines,$ 200000000,$,200000000
+1203,Traffic,$ 48000000,$,48000000
+1204,Almost Famous,$ 60000000,$,60000000
+1205,Bicentennial Man,$ 100000000,$,100000000
+1206,"Me, Myself & Irene",$ 51000000,$,51000000
+1207,Phone Booth,$ 13000000,$,13000000
+1208,A Knight's Tale,$ 65000000,$,65000000
+1209,O,$ 5000000,$,5000000
+1210,Reindeer Games,$ 42000000,$,42000000
+1211,Shanghai Noon,$ 55000000,$,55000000
+1212,Wonder Boys,$ 55000000,$,55000000
+1213,Battlefield Earth,$ 73000000,$,73000000
+1214,Little Nicky,$ 85000000,$,85000000
+1215,The Blair Witch Project,$ 60000,$,60000
+1216,Frequency,$ 31000000,$,31000000
+1217,Space Cowboys,$ 65000000,$,65000000
+1218,Bounce,$ 35000000,$,35000000
+1219,Down to You,$ 11000000,$,11000000
+1220,Gone in Sixty Seconds,$ 90000000,$,90000000
+1221,The Patriot,$ 110000000,$,110000000
+1222,Blade II,$ 54000000,$,54000000
+1223,Gojira ni-sen mireniamu,$ 13000000,$,13000000
+1224,Just Visiting,$ 35000000,$,35000000
+1225,The Big Kahuna,$ 7000000,$,7000000
+1226,The Whole Nine Yards,$ 41300000,$,41300000
+1227,Wo hu cang long,$ 17000000,$,17000000
+1228,"O Brother, Where Art Thou?",$ 26000000,$,26000000
+1229,Gekijô-ban poketto monsutâ - Myûtsû no gyakushû,$ 30000000,$,30000000
+1230,Vertical Limit,$ 75000000,$,75000000
+1231,28 Days,$ 43000000,$,43000000
+1232,Head Over Heels,$ 14000000,$,14000000
+1233,The Little Vampire,$ 35000000,$,35000000
+1234,Erin Brockovich,$ 52000000,$,52000000
+1235,Final Destination,$ 23000000,$,23000000
+1236,Here on Earth,$ 15000000,$,15000000
+1237,Next Friday,$ 11000000,$,11000000
+1238,Small Time Crooks,$ 25000000,$,25000000
+1239,Zoolander,$ 28000000,$,28000000
+1240,Where the Heart Is,$ 15000000,$,15000000
+1241,"Monsters, Inc.",$ 115000000,$,115000000
+1242,Love & Basketball,$ 20000000,$,20000000
+1243,Red Planet,$ 80000000,$,80000000
+1244,Riding in Cars with Boys,$ 48000000,$,48000000
+1245,The Bank Job,$ 20000000,$,20000000
+1246,Coyote Ugly,$ 45000000,$,45000000
+1247,Rock Star,$ 57000000,$,57000000
+1248,Moulin Rouge!,$ 50000000,$,50000000
+1249,Animal Factory,$ 3600000,$,3600000
+1250,Boys and Girls,$ 35000000,$,35000000
+1251,Exorcist: The Beginning,$ 80000000,$,80000000
+1252,Bring It On,$ 11000000,$,11000000
+1253,Deuce Bigalow: Male Gigolo,$ 17000000,$,17000000
+1254,Save the Last Dance,$ 13000000,$,13000000
+1255,Joy Ride,$ 23000000,$,23000000
+1256,Children of Men,$ 76000000,$,76000000
+1257,What Women Want,$ 70000000,$,70000000
+1258,Big Momma's House,$ 30000000,$,30000000
+1259,Snatch,GBP 6000000,GBP,7560000.0
+1260,Get Carter,$ 63600000,$,63600000
+1261,Memento,$ 9000000,$,9000000
+1262,The Mummy Returns,$ 98000000,$,98000000
+1263,The Wedding Planner,$ 35000000,$,35000000
+1264,The Cell,$ 33000000,$,33000000
+1265,Remember the Titans,$ 30000000,$,30000000
+1266,102 Dalmatians,$ 85000000,$,85000000
+1267,Jason X,$ 11000000,$,11000000
+1268,Amélie,$ 10000000,$,10000000
+1269,Awake,$ 8600000,$,8600000
+1270,Meet the Parents,$ 55000000,$,55000000
+1271,Miss Congeniality,$ 45000000,$,45000000
+1272,2046,$ 12000000,$,12000000
+1273,Artificial Intelligence: AI,$ 100000000,$,100000000
+1274,Hannibal,$ 87000000,$,87000000
+1275,Pearl Harbor,$ 140000000,$,140000000
+1276,Rugrats in Paris: The Movie - Rugrats II,$ 30000000,$,30000000
+1277,Road Trip,$ 16000000,$,16000000
+1278,Enemy at the Gates,$ 68000000,$,68000000
+1279,The 6th Day,$ 82000000,$,82000000
+1280,Gangs of New York,$ 100000000,$,100000000
+1281,Loser,$ 20000000,$,20000000
+1282,Unbreakable,$ 75000000,$,75000000
+1283,Soul Survivors,$ 17000000,$,17000000
+1284,The Family Man,$ 60000000,$,60000000
+1285,The Gift,$ 10000000,$,10000000
+1286,Bandits,$ 75000000,$,75000000
+1287,The Tigger Movie,$ 30000000,$,30000000
+1288,Blow,$ 53000000,$,53000000
+1289,Chopper,AUD 5000000,AUD,3250000.0
+1290,The Glass House,$ 30000000,$,30000000
+1291,Brother,$ 10000000,$,10000000
+1292,Pay It Forward,$ 40000000,$,40000000
+1293,Angel Eyes,$ 53000000,$,53000000
+1294,The Score,$ 68000000,$,68000000
+1295,Spy Kids,$ 35000000,$,35000000
+1296,Ghosts of Mars,$ 28000000,$,28000000
+1297,Les rivières pourpres,$ 14000000,$,14000000
+1298,Atlantis: The Lost Empire,$ 120000000,$,120000000
+1299,Bedazzled,$ 48000000,$,48000000
+1300,The Others,$ 17000000,$,17000000
+1301,Sweet November,$ 40000000,$,40000000
+1302,Down to Earth,$ 49000000,$,49000000
+1303,The Fast and the Furious,$ 38000000,$,38000000
+1304,3000 Miles to Graceland,$ 62000000,$,62000000
+1305,Collateral Damage,$ 85000000,$,85000000
+1306,The Matrix Reloaded,$ 150000000,$,150000000
+1307,Summer Catch,$ 34000000,$,34000000
+1308,The Mexican,$ 57000000,$,57000000
+1309,The Pledge,$ 35000000,$,35000000
+1310,Equilibrium,$ 20000000,$,20000000
+1311,Cats & Dogs,$ 60000000,$,60000000
+1312,Saving Silverman,$ 22000000,$,22000000
+1313,Dr. Dolittle 2,$ 70000000,$,70000000
+1314,The Four Feathers,$ 35000000,$,35000000
+1315,Freddy Got Fingered,$ 14000000,$,14000000
+1316,Ocean's Eleven,$ 85000000,$,85000000
+1317,Serendipity,$ 28000000,$,28000000
+1318,Chocolat,$ 25000000,$,25000000
+1319,Harry Potter and the Sorcerer's Stone,$ 125000000,$,125000000
+1320,The New Guy,$ 13000000,$,13000000
+1321,"Dude, Where's My Car?",$ 13000000,$,13000000
+1322,The Matrix Revolutions,$ 150000000,$,150000000
+1323,The Man Who Wasn't There,$ 20000000,$,20000000
+1324,Bridget Jones's Diary,$ 25000000,$,25000000
+1325,Stuart Little 2,$ 120000000,$,120000000
+1326,Wet Hot American Summer,$ 5000000,$,5000000
+1327,40 Days and 40 Nights,$ 17000000,$,17000000
+1328,Italiensk for begyndere,$ 1000000,$,1000000
+1329,Swordfish,$ 102000000,$,102000000
+1330,Sen to Chihiro no kamikakushi,$ 19000000,$,19000000
+1331,Windtalkers,$ 115000000,$,115000000
+1332,Y tu mamá también,$ 2000000,$,2000000
+1333,Thir13en Ghosts,$ 42000000,$,42000000
+1334,Joe Dirt,$ 17700000,$,17700000
+1335,Amores perros,$ 2000000,$,2000000
+1336,The Count of Monte Cristo,$ 35000000,$,35000000
+1337,Die Another Day,$ 142000000,$,142000000
+1338,Donnie Darko,$ 6000000,$,6000000
+1339,Rollerball,$ 70000000,$,70000000
+1340,The Believer,$ 1500000,$,1500000
+1341,In the Bedroom,$ 1700000,$,1700000
+1342,The Princess Diaries,$ 26000000,$,26000000
+1343,Super Troopers,$ 3000000,$,3000000
+1344,Ali,$ 107000000,$,107000000
+1345,Hedwig and the Angry Inch,$ 6000000,$,6000000
+1346,Werckmeister harmóniák,FRF 10000000,FRF,1700000.0000000002
+1347,Billy Elliot,$ 5000000,$,5000000
+1348,Legally Blonde,$ 18000000,$,18000000
+1349,Rat Race,$ 48000000,$,48000000
+1350,Unfaithful,$ 50000000,$,50000000
+1351,Evolution,$ 80000000,$,80000000
+1352,How to Lose a Guy in 10 Days,$ 50000000,$,50000000
+1353,John Q,$ 36000000,$,36000000
+1354,House of 1000 Corpses,$ 7000000,$,7000000
+1355,Maid in Manhattan,$ 55000000,$,55000000
+1356,Rabbit-Proof Fence,$ 6000000,$,6000000
+1357,Hearts in Atlantis,$ 31000000,$,31000000
+1358,American Pie 2,$ 30000000,$,30000000
+1359,The Pianist,$ 35000000,$,35000000
+1360,Reign of Fire,$ 60000000,$,60000000
+1361,Star Trek: Nemesis,$ 60000000,$,60000000
+1362,The Sweetest Thing,$ 43000000,$,43000000
+1363,La pianiste,ATS 70000000,ATS,5515552.32558141
+1364,Seom,$ 1000000,$,1000000
+1365,The Animal,$ 47000000,$,47000000
+1366,Baby Boy,$ 16000000,$,16000000
+1367,Shallow Hal,$ 40000000,$,40000000
+1368,Sweet Home Alabama,$ 30000000,$,30000000
+1369,The Curse of the Jade Scorpion,$ 33000000,$,33000000
+1370,Road to Perdition,$ 80000000,$,80000000
+1371,S.W.A.T.,$ 80000000,$,80000000
+1372,Scary Movie 2,$ 45000000,$,45000000
+1373,About Schmidt,$ 30000000,$,30000000
+1374,Cursed,$ 38000000,$,38000000
+1375,Kangaroo Jack,$ 60000000,$,60000000
+1376,Panic Room,$ 48000000,$,48000000
+1377,The Bourne Identity,$ 60000000,$,60000000
+1378,Bubble Boy,$ 13000000,$,13000000
+1379,Dragonfly,$ 60000000,$,60000000
+1380,Ghost Rider,$ 110000000,$,110000000
+1381,My Big Fat Greek Wedding,$ 5000000,$,5000000
+1382,Vanilla Sky,$ 68000000,$,68000000
+1383,Digimon: The Movie,$ 5000000,$,5000000
+1384,Don't Say a Word,$ 50000000,$,50000000
+1385,Jay and Silent Bob Strike Back,$ 22000000,$,22000000
+1386,George Washington,$ 42000,$,42000
+1387,Jeepers Creepers,$ 10000000,$,10000000
+1388,Catch Me If You Can,$ 52000000,$,52000000
+1389,Frailty,$ 11000000,$,11000000
+1390,Murder by Numbers,$ 50000000,$,50000000
+1391,America's Sweethearts,$ 46000000,$,46000000
+1392,Black Hawk Down,$ 92000000,$,92000000
+1393,The Girl Next Door,$ 25000000,$,25000000
+1394,Big Fat Liar,$ 15000000,$,15000000
+1395,The Mothman Prophecies,$ 32000000,$,32000000
+1396,One Hour Photo,$ 12000000,$,12000000
+1397,Recess: School's Out,$ 23000000,$,23000000
+1398,The Rookie,$ 22000000,$,22000000
+1399,The Royal Tenenbaums,$ 21000000,$,21000000
+1400,Duplex,$ 40000000,$,40000000
+1401,Finding Nemo,$ 94000000,$,94000000
+1402,Kill Bill: Vol. 1,$ 30000000,$,30000000
+1403,Rush Hour 2,$ 90000000,$,90000000
+1404,K-19: The Widowmaker,$ 100000000,$,100000000
+1405,The One,$ 49000000,$,49000000
+1406,Scooby-Doo,$ 84000000,$,84000000
+1407,Adaptation.,$ 19000000,$,19000000
+1408,Ice Age,$ 59000000,$,59000000
+1409,Jimmy Neutron: Boy Genius,$ 30000000,$,30000000
+1410,A Beautiful Mind,$ 58000000,$,58000000
+1411,The Majestic,$ 72000000,$,72000000
+1412,The Hunted,$ 55000000,$,55000000
+1413,The Truth About Charlie,$ 60000000,$,60000000
+1414,Superbabies: Baby Geniuses 2,$ 20000000,$,20000000
+1415,My Boss's Daughter,$ 14000000,$,14000000
+1416,Kiss of the Dragon,$ 25000000,$,25000000
+1417,Eight Crazy Nights,$ 34000000,$,34000000
+1418,Eight Legged Freaks,$ 30000000,$,30000000
+1419,The Last Castle,$ 72000000,$,72000000
+1420,K-PAX,$ 68000000,$,68000000
+1421,Punch-Drunk Love,$ 25000000,$,25000000
+1422,Ararat,$ 15500000,$,15500000
+1423,Darkness,$ 10600000,$,10600000
+1424,Johnny English,$ 40000000,$,40000000
+1425,The Hours,$ 25000000,$,25000000
+1426,Secretary,$ 4000000,$,4000000
+1427,Lilo & Stitch,$ 80000000,$,80000000
+1428,About a Boy,$ 30000000,$,30000000
+1429,Dogville,$ 10000000,$,10000000
+1430,I Am Sam,$ 22000000,$,22000000
+1431,The Scorpion King,$ 60000000,$,60000000
+1432,Not Another Teen Movie,$ 15000000,$,15000000
+1433,All About the Benjamins,$ 15000000,$,15000000
+1434,Enough,$ 38000000,$,38000000
+1435,How High,$ 20000000,$,20000000
+1436,The Importance of Being Earnest,$ 15000000,$,15000000
+1437,Insomnia,$ 46000000,$,46000000
+1438,Spider,$ 10000000,$,10000000
+1439,Minoes,EUR 5328737,EUR,5861610.7
+1440,Undercover Brother,$ 25000000,$,25000000
+1441,Return to Never Land,$ 20000000,$,20000000
+1442,Mr. Deeds,$ 50000000,$,50000000
+1443,Gosford Park,$ 19800000,$,19800000
+1444,Igby Goes Down,$ 9000000,$,9000000
+1445,A Walk to Remember,$ 11800000,$,11800000
+1446,Wasabi,EUR 15300000,EUR,16830000.0
+1447,Snow Dogs,$ 33000000,$,33000000
+1448,Bubba Ho-Tep,$ 1000000,$,1000000
+1449,Darkness Falls,$ 11000000,$,11000000
+1450,Spun,$ 2000000,$,2000000
+1451,Tuck Everlasting,$ 15000000,$,15000000
+1452,Van Wilder,$ 5000000,$,5000000
+1453,The Jungle Book 2,$ 20000000,$,20000000
+1454,No Man's Land,EUR 2100000,EUR,2310000.0
+1455,The Emperor's Club,$ 12500000,$,12500000
+1456,They,$ 17000000,$,17000000
+1457,Dreamcatcher,$ 68000000,$,68000000
+1458,Dahmer,$ 250000,$,250000
+1459,Monster's Ball,$ 4000000,$,4000000
+1460,Once Upon a Time in Mexico,$ 29000000,$,29000000
+1461,Signs,$ 72000000,$,72000000
+1462,Siu Lam juk kau,$ 10000000,$,10000000
+1463,Les triplettes de Belleville,$ 9500000,$,9500000
+1464,Bend It Like Beckham,GBP 3500159,GBP,4410200.34
+1465,Hulk,$ 137000000,$,137000000
+1466,What a Girl Wants,$ 25000000,$,25000000
+1467,Spy Kids 2: Island of Lost Dreams,$ 38000000,$,38000000
+1468,Daredevil,$ 78000000,$,78000000
+1469,The Medallion,$ 41000000,$,41000000
+1470,Ghost Ship,$ 20000000,$,20000000
+1471,28 Days Later...,$ 8000000,$,8000000
+1472,The Powerpuff Girls Movie,$ 11000000,$,11000000
+1473,Red Dragon,$ 78000000,$,78000000
+1474,The Butterfly Effect,$ 13000000,$,13000000
+1475,The Life of David Gale,$ 38000000,$,38000000
+1476,Meet the Fockers,$ 80000000,$,80000000
+1477,The Tuxedo,$ 60000000,$,60000000
+1478,Max,$ 11000000,$,11000000
+1479,X2,$ 110000000,$,110000000
+1480,Mean Machine,GBP 2500000,GBP,3150000.0
+1481,The Recruit,$ 46000000,$,46000000
+1482,The Rules of Attraction,$ 4000000,$,4000000
+1483,Before the Devil Knows You're Dead,$ 18000000,$,18000000
+1484,Metoroporisu,$ 15000000,$,15000000
+1485,The Phantom of the Opera,$ 70000000,$,70000000
+1486,Rush Hour 3,$ 140000000,$,140000000
+1487,The Transporter,$ 21000000,$,21000000
+1488,Friday After Next,$ 10000000,$,10000000
+1489,Rent,$ 40000000,$,40000000
+1490,Austin Powers in Goldmember,$ 63000000,$,63000000
+1491,Feardotcom,$ 40000000,$,40000000
+1492,Harry Potter and the Chamber of Secrets,$ 100000000,$,100000000
+1493,The Master of Disguise,$ 16000000,$,16000000
+1494,Wrong Turn,$ 12600000,$,12600000
+1495,xXx,$ 70000000,$,70000000
+1496,Koroshiya 1,$ 1400000,$,1400000
+1497,The Chronicles of Riddick,$ 105000000,$,105000000
+1498,Mindhunters,$ 27000000,$,27000000
+1499,Far from Heaven,$ 13500000,$,13500000
+1500,The Ring,$ 48000000,$,48000000
+1501,Shrek 2,$ 150000000,$,150000000
+1502,8 Mile,$ 41000000,$,41000000
+1503,Whale Rider,$ 3500000,$,3500000
+1504,The Core,$ 60000000,$,60000000
+1505,Home on the Range,$ 110000000,$,110000000
+1506,Chicago,$ 45000000,$,45000000
+1507,Gigli,$ 54000000,$,54000000
+1508,Ying xiong,$ 31000000,$,31000000
+1509,Jersey Girl,$ 35000000,$,35000000
+1510,Shanghai Knights,$ 50000000,$,50000000
+1511,Timeline,$ 80000000,$,80000000
+1512,Good Bye Lenin!,EUR 4800000,EUR,5280000.0
+1513,Jeepers Creepers 2,$ 17000000,$,17000000
+1514,Old School,$ 24000000,$,24000000
+1515,May,$ 500000,$,500000
+1516,Barbershop,$ 12000000,$,12000000
+1517,Cabin Fever,$ 1500000,$,1500000
+1518,Drumline,$ 20000000,$,20000000
+1519,Harry Potter and the Prisoner of Azkaban,$ 130000000,$,130000000
+1520,Mona Lisa Smile,$ 65000000,$,65000000
+1521,The Santa Clause 2,$ 65000000,$,65000000
+1522,Anger Management,$ 75000000,$,75000000
+1523,Charlie's Angels: Full Throttle,$ 120000000,$,120000000
+1524,Just Married,$ 18000000,$,18000000
+1525,Scary Movie 3,$ 48000000,$,48000000
+1526,Cradle 2 the Grave,$ 25000000,$,25000000
+1527,The Lizzie McGuire Movie,$ 17000000,$,17000000
+1528,Shark Tale,$ 75000000,$,75000000
+1529,Solaris,$ 47000000,$,47000000
+1530,25th Hour,$ 5000000,$,5000000
+1531,Bad Santa,$ 23000000,$,23000000
+1532,Ballistic: Ecks vs. Sever,$ 70000000,$,70000000
+1533,Like Mike,$ 30000000,$,30000000
+1534,Finding Neverland,$ 25000000,$,25000000
+1535,Blood Work,$ 50000000,$,50000000
+1536,Final Destination 2,$ 26000000,$,26000000
+1537,Identity,$ 28000000,$,28000000
+1538,Luther,$ 30000000,$,30000000
+1539,The Dreamers,$ 15000000,$,15000000
+1540,Willard,$ 20000000,$,20000000
+1541,Boksuneun naui geot,$ 4000000,$,4000000
+1542,Master and Commander: The Far Side of the World,$ 150000000,$,150000000
+1543,Holes,$ 20000000,$,20000000
+1544,The League of Extraordinary Gentlemen,$ 78000000,$,78000000
+1545,The Curse of the Were-Rabbit,$ 30000000,$,30000000
+1546,The Cat in the Hat,$ 109000000,$,109000000
+1547,Runaway Jury,$ 60000000,$,60000000
+1548,Two Weeks Notice,$ 60000000,$,60000000
+1549,Anything Else,$ 18000000,$,18000000
+1550,Love Actually,$ 40000000,$,40000000
+1551,My Life Without Me,EUR 2000000,EUR,2200000.0
+1552,The Perfect Score,$ 40000000,$,40000000
+1553,Bruce Almighty,$ 81000000,$,81000000
+1554,21 Grams,$ 20000000,$,20000000
+1555,Open Range,$ 22000000,$,22000000
+1556,Peter Pan,$ 100000000,$,100000000
+1557,Radio,$ 35000000,$,35000000
+1558,Spider-Man 2,$ 200000000,$,200000000
+1559,Taxi,$ 25000000,$,25000000
+1560,Bridget Jones: The Edge of Reason,$ 40000000,$,40000000
+1561,Cars,$ 120000000,$,120000000
+1562,Cidade de Deus,$ 3300000,$,3300000
+1563,Daddy Day Care,$ 60000000,$,60000000
+1564,Hidalgo,$ 100000000,$,100000000
+1565,House of the Dead,$ 12000000,$,12000000
+1566,The Incredibles,$ 92000000,$,92000000
+1567,The Italian Job,$ 60000000,$,60000000
+1568,Mission: Impossible III,$ 150000000,$,150000000
+1569,A Sound of Thunder,$ 80000000,$,80000000
+1570,Looney Tunes: Back in Action,$ 80000000,$,80000000
+1571,Resident Evil: Apocalypse,$ 45000000,$,45000000
+1572,Sahara,$ 130000000,$,130000000
+1573,Big Fish,$ 70000000,$,70000000
+1574,The Day After Tomorrow,$ 125000000,$,125000000
+1575,Elf,$ 33000000,$,33000000
+1576,Party Monster,$ 5000000,$,5000000
+1577,Kingdom of Heaven,$ 130000000,$,130000000
+1578,Underworld,$ 22000000,$,22000000
+1579,2 Fast 2 Furious,$ 76000000,$,76000000
+1580,Freaky Friday,$ 20000000,$,20000000
+1581,Honey,$ 18000000,$,18000000
+1582,The Texas Chainsaw Massacre,$ 9500000,$,9500000
+1583,Wicker Park,$ 30000000,$,30000000
+1584,Gin gwai,SGD 4500000,SGD,3195000.0
+1585,Lara Croft Tomb Raider: The Cradle of Life,$ 95000000,$,95000000
+1586,The Last Samurai,$ 140000000,$,140000000
+1587,Matchstick Men,$ 62000000,$,62000000
+1588,Pirates of the Caribbean: The Curse of the Black Pearl,$ 140000000,$,140000000
+1589,Good Boy!,$ 18000000,$,18000000
+1590,Mystic River,$ 25000000,$,25000000
+1591,Over the Hedge,$ 80000000,$,80000000
+1592,Secondhand Lions,$ 30000000,$,30000000
+1593,The Stepford Wives,$ 90000000,$,90000000
+1594,The Whole Ten Yards,$ 40000000,$,40000000
+1595,Around the World in 80 Days,$ 110000000,$,110000000
+1596,Catwoman,$ 100000000,$,100000000
+1597,Coraline,$ 60000000,$,60000000
+1598,Ella Enchanted,$ 31000000,$,31000000
+1599,The Rundown,$ 85000000,$,85000000
+1600,Man on Fire,$ 70000000,$,70000000
+1601,Thirteen,$ 2000000,$,2000000
+1602,Under the Tuscan Sun,$ 18000000,$,18000000
+1603,American Wedding,$ 55000000,$,55000000
+1604,Brother Bear,$ 128000000,$,128000000
+1605,Dumb and Dumberer: When Harry Met Lloyd,$ 19000000,$,19000000
+1606,Freddy vs. Jason,$ 30000000,$,30000000
+1607,xXx: State of the Union,$ 60000000,$,60000000
+1608,Harry Potter and the Goblet of Fire,$ 150000000,$,150000000
+1609,The Punisher,$ 33000000,$,33000000
+1610,Scooby-Doo 2: Monsters Unleashed,$ 80000000,$,80000000
+1611,Club Dread,$ 8600000,$,8600000
+1612,Fever Pitch,$ 30000000,$,30000000
+1613,The Notebook,$ 29000000,$,29000000
+1614,The School of Rock,$ 35000000,$,35000000
+1615,Troy,$ 175000000,$,175000000
+1616,Garden State,$ 2500000,$,2500000
+1617,"Legally Blonde 2: Red, White & Blonde",$ 45000000,$,45000000
+1618,Girl with a Pearl Earring,$ 12000000,$,12000000
+1619,Godsend,$ 25000000,$,25000000
+1620,The Ladykillers,$ 35000000,$,35000000
+1621,Lost in Translation,$ 4000000,$,4000000
+1622,The Passion of the Christ,$ 30000000,$,30000000
+1623,Starsky & Hutch,$ 60000000,$,60000000
+1624,Win a Date with Tad Hamilton!,$ 22000000,$,22000000
+1625,Wonderland,$ 5000000,$,5000000
+1626,13 Going on 30,$ 37000000,$,37000000
+1627,Barbershop 2: Back in Business,$ 30000000,$,30000000
+1628,The Prince & Me,$ 22000000,$,22000000
+1629,Rugrats Go Wild,$ 25000000,$,25000000
+1630,Something's Gotta Give,$ 80000000,$,80000000
+1631,Calendar Girls,$ 10000000,$,10000000
+1632,Catch That Kid,$ 12000000,$,12000000
+1633,Cellular,$ 25000000,$,25000000
+1634,Live Free or Die Hard,$ 110000000,$,110000000
+1635,Eternal Sunshine of the Spotless Mind,$ 20000000,$,20000000
+1636,The Haunted Mansion,$ 90000000,$,90000000
+1637,Haute tension,EUR 2200000,EUR,2420000.0
+1638,Dirty Dancing: Havana Nights,$ 25000000,$,25000000
+1639,Les invasions barbares,CAD 6000000,CAD,4320000.0
+1640,Ondskan,SEK 22000000,SEK,2200000.0
+1641,Paycheck,$ 60000000,$,60000000
+1642,The Polar Express,$ 165000000,$,165000000
+1643,Spy Kids 3: Game Over,$ 38000000,$,38000000
+1644,Stuck on You,$ 55000000,$,55000000
+1645,Deux frères,EUR 59660000,EUR,65626000.00000001
+1646,Van Helsing,$ 160000000,$,160000000
+1647,Mou gaan dou,$ 6428966,$,6428966
+1648,The Aviator,$ 110000000,$,110000000
+1649,From Justin to Kelly,$ 12000000,$,12000000
+1650,A Series of Unfortunate Events,$ 140000000,$,140000000
+1651,Monster,$ 8000000,$,8000000
+1652,Unleashed,$ 45000000,$,45000000
+1653,Along Came Polly,$ 42000000,$,42000000
+1654,50 First Dates,$ 75000000,$,75000000
+1655,The Good Shepherd,$ 90000000,$,90000000
+1656,"I, Robot",$ 120000000,$,120000000
+1657,Arthur et les Minimoys,$ 86000000,$,86000000
+1658,The SpongeBob SquarePants Movie,$ 30000000,$,30000000
+1659,Alexander,$ 155000000,$,155000000
+1660,Hauru no ugoku shiro,$ 24000000,$,24000000
+1661,Innocence,JPY 2000000000,JPY,18600000.0
+1662,Suchîmubôi,$ 22000000,$,22000000
+1663,Superman Returns,$ 270000000,$,270000000
+1664,Waiting...,$ 3000000,$,3000000
+1665,Gothika,$ 40000000,$,40000000
+1666,Cheaper by the Dozen,$ 40000000,$,40000000
+1667,King Arthur,$ 120000000,$,120000000
+1668,Miracle,$ 28000000,$,28000000
+1669,Ocean's Twelve,$ 110000000,$,110000000
+1670,Teacher's Pet,$ 10000000,$,10000000
+1671,Ray,$ 40000000,$,40000000
+1672,Madagascar,$ 75000000,$,75000000
+1673,Walking Tall,$ 46000000,$,46000000
+1674,Cinderella Man,$ 88000000,$,88000000
+1675,Salinui chueok,$ 2800000,$,2800000
+1676,The Brothers Grimm,$ 88000000,$,88000000
+1677,Lords of Dogtown,$ 25000000,$,25000000
+1678,Riding the Bullet,$ 5000000,$,5000000
+1679,EuroTrip,$ 25000000,$,25000000
+1680,A Cinderella Story,$ 19000000,$,19000000
+1681,Garfield,$ 50000000,$,50000000
+1682,The Family Stone,$ 18000000,$,18000000
+1683,Mr. & Mrs. Smith,$ 110000000,$,110000000
+1684,The Ballad of Jack and Rose,$ 1500000,$,1500000
+1685,Elektra,$ 43000000,$,43000000
+1686,Anchorman: The Legend of Ron Burgundy,$ 26000000,$,26000000
+1687,Robots,$ 75000000,$,75000000
+1688,Shall We Dance,$ 50000000,$,50000000
+1689,Walk the Line,$ 28000000,$,28000000
+1690,Agent Cody Banks 2: Destination London,$ 26000000,$,26000000
+1691,Blade: Trinity,$ 65000000,$,65000000
+1692,The Secret Life of Walter Mitty,$ 90000000,$,90000000
+1693,Wimbledon,$ 31000000,$,31000000
+1694,Constantine,$ 100000000,$,100000000
+1695,King Kong,$ 207000000,$,207000000
+1696,Valiant,$ 35000000,$,35000000
+1697,Confessions of a Teenage Drama Queen,$ 15000000,$,15000000
+1698,First Daughter,$ 30000000,$,30000000
+1699,Inglourious Basterds,$ 70000000,$,70000000
+1700,The Machinist,$ 5000000,$,5000000
+1701,Scary Movie 4,$ 45000000,$,45000000
+1702,Son of the Mask,$ 84000000,$,84000000
+1703,The Terminal,$ 60000000,$,60000000
+1704,The Life Aquatic with Steve Zissou,$ 50000000,$,50000000
+1705,The Box,$ 30000000,$,30000000
+1706,Der Untergang,EUR 13500000,EUR,14850000.000000002
+1707,New York Minute,$ 30000000,$,30000000
+1708,Dawn of the Dead,$ 26000000,$,26000000
+1709,Elephant,$ 3000000,$,3000000
+1710,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",$ 180000000,$,180000000
+1711,Secret Window,$ 40000000,$,40000000
+1712,Taking Lives,$ 45000000,$,45000000
+1713,Ju-on,$ 3500000,$,3500000
+1714,Oldeuboi,$ 3000000,$,3000000
+1715,Dodgeball: A True Underdog Story,$ 20000000,$,20000000
+1716,Without a Paddle,$ 19000000,$,19000000
+1717,Babylon A.D.,$ 70000000,$,70000000
+1718,A Dirty Shame,$ 15000000,$,15000000
+1719,Syriana,$ 50000000,$,50000000
+1720,Shaun of the Dead,GBP 4000000,GBP,5040000.0
+1721,Tenacious D in The Pick of Destiny,$ 20000000,$,20000000
+1722,A Walk Among the Tombstones,$ 28000000,$,28000000
+1723,Zero Day,$ 20000,$,20000
+1724,Happy Feet,$ 100000000,$,100000000
+1725,Harold & Kumar Go to White Castle,$ 9000000,$,9000000
+1726,The Jacket,$ 29000000,$,29000000
+1727,Mirrormask,$ 4000000,$,4000000
+1728,The Squid and the Whale,$ 1500000,$,1500000
+1729,Charlie and the Chocolate Factory,$ 150000000,$,150000000
+1730,D.E.B.S.,$ 3500000,$,3500000
+1731,Deuce Bigalow: European Gigolo,$ 22000000,$,22000000
+1732,Indiana Jones and the Kingdom of the Crystal Skull,$ 185000000,$,185000000
+1733,Hannibal Rising,$ 50000000,$,50000000
+1734,The Room,$ 6000000,$,6000000
+1735,The Village,$ 60000000,$,60000000
+1736,Are We There Yet?,$ 32000000,$,32000000
+1737,Elizabethtown,$ 45000000,$,45000000
+1738,I'm Not There,$ 20000000,$,20000000
+1739,National Treasure,$ 100000000,$,100000000
+1740,The Princess Diaries 2: Royal Engagement,$ 40000000,$,40000000
+1741,Sleepover,$ 10000000,$,10000000
+1742,Alone in the Dark,$ 20000000,$,20000000
+1743,Collateral,$ 65000000,$,65000000
+1744,Four Christmases,$ 80000000,$,80000000
+1745,Fun with Dick and Jane,$ 100000000,$,100000000
+1746,Jurassic World,$ 150000000,$,150000000
+1747,Mar adentro,EUR 10000000,EUR,11000000.0
+1748,Monster-in-Law,$ 43000000,$,43000000
+1749,Ultraviolet,$ 30000000,$,30000000
+1750,AVP: Alien vs. Predator,$ 60000000,$,60000000
+1751,Spanglish,$ 80000000,$,80000000
+1752,Stay,$ 50000000,$,50000000
+1753,Chicken Little,$ 150000000,$,150000000
+1754,The Hitchhiker's Guide to the Galaxy,$ 50000000,$,50000000
+1755,Iron Man,$ 140000000,$,140000000
+1756,The Bourne Supremacy,$ 75000000,$,75000000
+1757,Guess Who,$ 35000000,$,35000000
+1758,The Wedding Date,$ 15000000,$,15000000
+1759,Team America: World Police,$ 32000000,$,32000000
+1760,Batman Begins,$ 150000000,$,150000000
+1761,Les choristes,EUR 5500000,EUR,6050000.000000001
+1762,Journey to the Center of the Earth,$ 60000000,$,60000000
+1763,Kung fu,$ 20000000,$,20000000
+1764,Kiss Kiss Bang Bang,$ 15000000,$,15000000
+1765,Halloween,$ 15000000,$,15000000
+1766,Harry Potter and the Order of the Phoenix,$ 150000000,$,150000000
+1767,The Interpreter,$ 80000000,$,80000000
+1768,Kontroll,HUF 100000000,HUF,310000.0
+1769,Bewitched,$ 85000000,$,85000000
+1770,Che: Part Two,$ 40000000,$,40000000
+1771,Incident at Loch Ness,$ 1400000,$,1400000
+1772,Napoleon Dynamite,$ 400000,$,400000
+1773,Sideways,$ 16000000,$,16000000
+1774,Alfie,$ 60000000,$,60000000
+1775,White Noise,$ 10000000,$,10000000
+1776,Astro Boy,$ 65000000,$,65000000
+1777,Crash,$ 6500000,$,6500000
+1778,Layer Cake,GBP 4000000,GBP,5040000.0
+1779,Racing Stripes,$ 30000000,$,30000000
+1780,Rebound,$ 33100000,$,33100000
+1781,The Rum Diary,$ 45000000,$,45000000
+1782,Closer,$ 27000000,$,27000000
+1783,X-Men: The Last Stand,$ 210000000,$,210000000
+1784,Mean Creek,$ 500000,$,500000
+1785,Mean Girls,$ 17000000,$,17000000
+1786,Proof,$ 20000000,$,20000000
+1787,The Ring Two,$ 50000000,$,50000000
+1788,The Dukes of Hazzard,$ 50000000,$,50000000
+1789,Gnomeo & Juliet,$ 36000000,$,36000000
+1790,Into the Blue,$ 50000000,$,50000000
+1791,Kill Bill: Vol. 2,$ 30000000,$,30000000
+1792,Capote,$ 7000000,$,7000000
+1793,Serenity,$ 39000000,$,39000000
+1794,The Merchant of Venice,$ 30000000,$,30000000
+1795,The Lovely Bones,$ 65000000,$,65000000
+1796,Oliver Twist,$ 60000000,$,60000000
+1797,The Perfect Man,$ 10000000,$,10000000
+1798,Casino Royale,$ 150000000,$,150000000
+1799,Before Sunset,$ 2700000,$,2700000
+1800,White Chicks,$ 37000000,$,37000000
+1801,3:10 to Yuma,$ 55000000,$,55000000
+1802,Curious George,$ 50000000,$,50000000
+1803,Hide and Seek,$ 30000000,$,30000000
+1804,The Da Vinci Code,$ 125000000,$,125000000
+1805,Dark Water,$ 30000000,$,30000000
+1806,Ratatouille,$ 150000000,$,150000000
+1807,Stealth,$ 135000000,$,135000000
+1808,"Synecdoche, New York",$ 20000000,$,20000000
+1809,Zoom,$ 35000000,$,35000000
+1810,The Pink Panther,$ 80000000,$,80000000
+1811,BloodRayne,$ 25000000,$,25000000
+1812,Pirates of the Caribbean: Dead Man's Chest,$ 225000000,$,225000000
+1813,Cry Wolf,$ 1000000,$,1000000
+1814,Silent Hill,$ 50000000,$,50000000
+1815,The Weather Man,$ 22000000,$,22000000
+1816,Accepted,$ 23000000,$,23000000
+1817,The Amityville Horror,$ 19000000,$,19000000
+1818,Shi mian mai fu,CNY 100000000,CNY,14000000.000000002
+1819,In Good Company,$ 26000000,$,26000000
+1820,Miss Congeniality 2: Armed & Fabulous,$ 45000000,$,45000000
+1821,The Golden Compass,$ 180000000,$,180000000
+1822,Monster House,$ 75000000,$,75000000
+1823,Motherless Brooklyn,$ 26000000,$,26000000
+1824,Taegukgi hwinalrimyeo,$ 12800000,$,12800000
+1825,Where the Wild Things Are,$ 100000000,$,100000000
+1826,The Legend of Zorro,$ 75000000,$,75000000
+1827,Hitch,$ 70000000,$,70000000
+1828,The Constant Gardener,$ 25000000,$,25000000
+1829,Saw,$ 1200000,$,1200000
+1830,Seed of Chucky,$ 12000000,$,12000000
+1831,Caché,EUR 8000000,EUR,8800000.0
+1832,Christmas with the Kranks,$ 60000000,$,60000000
+1833,Transporter 2,$ 32000000,$,32000000
+1834,Brokeback Mountain,$ 14000000,$,14000000
+1835,Zwartboek,$ 21000000,$,21000000
+1836,Bee Movie,$ 150000000,$,150000000
+1837,Click,$ 82500000,$,82500000
+1838,Friday Night Lights,$ 30000000,$,30000000
+1839,Primer,$ 7000,$,7000
+1840,The Grudge,$ 10000000,$,10000000
+1841,A Lot Like Love,$ 30000000,$,30000000
+1842,Brick,$ 475000,$,475000
+1843,Coach Carter,$ 30000000,$,30000000
+1844,The Shaggy Dog,$ 50000000,$,50000000
+1845,Hotel Rwanda,$ 17500000,$,17500000
+1846,Catch and Release,$ 25000000,$,25000000
+1847,The Devil's Rejects,$ 7000000,$,7000000
+1848,The Pacifier,$ 56000000,$,56000000
+1849,North Country,$ 35000000,$,35000000
+1850,Perfume: The Story of a Murderer,$ 60000000,$,60000000
+1851,Wedding Crashers,$ 40000000,$,40000000
+1852,Meet the Robinsons,$ 150000000,$,150000000
+1853,Fat Albert,$ 26000000,$,26000000
+1854,Nanny McPhee,$ 25000000,$,25000000
+1855,Blood and Chocolate,$ 15000000,$,15000000
+1856,House of Wax,$ 40000000,$,40000000
+1857,Just My Luck,$ 28000000,$,28000000
+1858,The Skeleton Key,$ 43000000,$,43000000
+1859,Eight Below,$ 40000000,$,40000000
+1860,Memoirs of a Geisha,$ 85000000,$,85000000
+1861,Bolt,$ 150000000,$,150000000
+1862,Derailed,$ 22000000,$,22000000
+1863,The Longest Yard,$ 82000000,$,82000000
+1864,Tangled,$ 260000000,$,260000000
+1865,Rumor Has It...,$ 70000000,$,70000000
+1866,Bridge to Terabithia,$ 17000000,$,17000000
+1867,Clifford's Really Big Movie,$ 70000,$,70000
+1868,DOA: Dead or Alive,$ 21000000,$,21000000
+1869,Trade,$ 12000000,$,12000000
+1870,A History of Violence,$ 32000000,$,32000000
+1871,The Island,$ 126000000,$,126000000
+1872,Lord of War,$ 50000000,$,50000000
+1873,Herbie Fully Loaded,$ 50000000,$,50000000
+1874,Open Season,$ 85000000,$,85000000
+1875,A Good Year,$ 35000000,$,35000000
+1876,"Paris, je t'aime",$ 13000000,$,13000000
+1877,John Carter,$ 250000000,$,250000000
+1878,Sin City,$ 40000000,$,40000000
+1879,Underworld: Evolution,$ 50000000,$,50000000
+1880,Æon Flux,$ 62000000,$,62000000
+1881,The New World,$ 30000000,$,30000000
+1882,The Sisterhood of the Traveling Pants,$ 25000000,$,25000000
+1883,Youth in Revolt,$ 18000000,$,18000000
+1884,Everything Is Illuminated,$ 7000000,$,7000000
+1885,The Exorcism of Emily Rose,$ 19000000,$,19000000
+1886,Little Children,$ 26000000,$,26000000
+1887,Running Scared,$ 15000000,$,15000000
+1888,The Lives of Others,$ 2000000,$,2000000
+1889,Million Dollar Baby,$ 30000000,$,30000000
+1890,A Scanner Darkly,$ 8700000,$,8700000
+1891,Sky High,$ 35000000,$,35000000
+1892,Southland Tales,$ 17000000,$,17000000
+1893,The 40 Year Old Virgin,$ 26000000,$,26000000
+1894,The Wild,$ 80000000,$,80000000
+1895,Zathura: A Space Adventure,$ 65000000,$,65000000
+1896,The Eye,$ 12000000,$,12000000
+1897,The Guardian,$ 70000000,$,70000000
+1898,Pooh's Heffalump Movie,$ 20000000,$,20000000
+1899,War of the Worlds,$ 132000000,$,132000000
+1900,The Departed,$ 90000000,$,90000000
+1901,Sweeney Todd: The Demon Barber of Fleet Street,$ 50000000,$,50000000
+1902,Munich,$ 70000000,$,70000000
+1903,Flightplan,$ 55000000,$,55000000
+1904,The Heartbreak Kid,$ 60000000,$,60000000
+1905,Last Holiday,$ 45000000,$,45000000
+1906,Poseidon,$ 160000000,$,160000000
+1907,Watchmen,$ 130000000,$,130000000
+1908,Cowboys & Aliens,$ 163000000,$,163000000
+1909,Hustle & Flow,$ 2800000,$,2800000
+1910,The Lake House,$ 40000000,$,40000000
+1911,Nim's Island,$ 37000000,$,37000000
+1912,Tideland,$ 19300000,$,19300000
+1913,88 Minutes,$ 30000000,$,30000000
+1914,Hellboy II: The Golden Army,$ 85000000,$,85000000
+1915,Broken Flowers,$ 10000000,$,10000000
+1916,Evan Almighty,$ 175000000,$,175000000
+1917,Shrek the Third,$ 160000000,$,160000000
+1918,Spider-Man 3,$ 258000000,$,258000000
+1919,Charlotte's Web,$ 85000000,$,85000000
+1920,Elizabeth: The Golden Age,$ 55000000,$,55000000
+1921,Pride & Prejudice,$ 28000000,$,28000000
+1922,Banlieue 13,EUR 12000000,EUR,13200000.000000002
+1923,Barnyard,$ 51000000,$,51000000
+1924,Final Destination 3,$ 25000000,$,25000000
+1925,The Fountain,$ 35000000,$,35000000
+1926,Talladega Nights: The Ballad of Ricky Bobby,$ 72500000,$,72500000
+1927,Martian Child,$ 27000000,$,27000000
+1928,The Secret Life of Bees,$ 11000000,$,11000000
+1929,The Spiderwick Chronicles,$ 90000000,$,90000000
+1930,Wolf Creek,$ 1000000,$,1000000
+1931,Match Point,$ 15000000,$,15000000
+1932,300,$ 65000000,$,65000000
+1933,Becoming Jane,$ 16500000,$,16500000
+1934,Harry Potter and the Half-Blood Prince,$ 250000000,$,250000000
+1935,Transformers,$ 150000000,$,150000000
+1936,Flags of Our Fathers,$ 90000000,$,90000000
+1937,Jarhead,$ 72000000,$,72000000
+1938,Land of the Dead,$ 15000000,$,15000000
+1939,Dead Man's Shoes,GBP 695393,GBP,876195.18
+1940,Doom,$ 60000000,$,60000000
+1941,In the Land of Women,$ 10000000,$,10000000
+1942,The Kite Runner,$ 20000000,$,20000000
+1943,Stranger Than Fiction,$ 30000000,$,30000000
+1944,The Tale of Despereaux,$ 60000000,$,60000000
+1945,Keane,$ 850000,$,850000
+1946,The Texas Chainsaw Massacre: The Beginning,$ 16000000,$,16000000
+1947,Veer-Zaara,$ 7000000,$,7000000
+1948,Domino,$ 50000000,$,50000000
+1949,Street Kings,$ 20000000,$,20000000
+1950,Control,EUR 4500000,EUR,4950000.0
+1951,Gridiron Gang,$ 30000000,$,30000000
+1952,Red Eye,$ 26000000,$,26000000
+1953,The Curious Case of Benjamin Button,$ 150000000,$,150000000
+1954,Big Momma's House 2,$ 40000000,$,40000000
+1955,Imagine Me & You,$ 7900000,$,7900000
+1956,Diary of a Mad Black Woman,$ 5500000,$,5500000
+1957,Hatchet,$ 1500000,$,1500000
+1958,Marie Antoinette,$ 40000000,$,40000000
+1959,Are We Done Yet?,$ 28000000,$,28000000
+1960,Surf's Up,$ 100000000,$,100000000
+1961,Bin-jip,$ 1000000,$,1000000
+1962,Charlie Bartlett,$ 12000000,$,12000000
+1963,Flushed Away,$ 149000000,$,149000000
+1964,Hard Candy,$ 950000,$,950000
+1965,Joyeux Noël,$ 22000000,$,22000000
+1966,Clerks II,$ 5000000,$,5000000
+1967,The Adventures of Sharkboy and Lavagirl 3-D,$ 50000000,$,50000000
+1968,Employee of the Month,$ 12000000,$,12000000
+1969,Get Smart,$ 80000000,$,80000000
+1970,Hot Fuzz,GBP 8000000,GBP,10080000.0
+1971,Just Like Heaven,$ 58000000,$,58000000
+1972,Lucky Number Slevin,$ 27000000,$,27000000
+1973,Run Fatboy Run,$ 10000000,$,10000000
+1974,The Messengers,$ 16000000,$,16000000
+1975,Trailer Park Boys: The Movie,CAD 5000000,CAD,3600000.0
+1976,Superhero Movie,$ 35000000,$,35000000
+1977,August Rush,$ 30000000,$,30000000
+1978,Dinner for Schmucks,$ 69000000,$,69000000
+1979,Failure to Launch,$ 50000000,$,50000000
+1980,The Great Debaters,$ 15000000,$,15000000
+1981,Hairspray,$ 75000000,$,75000000
+1982,The Invasion,$ 80000000,$,80000000
+1983,The Lookout,$ 16000000,$,16000000
+1984,Thank You for Smoking,$ 6500000,$,6500000
+1985,Hollywoodland,$ 28000000,$,28000000
+1986,The A-Team,$ 110000000,$,110000000
+1987,An American Haunting,$ 14000000,$,14000000
+1988,The Ant Bully,$ 50000000,$,50000000
+1989,Aquamarine,$ 12000000,$,12000000
+1990,Four Brothers,$ 45000000,$,45000000
+1991,Little Man,$ 64000000,$,64000000
+1992,Get Rich or Die Tryin',$ 40000000,$,40000000
+1993,Miami Vice,$ 135000000,$,135000000
+1994,The Women,$ 16000000,$,16000000
+1995,Everyone's Hero,$ 35000000,$,35000000
+1996,Role Models,$ 28000000,$,28000000
+1997,The Possession,$ 14000000,$,14000000
+1998,P.S. I Love You,$ 30000000,$,30000000
+1999,Resident Evil: Extinction,$ 45000000,$,45000000
+2000,Fantastic Mr. Fox,$ 40000000,$,40000000
+2001,The Fog,$ 18000000,$,18000000
+2002,Saw II,$ 4000000,$,4000000
+2003,Krrish,$ 10200000,$,10200000
+2004,Real Steel,$ 110000000,$,110000000
+2005,Daybreakers,$ 20000000,$,20000000
+2006,"Good Night, and Good Luck.",$ 7000000,$,7000000
+2007,The Grudge 2,$ 20000000,$,20000000
+2008,V for Vendetta,$ 54000000,$,54000000
+2009,The Descent,GBP 3500000,GBP,4410000.0
+2010,The Giver,$ 25000000,$,25000000
+2011,The Invisible,$ 30000000,$,30000000
+2012,Next,$ 70000000,$,70000000
+2013,Toy Story 3,$ 200000000,$,200000000
+2014,Friends with Money,$ 6500000,$,6500000
+2015,G-Force,$ 150000000,$,150000000
+2016,The Queen,GBP 9800000,GBP,12348000.0
+2017,Alita: Battle Angel,$ 170000000,$,170000000
+2018,See No Evil,$ 8000000,$,8000000
+2019,Akeelah and the Bee,$ 8000000,$,8000000
+2020,The Benchwarmers,$ 33000000,$,33000000
+2021,Ice Age: The Meltdown,$ 80000000,$,80000000
+2022,Peaceful Warrior,$ 10000000,$,10000000
+2023,Terminator Salvation,$ 200000000,$,200000000
+2024,Slither,$ 15000000,$,15000000
+2025,The Bourne Ultimatum,$ 110000000,$,110000000
+2026,Kung Fu Panda,$ 130000000,$,130000000
+2027,Stay Alive,$ 7000000,$,7000000
+2028,Volver,EUR 7450000,EUR,8195000.000000001
+2029,Beowulf,$ 150000000,$,150000000
+2030,Lincoln,$ 65000000,$,65000000
+2031,"Yours, Mine & Ours",$ 45000000,$,45000000
+2032,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,$ 18000000,$,18000000
+2033,Dreamgirls,$ 70000000,$,70000000
+2034,Hoodwinked!,$ 30000000,$,30000000
+2035,The Illusionist,$ 16500000,$,16500000
+2036,The Sentinel,$ 60000000,$,60000000
+2037,The Assassination of Jesse James by the Coward Robert Ford,$ 30000000,$,30000000
+2038,The X Files: I Want to Believe,$ 30000000,$,30000000
+2039,Zodiac,$ 65000000,$,65000000
+2040,Keeping Mum,$ 169000,$,169000
+2041,Across the Universe,$ 45000000,$,45000000
+2042,Blades of Glory,$ 61000000,$,61000000
+2043,Invincible,$ 40000000,$,40000000
+2044,Scott Pilgrim vs. the World,$ 60000000,$,60000000
+2045,Take the Lead,$ 30000000,$,30000000
+2046,The Painted Veil,$ 19400000,$,19400000
+2047,Knowing,$ 50000000,$,50000000
+2048,Shazam!,$ 100000000,$,100000000
+2049,Sunshine,GBP 26000000,GBP,32760000.0
+2050,Hancock,$ 150000000,$,150000000
+2051,Puss in Boots,$ 130000000,$,130000000
+2052,Eragon,$ 100000000,$,100000000
+2053,Little Miss Sunshine,$ 8000000,$,8000000
+2054,Pirates of the Caribbean: At World's End,$ 300000000,$,300000000
+2055,RV,$ 50000000,$,50000000
+2056,Babel,$ 25000000,$,25000000
+2057,Passengers,$ 25000000,$,25000000
+2058,Jodhaa Akbar,INR 400000000,INR,5200000.0
+2059,La môme,$ 25000000,$,25000000
+2060,16 Blocks,$ 52000000,$,52000000
+2061,Blood Diamond,$ 100000000,$,100000000
+2062,Hostel,$ 4800000,$,4800000
+2063,Punisher: War Zone,$ 35000000,$,35000000
+2064,The Wicker Man,$ 40000000,$,40000000
+2065,1408,$ 25000000,$,25000000
+2066,Cirque du Freak: The Vampire's Assistant,$ 40000000,$,40000000
+2067,Horton Hears a Who!,$ 85000000,$,85000000
+2068,Chinjeolhan geumjassi,KRW 4200000000,KRW,3444000.0
+2069,Wonder Woman,$ 149000000,$,149000000
+2070,The Break-Up,$ 52000000,$,52000000
+2071,Cheaper by the Dozen 2,$ 60000000,$,60000000
+2072,Death Race,$ 45000000,$,45000000
+2073,Gone Baby Gone,$ 19000000,$,19000000
+2074,Good Luck Chuck,$ 25000000,$,25000000
+2075,Lady in the Water,$ 70000000,$,70000000
+2076,The Santa Clause 3: The Escape Clause,$ 12000000,$,12000000
+2077,The Time Traveler's Wife,$ 39000000,$,39000000
+2078,Mr. Bean's Holiday,$ 25000000,$,25000000
+2079,Deja Vu,$ 75000000,$,75000000
+2080,Hoot,$ 15000000,$,15000000
+2081,TMNT,$ 34000000,$,34000000
+2082,42,$ 40000000,$,40000000
+2083,Black Christmas,$ 9000000,$,9000000
+2084,Flyboys,$ 60000000,$,60000000
+2085,The Hills Have Eyes,$ 15000000,$,15000000
+2086,Inside Man,$ 45000000,$,45000000
+2087,Life of Pi,$ 120000000,$,120000000
+2088,Pulse,$ 20500000,$,20500000
+2089,The Pursuit of Happyness,$ 55000000,$,55000000
+2090,She's the Man,$ 20000000,$,20000000
+2091,Aqua Teen Hunger Force Colon Movie Film for Theaters,$ 750000,$,750000
+2092,The Crazies,$ 20000000,$,20000000
+2093,Garfield: A Tale of Two Kitties,$ 60000000,$,60000000
+2094,How to Lose Friends & Alienate People,$ 28000000,$,28000000
+2095,The Last King of Scotland,$ 6000000,$,6000000
+2096,Madea's Family Reunion,$ 6000000,$,6000000
+2097,Dead Silence,$ 20000000,$,20000000
+2098,Australia,$ 130000000,$,130000000
+2099,When a Stranger Calls,$ 15000000,$,15000000
+2100,The Equalizer,$ 55000000,$,55000000
+2101,Goya's Ghosts,$ 50000000,$,50000000
+2102,John Tucker Must Die,$ 18000000,$,18000000
+2103,Jaan-E-Mann: Let's Fall in Love... Again,$ 2000000,$,2000000
+2104,Mr. Magorium's Wonder Emporium,$ 65000000,$,65000000
+2105,Pan's Labyrinth,$ 19000000,$,19000000
+2106,Perfect Stranger,$ 60795000,$,60795000
+2107,Stormbreaker,$ 40000000,$,40000000
+2108,Nacho Libre,$ 35000000,$,35000000
+2109,Scoop,$ 4000000,$,4000000
+2110,Fido,$ 8000000,$,8000000
+2111,The Holiday,$ 85000000,$,85000000
+2112,Captain America: The First Avenger,$ 140000000,$,140000000
+2113,The Devil Wears Prada,$ 35000000,$,35000000
+2114,A Long Way Down,$ 12000000,$,12000000
+2115,Sin City: A Dame to Kill For,$ 65000000,$,65000000
+2116,X-Men Origins: Wolverine,$ 150000000,$,150000000
+2117,Enchanted,$ 85000000,$,85000000
+2118,Code Name: The Cleaner,$ 20000000,$,20000000
+2119,Daddy Day Camp,$ 6000000,$,6000000
+2120,Grindhouse,$ 67000000,$,67000000
+2121,The Last Legion,$ 35000000,$,35000000
+2122,Outlander,$ 50000000,$,50000000
+2123,Rambo,$ 50000000,$,50000000
+2124,The Simpsons Movie,$ 75000000,$,75000000
+2125,Step Up,$ 12000000,$,12000000
+2126,"You, Me and Dupree",$ 54000000,$,54000000
+2127,28 Weeks Later,$ 15000000,$,15000000
+2128,The Fast and the Furious: Tokyo Drift,$ 85000000,$,85000000
+2129,Freedom Writers,$ 21000000,$,21000000
+2130,El orfanato,EUR 3400000,EUR,3740000.0000000005
+2131,Piranha 3D,$ 24000000,$,24000000
+2132,"OSS 117: Le Caire, nid d'espions",EUR 14000000,EUR,15400000.000000002
+2133,National Treasure: Book of Secrets,$ 130000000,$,130000000
+2134,December Boys,$ 4000000,$,4000000
+2135,Hitman,$ 24000000,$,24000000
+2136,Igor,$ 25000000,$,25000000
+2137,Michael Clayton,$ 25000000,$,25000000
+2138,Notes on a Scandal,$ 15000000,$,15000000
+2139,Push,$ 38000000,$,38000000
+2140,Shoot 'Em Up,$ 39000000,$,39000000
+2141,My Super Ex-Girlfriend,$ 30000000,$,30000000
+2142,Date Movie,$ 20000000,$,20000000
+2143,Ten Canoes,AUD 2200000,AUD,1430000.0
+2144,Margaret,$ 14000000,$,14000000
+2145,The Omen,$ 25000000,$,25000000
+2146,Max Payne,$ 35000000,$,35000000
+2147,The Other Boleyn Girl,$ 35000000,$,35000000
+2148,Juno,$ 7500000,$,7500000
+2149,Gwoemul,KRW 12215500000,KRW,10016710.0
+2150,Tsotsi,$ 3000000,$,3000000
+2151,The Dark Knight,$ 185000000,$,185000000
+2152,There Will Be Blood,$ 25000000,$,25000000
+2153,Things We Lost in the Fire,$ 16000000,$,16000000
+2154,World Trade Center,$ 65000000,$,65000000
+2155,Ex Machina,$ 15000000,$,15000000
+2156,Tower Heist,$ 75000000,$,75000000
+2157,9,$ 30000000,$,30000000
+2158,Apocalypto,$ 40000000,$,40000000
+2159,Charlie Wilson's War,$ 75000000,$,75000000
+2160,Penelope,$ 15000000,$,15000000
+2161,The Smurfs,$ 110000000,$,110000000
+2162,Notorious,$ 20000000,$,20000000
+2163,The Mechanic,$ 40000000,$,40000000
+2164,Prince of Persia: The Sands of Time,$ 200000000,$,200000000
+2165,Waitress,$ 1500000,$,1500000
+2166,United 93,$ 15000000,$,15000000
+2167,"Hail, Caesar!",$ 22000000,$,22000000
+2168,Smokin' Aces,$ 17000000,$,17000000
+2169,The Abandoned,EUR 3000000,EUR,3300000.0000000005
+2170,The Covenant,$ 20000000,$,20000000
+2171,Mister Lonely,$ 9500000,$,9500000
+2172,The Brave One,$ 70000000,$,70000000
+2173,Norbit,$ 60000000,$,60000000
+2174,Premonition,$ 20000000,$,20000000
+2175,Unstoppable,$ 100000000,$,100000000
+2176,Wristcutters: A Love Story,$ 1000000,$,1000000
+2177,Extremely Loud & Incredibly Close,$ 40000000,$,40000000
+2178,Night at the Museum,$ 110000000,$,110000000
+2179,No Country for Old Men,$ 25000000,$,25000000
+2180,21,$ 35000000,$,35000000
+2181,Cthulhu,$ 750000,$,750000
+2182,The Tree of Life,$ 32000000,$,32000000
+2183,Knocked Up,$ 30000000,$,30000000
+2184,Ant-Man,$ 130000000,$,130000000
+2185,Rocky Balboa,$ 24000000,$,24000000
+2186,Nancy Drew,$ 20000000,$,20000000
+2187,Crank,$ 12000000,$,12000000
+2188,Madagascar: Escape 2 Africa,$ 150000000,$,150000000
+2189,One Missed Call,$ 20000000,$,20000000
+2190,Season of the Witch,$ 40000000,$,40000000
+2191,This Is England,GBP 1500000,GBP,1890000.0
+2192,Dan in Real Life,$ 25000000,$,25000000
+2193,I Am Legend,$ 150000000,$,150000000
+2194,Los cronocrímenes,$ 2600000,$,2600000
+2195,Hall Pass,$ 36000000,$,36000000
+2196,No Reservations,$ 28000000,$,28000000
+2197,The Croods,$ 135000000,$,135000000
+2198,Harold & Kumar Escape from Guantanamo Bay,$ 12000000,$,12000000
+2199,Miss Potter,$ 30000000,$,30000000
+2200,The Prestige,$ 40000000,$,40000000
+2201,Pride and Glory,$ 30000000,$,30000000
+2202,Shutter,$ 8000000,$,8000000
+2203,Space Chimps,$ 37000000,$,37000000
+2204,The Strangers,$ 9000000,$,9000000
+2205,Doomsday,$ 30000000,$,30000000
+2206,The Seeker: The Dark Is Rising,$ 45000000,$,45000000
+2207,The Secret of Kells,$ 8000000,$,8000000
+2208,Mr. Nobody,$ 47000000,$,47000000
+2209,Wind Chill,$ 6000000,$,6000000
+2210,Fly Me to the Moon,$ 25000000,$,25000000
+2211,Beerfest,$ 17500000,$,17500000
+2212,4: Rise of the Silver Surfer,$ 130000000,$,130000000
+2213,Fred Claus,$ 100000000,$,100000000
+2214,Stardust,$ 70000000,$,70000000
+2215,Disturbia,$ 20000000,$,20000000
+2216,Fanboys,$ 3900000,$,3900000
+2217,Jumper,$ 85000000,$,85000000
+2218,My Name Is Bruce,$ 1500000,$,1500000
+2219,The Nanny Diaries,$ 20000000,$,20000000
+2220,Saw III,$ 10000000,$,10000000
+2221,Silence,$ 46000000,$,46000000
+2222,Something Borrowed,$ 35000000,$,35000000
+2223,Suburbicon,$ 25000000,$,25000000
+2224,Tulip Fever,$ 25000000,$,25000000
+2225,The Haunting in Connecticut,$ 10000000,$,10000000
+2226,Furry Vengeance,$ 35000000,$,35000000
+2227,The Game Plan,$ 22000000,$,22000000
+2228,CHIPS,$ 25000000,$,25000000
+2229,Wanted,$ 75000000,$,75000000
+2230,Ramona and Beezus,$ 15000000,$,15000000
+2231,"Welcome Home, Roscoe Jenkins",$ 35000000,$,35000000
+2232,Ocean's Thirteen,$ 85000000,$,85000000
+2233,Vicky Cristina Barcelona,$ 15500000,$,15500000
+2234,Hostel: Part II,$ 10200000,$,10200000
+2235,Letters from Iwo Jima,$ 19000000,$,19000000
+2236,Rings,$ 25000000,$,25000000
+2237,We Own the Night,$ 21000000,$,21000000
+2238,Guru,INR 150000000,INR,1950000.0
+2239,The Chronicles of Narnia: Prince Caspian,$ 225000000,$,225000000
+2240,Avatar,$ 237000000,$,237000000
+2241,War,$ 25000000,$,25000000
+2242,AVPR: Aliens vs Predator - Requiem,$ 40000000,$,40000000
+2243,Friday the 13th,$ 19000000,$,19000000
+2244,Love & Other Drugs,$ 30000000,$,30000000
+2245,Into the Wild,$ 15000000,$,15000000
+2246,Music and Lyrics,$ 40000000,$,40000000
+2247,Body of Lies,$ 70000000,$,70000000
+2248,We Are Marshall,$ 65000000,$,65000000
+2249,The Water Horse,$ 40000000,$,40000000
+2250,I Now Pronounce You Chuck & Larry,$ 85000000,$,85000000
+2251,License to Wed,$ 35000000,$,35000000
+2252,Planet 51,$ 70000000,$,70000000
+2253,Doogal,$ 20000000,$,20000000
+2254,A Thousand Words,$ 40000000,$,40000000
+2255,Brothers,$ 26000000,$,26000000
+2256,My Blueberry Nights,$ 10000000,$,10000000
+2257,American Gangster,$ 100000000,$,100000000
+2258,Eastern Promises,GBP 25000000,GBP,31500000.0
+2259,Escape from Planet Earth,$ 40000000,$,40000000
+2260,Meet Dave,$ 60000000,$,60000000
+2261,What's Your Number?,$ 20000000,$,20000000
+2262,Fool's Gold,$ 70000000,$,70000000
+2263,Man of Steel,$ 225000000,$,225000000
+2264,Aliens in the Attic,$ 45000000,$,45000000
+2265,Drive,$ 15000000,$,15000000
+2266,Everybody's Fine,$ 21000000,$,21000000
+2267,Flawless,$ 20000000,$,20000000
+2268,The Princess and the Frog,$ 105000000,$,105000000
+2269,In Bruges,$ 15000000,$,15000000
+2270,Mr. Brooks,$ 20000000,$,20000000
+2271,The Signal,$ 50000,$,50000
+2272,The Wolfman,$ 150000000,$,150000000
+2273,Atonement,$ 30000000,$,30000000
+2274,Hotel for Dogs,$ 35000000,$,35000000
+2275,Who's Your Caddy?,$ 7000000,$,7000000
+2276,The Boxtrolls,$ 60000000,$,60000000
+2277,The Man Who Knew Infinity,$ 10000000,$,10000000
+2278,The Incredible Burt Wonderstone,$ 30000000,$,30000000
+2279,Dallas Buyers Club,$ 5000000,$,5000000
+2280,Mirrors,$ 35000000,$,35000000
+2281,Jack Reacher,$ 60000000,$,60000000
+2282,R.I.P.D.,$ 130000000,$,130000000
+2283,Georgia Rule,$ 20000000,$,20000000
+2284,Case 39,$ 26000000,$,26000000
+2285,Death at a Funeral,$ 9000000,$,9000000
+2286,Mamma Mia!,$ 52000000,$,52000000
+2287,Scary Movie 5,$ 20000000,$,20000000
+2288,Cassandra's Dream,GBP 13000000,GBP,16380000.0
+2289,Star Trek,$ 150000000,$,150000000
+2290,Be Kind Rewind,$ 20000000,$,20000000
+2291,Epic Movie,$ 20000000,$,20000000
+2292,Forgetting Sarah Marshall,$ 30000000,$,30000000
+2293,The Incredible Hulk,$ 150000000,$,150000000
+2294,Deception,$ 25000000,$,25000000
+2295,Transsiberian,$ 15000000,$,15000000
+2296,Clash of the Titans,$ 125000000,$,125000000
+2297,Thor,$ 150000000,$,150000000
+2298,Warcraft,$ 160000000,$,160000000
+2299,Bratz,$ 20000000,$,20000000
+2300,It's Kind of a Funny Story,$ 8000000,$,8000000
+2301,La terza madre,$ 3500000,$,3500000
+2302,Facing the Giants,$ 100000,$,100000
+2303,Lars and the Real Girl,$ 12000000,$,12000000
+2304,Blood: The Last Vampire,$ 30000000,$,30000000
+2305,Angels & Demons,$ 150000000,$,150000000
+2306,Funny Games,$ 15000000,$,15000000
+2307,"Se, jie",$ 15000000,$,15000000
+2308,"New York, I Love You",$ 14700000,$,14700000
+2309,Persepolis,$ 7300000,$,7300000
+2310,Tooth Fairy,$ 48000000,$,48000000
+2311,The Danish Girl,$ 15000000,$,15000000
+2312,Jack and Jill,$ 79000000,$,79000000
+2313,Take Me Home Tonight,$ 23000000,$,23000000
+2314,Speed Racer,$ 120000000,$,120000000
+2315,The Love Guru,$ 62000000,$,62000000
+2316,Die Fälscher,EUR 4200000,EUR,4620000.0
+2317,Bangkok Dangerous,$ 45000000,$,45000000
+2318,Percy Jackson & the Olympians: The Lightning Thief,$ 95000000,$,95000000
+2319,Seven Pounds,$ 55000000,$,55000000
+2320,The Stepfather,$ 20000000,$,20000000
+2321,Frontière(s),$ 3000000,$,3000000
+2322,She's Out of My League,$ 20000000,$,20000000
+2323,Sydney White,$ 16500000,$,16500000
+2324,The Book Thief,$ 19000000,$,19000000
+2325,Conan the Barbarian,$ 90000000,$,90000000
+2326,Interstellar,$ 165000000,$,165000000
+2327,World War Z,$ 190000000,$,190000000
+2328,Flipped,$ 14000000,$,14000000
+2329,Valentine's Day,$ 52000000,$,52000000
+2330,Drillbit Taylor,$ 40000000,$,40000000
+2331,Ghosts of Girlfriends Past,$ 37500000,$,37500000
+2332,Marley & Me,$ 60000000,$,60000000
+2333,Priest,$ 60000000,$,60000000
+2334,Shooter,$ 61000000,$,61000000
+2335,Changeling,$ 55000000,$,55000000
+2336,The Bucket List,$ 45000000,$,45000000
+2337,Dracula Untold,$ 70000000,$,70000000
+2338,Superbad,$ 20000000,$,20000000
+2339,Quantum of Solace,$ 200000000,$,200000000
+2340,Godzilla,$ 160000000,$,160000000
+2341,The Spirit,$ 60000000,$,60000000
+2342,Ta Ra Rum Pum,$ 6000000,$,6000000
+2343,Underworld: Rise of the Lycans,$ 35000000,$,35000000
+2344,Hotel Transylvania,$ 85000000,$,85000000
+2345,Pet Sematary,$ 21000000,$,21000000
+2346,House,$ 2500000,$,2500000
+2347,The Darjeeling Limited,$ 16000000,$,16000000
+2348,The Pink Panther 2,$ 70000000,$,70000000
+2349,After.Life,$ 4500000,$,4500000
+2350,Step Brothers,$ 65000000,$,65000000
+2351,Semi-Pro,$ 55000000,$,55000000
+2352,The Town,$ 37000000,$,37000000
+2353,Walk Hard: The Dewey Cox Story,$ 35000000,$,35000000
+2354,The Kids Are All Right,$ 4000000,$,4000000
+2355,Cloudy with a Chance of Meatballs,$ 100000000,$,100000000
+2356,The Collector,$ 6000000,$,6000000
+2357,The Last House on the Left,$ 15000000,$,15000000
+2358,The Avengers,$ 220000000,$,220000000
+2359,Epic,$ 100000000,$,100000000
+2360,Diary of the Dead,$ 2000000,$,2000000
+2361,The House Bunny,$ 25000000,$,25000000
+2362,The Mummy: Tomb of the Dragon Emperor,$ 145000000,$,145000000
+2363,Super Troopers 2,$ 13500000,$,13500000
+2364,Blindness,$ 25000000,$,25000000
+2365,Tropa de Elite,$ 4000000,$,4000000
+2366,Valhalla Rising,GBP 4000000,GBP,5040000.0
+2367,Sunshine Cleaning,$ 8000000,$,8000000
+2368,The Duchess,GBP 13500000,GBP,17010000.0
+2369,Mr. Peabody & Sherman,$ 145000000,$,145000000
+2370,The Forbidden Kingdom,$ 55000000,$,55000000
+2371,My Life in Ruins,$ 17000000,$,17000000
+2372,Made of Honor,$ 40000000,$,40000000
+2373,Frost/Nixon,$ 25000000,$,25000000
+2374,Antichrist,$ 11000000,$,11000000
+2375,Baby Mama,$ 30000000,$,30000000
+2376,Red State,$ 4000000,$,4000000
+2377,Nine,$ 80000000,$,80000000
+2378,Gake no ue no Ponyo,$ 34000000,$,34000000
+2379,The Blind Side,$ 29000000,$,29000000
+2380,Eat Pray Love,$ 60000000,$,60000000
+2381,Sanctum,$ 30000000,$,30000000
+2382,All About Steve,$ 15000000,$,15000000
+2383,Snitch,$ 15000000,$,15000000
+2384,The Mist,$ 18000000,$,18000000
+2385,Legends of Oz: Dorothy's Return,$ 70000000,$,70000000
+2386,The Wedding Ringer,$ 23000000,$,23000000
+2387,Burn After Reading,$ 37000000,$,37000000
+2388,The Hurt Locker,$ 15000000,$,15000000
+2389,The Switch,$ 19000000,$,19000000
+2390,Brüno,$ 42000000,$,42000000
+2391,Saw IV,$ 10000000,$,10000000
+2392,Lions for Lambs,$ 35000000,$,35000000
+2393,Letters to Juliet,$ 30000000,$,30000000
+2394,How to Train Your Dragon,$ 165000000,$,165000000
+2395,Monsters vs. Aliens,$ 175000000,$,175000000
+2396,Shrek Forever After,$ 165000000,$,165000000
+2397,I Know Who Killed Me,$ 12000000,$,12000000
+2398,The Road,$ 25000000,$,25000000
+2399,Bride Wars,$ 30000000,$,30000000
+2400,The Hobbit: An Unexpected Journey,$ 180000000,$,180000000
+2401,Love & Mercy,$ 10000000,$,10000000
+2402,The Thing,$ 38000000,$,38000000
+2403,Sukiyaki Western Django,$ 3800000,$,3800000
+2404,Once,$ 150000,$,150000
+2405,Pineapple Express,$ 27000000,$,27000000
+2406,WALL·E,$ 180000000,$,180000000
+2407,The Boy in the Striped Pyjamas,$ 12500000,$,12500000
+2408,Doubt,$ 20000000,$,20000000
+2409,The Legend of Tarzan,$ 180000000,$,180000000
+2410,Flammen & Citronen,DKK 45000000,DKK,6750000.0
+2411,Harry Potter and the Deathly Hallows: Part 1,GBP 150000000,GBP,189000000.0
+2412,Precious,$ 10000000,$,10000000
+2413,Rabbit Hole,$ 5000000,$,5000000
+2414,Taken,$ 25000000,$,25000000
+2415,The Last Airbender,$ 150000000,$,150000000
+2416,Silent Hill: Revelation,$ 20000000,$,20000000
+2417,Tropic Thunder,$ 92000000,$,92000000
+2418,Salt,$ 110000000,$,110000000
+2419,Source Code,$ 32000000,$,32000000
+2420,Black Swan,$ 13000000,$,13000000
+2421,Lakeview Terrace,$ 20000000,$,20000000
+2422,The Amazing Spider-Man,$ 230000000,$,230000000
+2423,The Happening,$ 48000000,$,48000000
+2424,Mad Money,$ 22000000,$,22000000
+2425,Alvin and the Chipmunks,$ 60000000,$,60000000
+2426,The Killer Inside Me,$ 13000000,$,13000000
+2427,Robin Hood,$ 200000000,$,200000000
+2428,Revolutionary Road,$ 35000000,$,35000000
+2429,You Don't Mess with the Zohan,$ 90000000,$,90000000
+2430,Bedtime Stories,$ 80000000,$,80000000
+2431,The Objective,$ 4000000,$,4000000
+2432,High School Musical 3: Senior Year,$ 11000000,$,11000000
+2433,The Young Victoria,$ 35000000,$,35000000
+2434,The International,$ 50000000,$,50000000
+2435,Repo! The Genetic Opera,$ 8500000,$,8500000
+2436,The Ruins,$ 8000000,$,8000000
+2437,The Sorcerer's Apprentice,$ 150000000,$,150000000
+2438,Tetro,$ 5000000,$,5000000
+2439,The Fighter,$ 25000000,$,25000000
+2440,Pathology,$ 8000000,$,8000000
+2441,The Conspirator,$ 25000000,$,25000000
+2442,Hugo,$ 150000000,$,150000000
+2443,City of Ember,$ 55000000,$,55000000
+2444,The Day the Earth Stood Still,$ 80000000,$,80000000
+2445,Little Fockers,$ 100000000,$,100000000
+2446,Justice League,$ 300000000,$,300000000
+2447,Elegy,$ 13000000,$,13000000
+2448,17 Again,$ 20000000,$,20000000
+2449,Hitchcock,$ 15700000,$,15700000
+2450,The Reader,$ 32000000,$,32000000
+2451,Bandslam,$ 20000000,$,20000000
+2452,Sucker Punch,$ 82000000,$,82000000
+2453,The Chronicles of Narnia: The Voyage of the Dawn Treader,$ 155000000,$,155000000
+2454,Nick and Norah's Infinite Playlist,$ 10000000,$,10000000
+2455,The Adventures of Tintin,$ 135000000,$,135000000
+2456,Machete,$ 10500000,$,10500000
+2457,Valkyrie,$ 75000000,$,75000000
+2458,Hunger,GBP 1500000,GBP,1890000.0
+2459,Surrogates,$ 80000000,$,80000000
+2460,Sherlock Holmes,$ 90000000,$,90000000
+2461,27 Dresses,$ 30000000,$,30000000
+2462,Dear John,$ 25000000,$,25000000
+2463,The Green Hornet,$ 120000000,$,120000000
+2464,Hanna,$ 30000000,$,30000000
+2465,The Wolf of Wall Street,$ 100000000,$,100000000
+2466,Sex and the City,$ 65000000,$,65000000
+2467,He's Just Not That Into You,$ 40000000,$,40000000
+2468,Megamind,$ 130000000,$,130000000
+2469,Countdown,$ 6500000,$,6500000
+2470,Zack and Miri Make a Porno,$ 24000000,$,24000000
+2471,The Iron Lady,$ 13000000,$,13000000
+2472,Slumdog Millionaire,$ 15000000,$,15000000
+2473,Knight and Day,$ 117000000,$,117000000
+2474,Fast & Furious,$ 85000000,$,85000000
+2475,Milk,$ 20000000,$,20000000
+2476,Alice in Wonderland,$ 200000000,$,200000000
+2477,Child 44,$ 50000000,$,50000000
+2478,Beverly Hills Chihuahua,$ 20000000,$,20000000
+2479,The Sisterhood of Night,$ 1000000,$,1000000
+2480,Fame,$ 18000000,$,18000000
+2481,The Runaways,$ 10000000,$,10000000
+2482,Splice,$ 30000000,$,30000000
+2483,Our Brand Is Crisis,$ 28000000,$,28000000
+2484,The Sisterhood of the Traveling Pants 2,$ 27000000,$,27000000
+2485,A Serious Man,$ 7000000,$,7000000
+2486,Selma,$ 20000000,$,20000000
+2487,Centurion,$ 12000000,$,12000000
+2488,Copie conforme,EUR 7000000,EUR,7700000.000000001
+2489,(500) Days of Summer,$ 7500000,$,7500000
+2490,Never Back Down,$ 20000000,$,20000000
+2491,The Way Back,$ 30000000,$,30000000
+2492,Step Up 2: The Streets,$ 17500000,$,17500000
+2493,Il divo - La spettacolare vita di Giulio Andreotti,EUR 5700000,EUR,6270000.000000001
+2494,Argo,$ 44500000,$,44500000
+2495,Gemini Man,$ 138000000,$,138000000
+2496,Wall Street: Money Never Sleeps,$ 70000000,$,70000000
+2497,Secretariat,$ 35000000,$,35000000
+2498,Poltergeist,$ 35000000,$,35000000
+2499,RocknRolla,$ 18000000,$,18000000
+2500,"I Love You, Beth Cooper",$ 18000000,$,18000000
+2501,"4 luni, 3 saptamâni si 2 zile",EUR 590000,EUR,649000.0
+2502,The Descendants,$ 20000000,$,20000000
+2503,What Happens in Vegas,$ 35000000,$,35000000
+2504,Gamer,$ 50000000,$,50000000
+2505,Defiance,$ 32000000,$,32000000
+2506,Righteous Kill,$ 60000000,$,60000000
+2507,Suspiria,$ 20000000,$,20000000
+2508,Coco avant Chanel,$ 23000000,$,23000000
+2509,The Book of Eli,$ 80000000,$,80000000
+2510,Legion,$ 26000000,$,26000000
+2511,The Bounty Hunter,$ 40000000,$,40000000
+2512,The Nutcracker in 3D,$ 90000000,$,90000000
+2513,The Proposal,$ 40000000,$,40000000
+2514,Cadillac Records,$ 12000000,$,12000000
+2515,The Legend of Hercules,$ 70000000,$,70000000
+2516,Silver Linings Playbook,$ 21000000,$,21000000
+2517,I Love You Phillip Morris,$ 13000000,$,13000000
+2518,G.I. Joe: The Rise of Cobra,$ 175000000,$,175000000
+2519,Miracle at St. Anna,$ 45000000,$,45000000
+2520,Parental Guidance,$ 25000000,$,25000000
+2521,Up,$ 175000000,$,175000000
+2522,Goosebumps,$ 58000000,$,58000000
+2523,Repo Men,$ 32000000,$,32000000
+2524,The Big Year,$ 41000000,$,41000000
+2525,The Imaginarium of Doctor Parnassus,$ 30000000,$,30000000
+2526,Life as We Know It,$ 38000000,$,38000000
+2527,Transformers: Revenge of the Fallen,$ 200000000,$,200000000
+2528,Invictus,$ 60000000,$,60000000
+2529,The Invention of Lying,$ 18500000,$,18500000
+2530,Eagle Eye,$ 80000000,$,80000000
+2531,Cloverfield,$ 25000000,$,25000000
+2532,Boyhood,$ 4000000,$,4000000
+2533,A Christmas Carol,$ 200000000,$,200000000
+2534,Water for Elephants,$ 38000000,$,38000000
+2535,Adult World,$ 4000000,$,4000000
+2536,Monte Carlo,$ 20000000,$,20000000
+2537,Footloose,$ 24000000,$,24000000
+2538,Yes Man,$ 70000000,$,70000000
+2539,Ghost Rider: Spirit of Vengeance,$ 57000000,$,57000000
+2540,Winchester,$ 3500000,$,3500000
+2541,Meet the Spartans,$ 30000000,$,30000000
+2542,Skyfall,$ 200000000,$,200000000
+2543,Race to Witch Mountain,$ 65000000,$,65000000
+2544,Dark Shadows,$ 150000000,$,150000000
+2545,My Sister's Keeper,$ 30000000,$,30000000
+2546,Night at the Museum: Battle of the Smithsonian,$ 150000000,$,150000000
+2547,Couples Retreat,$ 70000000,$,70000000
+2548,Ice Age: Dawn of the Dinosaurs,$ 90000000,$,90000000
+2549,The Belko Experiment,$ 5000000,$,5000000
+2550,Quarantine,$ 12000000,$,12000000
+2551,Eddie the Eagle,$ 23000000,$,23000000
+2552,Fired Up!,$ 20000000,$,20000000
+2553,Blended,$ 40000000,$,40000000
+2554,Lone Survivor,$ 40000000,$,40000000
+2555,Paul,$ 40000000,$,40000000
+2556,The Darkest Hour,$ 30000000,$,30000000
+2557,The Bad Lieutenant: Port of Call - New Orleans,$ 25000000,$,25000000
+2558,Dragonball Evolution,$ 30000000,$,30000000
+2559,Twilight,$ 37000000,$,37000000
+2560,Foxcatcher,$ 24000000,$,24000000
+2561,Shorts,$ 40000000,$,40000000
+2562,Killers,$ 75000000,$,75000000
+2563,Two Lovers,$ 9800000,$,9800000
+2564,Tron,$ 170000000,$,170000000
+2565,Paddington,$ 55000000,$,55000000
+2566,The Taking of Pelham 123,$ 100000000,$,100000000
+2567,Hannah Montana: The Movie,$ 30000000,$,30000000
+2568,Paul Blart: Mall Cop,$ 26000000,$,26000000
+2569,The Hangover,$ 35000000,$,35000000
+2570,Blue Valentine,$ 1000000,$,1000000
+2571,Seventh Son,$ 95000000,$,95000000
+2572,Crank: High Voltage,$ 20000000,$,20000000
+2573,The Ides of March,$ 12500000,$,12500000
+2574,Free State of Jones,$ 50000000,$,50000000
+2575,The Wrestler,$ 6000000,$,6000000
+2576,Big Eyes,$ 10000000,$,10000000
+2577,Burlesque,$ 55000000,$,55000000
+2578,Morning Glory,$ 40000000,$,40000000
+2579,Drag Me to Hell,$ 30000000,$,30000000
+2580,Fireproof,$ 500000,$,500000
+2581,Transporter 3,$ 30000000,$,30000000
+2582,Amelia,$ 40000000,$,40000000
+2583,Shutter Island,$ 80000000,$,80000000
+2584,Jennifer's Body,$ 16000000,$,16000000
+2585,Män som hatar kvinnor,$ 13000000,$,13000000
+2586,Saw V,$ 10800000,$,10800000
+2587,Green Lantern,$ 200000000,$,200000000
+2588,Takers,$ 32000000,$,32000000
+2589,Duplicity,$ 60000000,$,60000000
+2590,Julie & Julia,$ 40000000,$,40000000
+2591,Sex Drive,$ 19000000,$,19000000
+2592,District 9,$ 30000000,$,30000000
+2593,Death Wish,$ 30000000,$,30000000
+2594,The Ghost Writer,$ 45000000,$,45000000
+2595,The Unborn,$ 16000000,$,16000000
+2596,Låt den rätte komma in,$ 4000000,$,4000000
+2597,Post Grad,$ 15000000,$,15000000
+2598,Frankenweenie,$ 39000000,$,39000000
+2599,The Ugly Truth,$ 38000000,$,38000000
+2600,The Final Destination,$ 40000000,$,40000000
+2601,Das weiße Band - Eine deutsche Kindergeschichte,$ 18000000,$,18000000
+2602,"Lovely, Still",$ 5000000,$,5000000
+2603,Beastly,$ 17000000,$,17000000
+2604,Public Enemies,$ 100000000,$,100000000
+2605,"I Love You, Man",$ 40000000,$,40000000
+2606,The Karate Kid,$ 40000000,$,40000000
+2607,Zombieland,$ 23600000,$,23600000
+2608,Gentlemen Broncos,$ 10000000,$,10000000
+2609,The Rite,$ 37000000,$,37000000
+2610,The Hobbit: The Desolation of Smaug,$ 225000000,$,225000000
+2611,Baggage Claim,$ 8500000,$,8500000
+2612,Demolition,$ 10000000,$,10000000
+2613,Whip It,$ 15000000,$,15000000
+2614,Bronson,$ 230000,$,230000
+2615,An Education,$ 7500000,$,7500000
+2616,W.,$ 25100000,$,25100000
+2617,Me and Orson Welles,$ 25000000,$,25000000
+2618,Whatever Works,$ 15000000,$,15000000
+2619,A Walk in the Woods,$ 8000000,$,8000000
+2620,From Paris with Love,$ 52000000,$,52000000
+2621,A Nightmare on Elm Street,$ 35000000,$,35000000
+2622,Chéri,$ 23000000,$,23000000
+2623,My Bloody Valentine,$ 15000000,$,15000000
+2624,Paranormal Activity,$ 15000,$,15000
+2625,10 Cloverfield Lane,$ 15000000,$,15000000
+2626,Wuthering Heights,GBP 5000000,GBP,6300000.0
+2627,Moon,$ 5000000,$,5000000
+2628,When in Rome,$ 55000000,$,55000000
+2629,Star Wars: The Clone Wars,$ 8500000,$,8500000
+2630,Ninja Assassin,$ 40000000,$,40000000
+2631,Agora,$ 70000000,$,70000000
+2632,3 Idiots,INR 550000000,INR,7150000.0
+2633,Pandorum,$ 33000000,$,33000000
+2634,My Name Is Khan,$ 12000000,$,12000000
+2635,La piel que habito,EUR 10000000,EUR,11000000.0
+2636,The Lincoln Lawyer,$ 40000000,$,40000000
+2637,2012,$ 200000000,$,200000000
+2638,Black Dynamite,$ 2900000,$,2900000
+2639,Enter the Void,$ 16000000,$,16000000
+2640,Rango,$ 135000000,$,135000000
+2641,Up in the Air,$ 25000000,$,25000000
+2642,Step Up 3D,$ 30000000,$,30000000
+2643,The Bourne Legacy,$ 125000000,$,125000000
+2644,Get Low,$ 7000000,$,7000000
+2645,The Five-Year Engagement,$ 30000000,$,30000000
+2646,Diary of a Wimpy Kid,$ 15000000,$,15000000
+2647,Law Abiding Citizen,$ 50000000,$,50000000
+2648,Observe and Report,$ 18000000,$,18000000
+2649,Funny People,$ 75000000,$,75000000
+2650,Harry Potter and the Deathly Hallows: Part 2,$ 125000000,$,125000000
+2651,The Muppets,$ 45000000,$,45000000
+2652,Last Vegas,$ 28000000,$,28000000
+2653,Ouija,$ 5000000,$,5000000
+2654,Gran Torino,$ 33000000,$,33000000
+2655,Jack Ryan: Shadow Recruit,$ 60000000,$,60000000
+2656,Out of the Furnace,$ 22000000,$,22000000
+2657,Rambo: Last Blood,$ 50000000,$,50000000
+2658,Brooklyn's Finest,$ 17000000,$,17000000
+2659,Moneyball,$ 50000000,$,50000000
+2660,The Lone Ranger,$ 215000000,$,215000000
+2661,Doctor Strange,$ 165000000,$,165000000
+2662,Escape Plan,$ 50000000,$,50000000
+2663,Hereafter,$ 50000000,$,50000000
+2664,The Lost City of Z,$ 30000000,$,30000000
+2665,The Back-up Plan,$ 35000000,$,35000000
+2666,Lawless,$ 26000000,$,26000000
+2667,Alpha and Omega,$ 20000000,$,20000000
+2668,First Man,$ 59000000,$,59000000
+2669,Disaster Movie,$ 20000000,$,20000000
+2670,London Boulevard,$ 25000000,$,25000000
+2671,The World's End,$ 20000000,$,20000000
+2672,Seeking Justice,$ 17000000,$,17000000
+2673,Cars 2,$ 200000000,$,200000000
+2674,Flickan som lekte med elden,EUR 4000000,EUR,4400000.0
+2675,Leap Year,$ 19000000,$,19000000
+2676,Madeo,$ 5000000,$,5000000
+2677,Brave,$ 185000000,$,185000000
+2678,Battle Los Angeles,$ 70000000,$,70000000
+2679,Limitless,$ 27000000,$,27000000
+2680,Legend of the Guardians: The Owls of Ga'Hoole,$ 80000000,$,80000000
+2681,Ghost in the Shell,$ 110000000,$,110000000
+2682,The Fourth Kind,$ 10000000,$,10000000
+2683,Grace,$ 5000000,$,5000000
+2684,Resident Evil: Afterlife,$ 60000000,$,60000000
+2685,Henry's Crime,$ 12000000,$,12000000
+2686,Zookeeper,$ 80000000,$,80000000
+2687,Get Him to the Greek,$ 40000000,$,40000000
+2688,Io sono l'amore,EUR 3600000,EUR,3960000.0000000005
+2689,Edge of Darkness,$ 80000000,$,80000000
+2690,The Debt,$ 20000000,$,20000000
+2691,In the Loop,GBP 612650,GBP,771939.0
+2692,Beautiful Boy,$ 25000000,$,25000000
+2693,Iron Man 2,$ 200000000,$,200000000
+2694,Let Me In,$ 20000000,$,20000000
+2695,Mission: Impossible - Ghost Protocol,$ 145000000,$,145000000
+2696,Anchorman 2: The Legend Continues,$ 50000000,$,50000000
+2697,Same Kind of Different as Me,$ 15000000,$,15000000
+2698,It's Complicated,$ 85000000,$,85000000
+2699,Alvin and the Chipmunks: The Squeakquel,$ 75000000,$,75000000
+2700,Due Date,$ 65000000,$,65000000
+2701,Hot Tub Time Machine,$ 36000000,$,36000000
+2702,That's My Boy,$ 70000000,$,70000000
+2703,Fish Tank,$ 3000000,$,3000000
+2704,Sorority Row,$ 12500000,$,12500000
+2705,21 Jump Street,$ 42000000,$,42000000
+2706,Saw VI,$ 11000000,$,11000000
+2707,The Men Who Stare at Goats,$ 25000000,$,25000000
+2708,Red Dawn,$ 65000000,$,65000000
+2709,RoboCop,$ 100000000,$,100000000
+2710,Un prophète,$ 13000000,$,13000000
+2711,Wild Target,$ 8000000,$,8000000
+2712,Broken City,$ 35000000,$,35000000
+2713,Chico & Rita,EUR 9200000,EUR,10120000.0
+2714,Medianeras,$ 11000000,$,11000000
+2715,Mistérios de Lisboa,EUR 2500000,EUR,2750000.0
+2716,Your Highness,$ 49900000,$,49900000
+2717,I Spit on Your Grave,$ 2000000,$,2000000
+2718,We Need to Talk About Kevin,$ 7000000,$,7000000
+2719,The Tourist,$ 100000000,$,100000000
+2720,Aloha,$ 37000000,$,37000000
+2721,Conviction,$ 12500000,$,12500000
+2722,[Rec]²,$ 5600000,$,5600000
+2723,This Is the End,$ 32000000,$,32000000
+2724,RED,$ 58000000,$,58000000
+2725,Serena,$ 30000000,$,30000000
+2726,Kick-Ass,$ 30000000,$,30000000
+2727,300: Rise of an Empire,$ 110000000,$,110000000
+2728,Immortals,$ 75000000,$,75000000
+2729,Holmes & Watson,$ 42000000,$,42000000
+2730,Incendies,$ 6800000,$,6800000
+2731,The Man with the Iron Fists,$ 15000000,$,15000000
+2732,The Cabin in the Woods,$ 30000000,$,30000000
+2733,Den of Thieves,$ 30000000,$,30000000
+2734,The Twilight Saga: New Moon,$ 50000000,$,50000000
+2735,Sex and the City 2,$ 100000000,$,100000000
+2736,Scream 4,$ 40000000,$,40000000
+2737,Crazy Heart,$ 7000000,$,7000000
+2738,The Roommate,$ 16000000,$,16000000
+2739,Hercules,$ 100000000,$,100000000
+2740,A Very Harold & Kumar 3D Christmas,$ 19000000,$,19000000
+2741,The Devil's Double,$ 19100000,$,19100000
+2742,Don't Be Afraid of the Dark,$ 25000000,$,25000000
+2743,Venom,$ 100000000,$,100000000
+2744,X: First Class,$ 160000000,$,160000000
+2745,2 Guns,$ 61000000,$,61000000
+2746,London Fields,$ 8000000,$,8000000
+2747,The Spy Next Door,$ 28000000,$,28000000
+2748,Looper,$ 30000000,$,30000000
+2749,Madagascar 3: Europe's Most Wanted,$ 145000000,$,145000000
+2750,Død snø,$ 800000,$,800000
+2751,Date Night,$ 55000000,$,55000000
+2752,Easy A,$ 8000000,$,8000000
+2753,Bad Teacher,$ 20000000,$,20000000
+2754,The Strangers: Prey at Night,$ 5000000,$,5000000
+2755,The Social Network,$ 40000000,$,40000000
+2756,Don 2,$ 16700000,$,16700000
+2757,Cats & Dogs: The Revenge of Kitty Galore,$ 85000000,$,85000000
+2758,Shi,KRW 1300000000,KRW,1066000.0
+2759,Evil Dead,$ 17000000,$,17000000
+2760,Ghostbusters,$ 144000000,$,144000000
+2761,Teenage Mutant Ninja Turtles,$ 125000000,$,125000000
+2762,Warrior,$ 25000000,$,25000000
+2763,How to Be Single,$ 38000000,$,38000000
+2764,xXx: Return of Xander Cage,$ 85000000,$,85000000
+2765,The Last Song,$ 20000000,$,20000000
+2766,The Hustle,$ 21000000,$,21000000
+2767,The Watch,$ 68000000,$,68000000
+2768,Pirates of the Caribbean: On Stranger Tides,$ 250000000,$,250000000
+2769,The Boondock Saints II: All Saints Day,$ 8000000,$,8000000
+2770,Iron Man Three,$ 200000000,$,200000000
+2771,Kung Fu Panda 2,$ 150000000,$,150000000
+2772,Yogi Bear,$ 80000000,$,80000000
+2773,Defendor,$ 3500000,$,3500000
+2774,Our Family Wedding,$ 14000000,$,14000000
+2775,Mars Needs Moms,$ 150000000,$,150000000
+2776,El secreto de sus ojos,$ 2000000,$,2000000
+2777,50/50,$ 8000000,$,8000000
+2778,Seeking a Friend for the End of the World,$ 10000000,$,10000000
+2779,The Happytime Murders,$ 40000000,$,40000000
+2780,Bullet to the Head,$ 55000000,$,55000000
+2781,Halloween II,$ 15000000,$,15000000
+2782,Did You Hear About the Morgans?,$ 58000000,$,58000000
+2783,Devil,$ 10000000,$,10000000
+2784,A Single Man,$ 7000000,$,7000000
+2785,Rise of the Planet of the Apes,$ 93000000,$,93000000
+2786,The Man Who Killed Don Quixote,EUR 17000000,EUR,18700000.0
+2787,Burke and Hare,GBP 7500000,GBP,9450000.0
+2788,The Last Exorcism,$ 1800000,$,1800000
+2789,The Expendables,$ 80000000,$,80000000
+2790,Gulliver's Travels,$ 112000000,$,112000000
+2791,Death at a Funeral,$ 21000000,$,21000000
+2792,Oldboy,$ 30000000,$,30000000
+2793,Gangster Squad,$ 60000000,$,60000000
+2794,August: Osage County,$ 25000000,$,25000000
+2795,Going the Distance,$ 32000000,$,32000000
+2796,Despicable Me,$ 69000000,$,69000000
+2797,The Twilight Saga: Breaking Dawn - Part 1,$ 110000000,$,110000000
+2798,The Twilight Saga: Eclipse,$ 68000000,$,68000000
+2799,The Lucky One,$ 25000000,$,25000000
+2800,The Butler,$ 30000000,$,30000000
+2801,Movie 43,$ 6000000,$,6000000
+2802,Never Let Me Go,$ 15000000,$,15000000
+2803,Arthur,$ 40000000,$,40000000
+2804,47 Ronin,$ 175000000,$,175000000
+2805,Rock of Ages,$ 75000000,$,75000000
+2806,Der Räuber,EUR 1000000,EUR,1100000.0
+2807,Terminator Genisys,$ 155000000,$,155000000
+2808,Tinker Tailor Soldier Spy,GBP 20000000,GBP,25200000.0
+2809,How Do You Know,$ 120000000,$,120000000
+2810,The Great Gatsby,$ 105000000,$,105000000
+2811,Luftslottet som sprängdes,EUR 4000000,EUR,4400000.0
+2812,Dredd,$ 50000000,$,50000000
+2813,The Dark Knight Rises,$ 250000000,$,250000000
+2814,Jack the Giant Slayer,$ 195000000,$,195000000
+2815,Chloe,$ 14000000,$,14000000
+2816,If I Stay,$ 11000000,$,11000000
+2817,The Infiltrator,$ 28000000,$,28000000
+2818,Le chat du rabbin,EUR 12500000,EUR,13750000.000000002
+2819,Passengers,$ 110000000,$,110000000
+2820,Black Mass,$ 53000000,$,53000000
+2821,Beasts of No Nation,$ 6000000,$,6000000
+2822,Tomb Raider,$ 94000000,$,94000000
+2823,The Sitter,$ 25000000,$,25000000
+2824,Cloud Atlas,$ 102000000,$,102000000
+2825,This Is Where I Leave You,$ 19800000,$,19800000
+2826,Pride and Prejudice and Zombies,$ 28000000,$,28000000
+2827,Upside Down,$ 60000000,$,60000000
+2828,Inception,$ 160000000,$,160000000
+2829,Grown Ups,$ 80000000,$,80000000
+2830,The Company You Keep,$ 2000000,$,2000000
+2831,The Adjustment Bureau,$ 50200000,$,50200000
+2832,Cop Out,$ 30000000,$,30000000
+2833,The Other Guys,$ 100000000,$,100000000
+2834,Suicide Squad,$ 175000000,$,175000000
+2835,Total Recall,$ 125000000,$,125000000
+2836,Downsizing,$ 68000000,$,68000000
+2837,We Bought a Zoo,$ 50000000,$,50000000
+2838,When the Bough Breaks,$ 10000000,$,10000000
+2839,In the Heart of the Sea,$ 100000000,$,100000000
+2840,The Hunger Games,$ 78000000,$,78000000
+2841,Mad Max: Fury Road,$ 150000000,$,150000000
+2842,Marmaduke,$ 50000000,$,50000000
+2843,Prisoners,$ 46000000,$,46000000
+2844,Mr. Popper's Penguins,$ 55000000,$,55000000
+2845,It,$ 35000000,$,35000000
+2846,Taken 2,$ 45000000,$,45000000
+2847,Journey 2: The Mysterious Island,$ 79000000,$,79000000
+2848,Straight Outta Compton,$ 28000000,$,28000000
+2849,Transformers: Dark of the Moon,$ 195000000,$,195000000
+2850,Winter's Bone,$ 2000000,$,2000000
+2851,Rare Exports,EUR 1948000,EUR,2142800.0
+2852,Unknown,$ 30000000,$,30000000
+2853,Happy Feet Two,$ 135000000,$,135000000
+2854,Wolves,$ 18000000,$,18000000
+2855,True Grit,$ 38000000,$,38000000
+2856,Remember Me,$ 16000000,$,16000000
+2857,Star Trek Into Darkness,$ 190000000,$,190000000
+2858,Ride Along,$ 25000000,$,25000000
+2859,Men in Black 3,$ 225000000,$,225000000
+2860,Jin ling shi san chai,$ 94000000,$,94000000
+2861,No Strings Attached,$ 25000000,$,25000000
+2862,Riddick,$ 38000000,$,38000000
+2863,Bucky Larson: Born to Be a Star,$ 10000000,$,10000000
+2864,The Hangover Part II,$ 80000000,$,80000000
+2865,Hop,$ 63000000,$,63000000
+2866,The Best Exotic Marigold Hotel,$ 10000000,$,10000000
+2867,Table 19,$ 5000000,$,5000000
+2868,12 Strong,$ 35000000,$,35000000
+2869,Paranoia,$ 35000000,$,35000000
+2870,You Again,$ 20000000,$,20000000
+2871,Nanny McPhee and the Big Bang,$ 35000000,$,35000000
+2872,"I, Frankenstein",$ 65000000,$,65000000
+2873,Somewhere,$ 7000000,$,7000000
+2874,Predators,$ 40000000,$,40000000
+2875,Hansel & Gretel: Witch Hunters,$ 50000000,$,50000000
+2876,The Wolverine,$ 120000000,$,120000000
+2877,Arthur Christmas,$ 100000000,$,100000000
+2878,Brick Mansions,$ 28000000,$,28000000
+2879,The Pirates! In an Adventure with Scientists!,$ 55000000,$,55000000
+2880,Deadpool,$ 58000000,$,58000000
+2881,Faster,$ 24000000,$,24000000
+2882,Dhobi Ghat,INR 102000000,INR,1326000.0
+2883,Disconnect,$ 10000000,$,10000000
+2884,The Apparition,$ 17000000,$,17000000
+2885,Rio,$ 90000000,$,90000000
+2886,Fright Night,$ 30000000,$,30000000
+2887,Charlie St. Cloud,$ 44000000,$,44000000
+2888,Battleship,$ 209000000,$,209000000
+2889,Goethe!,EUR 3000000,EUR,3300000.0000000005
+2890,Les petits mouchoirs,$ 25000000,$,25000000
+2891,The American,$ 20000000,$,20000000
+2892,Under the Skin,$ 13300000,$,13300000
+2893,Rise of the Guardians,$ 145000000,$,145000000
+2894,Prometheus,$ 130000000,$,130000000
+2895,Winnie the Pooh,$ 30000000,$,30000000
+2896,Filth,$ 5000000,$,5000000
+2897,Monsters University,$ 200000000,$,200000000
+2898,The Help,$ 25000000,$,25000000
+2899,Gravity,$ 100000000,$,100000000
+2900,Habemus Papam,EUR 9000000,EUR,9900000.0
+2901,"Tomorrow, When the War Began",AUD 25000000,AUD,16250000.0
+2902,The Conjuring,$ 20000000,$,20000000
+2903,Kidnap,$ 21000000,$,21000000
+2904,The Next Three Days,$ 30000000,$,30000000
+2905,Dream House,$ 50000000,$,50000000
+2906,Letters to God,$ 3000000,$,3000000
+2907,Buried,$ 3000000,$,3000000
+2908,The Odd Life of Timothy Green,$ 25000000,$,25000000
+2909,Yi dai zong shi,$ 38600000,$,38600000
+2910,"Big Mommas: Like Father, Like Son",$ 32000000,$,32000000
+2911,I Am Number Four,$ 60000000,$,60000000
+2912,Stake Land,$ 650000,$,650000
+2913,L'arnacoeur,EUR 8700000,EUR,9570000.0
+2914,The Human Centipede (First Sequence),EUR 1500000,EUR,1650000.0000000002
+2915,Baywatch,$ 69000000,$,69000000
+2916,Monsters,$ 500000,$,500000
+2917,Max Steel,$ 10000000,$,10000000
+2918,Bridget Jones's Baby,$ 35000000,$,35000000
+2919,Saw 3D,$ 20000000,$,20000000
+2920,Aquaman,$ 160000000,$,160000000
+2921,Bridesmaids,$ 32500000,$,32500000
+2922,The Art of Racing in the Rain,$ 20000000,$,20000000
+2923,Attack the Block,$ 13000000,$,13000000
+2924,Cosmopolis,$ 20500000,$,20500000
+2925,The Lorax,$ 70000000,$,70000000
+2926,Oblivion,$ 120000000,$,120000000
+2927,The Greatest Showman,$ 84000000,$,84000000
+2928,Red Riding Hood,$ 42000000,$,42000000
+2929,The Raven,$ 26000000,$,26000000
+2930,5 Days of War,$ 12000000,$,12000000
+2931,The F Word,$ 11000000,$,11000000
+2932,Khumba,$ 20000000,$,20000000
+2933,The Change-Up,$ 52000000,$,52000000
+2934,Booksmart,$ 6000000,$,6000000
+2935,Central Intelligence,$ 50000000,$,50000000
+2936,The Lego Movie,$ 60000000,$,60000000
+2937,I Saw the Light,$ 13000000,$,13000000
+2938,Underworld Awakening,$ 70000000,$,70000000
+2939,The Paperboy,$ 12500000,$,12500000
+2940,Restless,$ 8000000,$,8000000
+2941,Horrible Bosses,$ 35000000,$,35000000
+2942,Drive Angry,$ 50000000,$,50000000
+2943,Halloween,$ 10000000,$,10000000
+2944,Fantastic Four,$ 120000000,$,120000000
+2945,The King's Speech,$ 15000000,$,15000000
+2946,The Three Musketeers,$ 75000000,$,75000000
+2947,Super,$ 2500000,$,2500000
+2948,Sherlock Holmes: A Game of Shadows,$ 125000000,$,125000000
+2949,The Host,$ 40000000,$,40000000
+2950,A Star Is Born,$ 36000000,$,36000000
+2951,Spy Kids 4: All the Time in the World,$ 27000000,$,27000000
+2952,Area 51,$ 5000000,$,5000000
+2953,The Oogieloves in the Big Balloon Adventure,$ 20000000,$,20000000
+2954,Anonymous,$ 30000000,$,30000000
+2955,Contraband,$ 25000000,$,25000000
+2956,The Vatican Tapes,$ 8000000,$,8000000
+2957,Vacation,$ 31000000,$,31000000
+2958,Melancholia,$ 7400000,$,7400000
+2959,Archipelago,GBP 500000,GBP,630000.0
+2960,Exodus: Gods and Kings,$ 140000000,$,140000000
+2961,Daddy's Home,$ 50000000,$,50000000
+2962,Trust,$ 4000000,$,4000000
+2963,Everything Must Go,$ 5000000,$,5000000
+2964,Byzantium,GBP 8000000,GBP,10080000.0
+2965,Beginners,$ 3200000,$,3200000
+2966,Paa,INR 150000000,INR,1950000.0
+2967,Battle of the Year,$ 20000000,$,20000000
+2968,Xin Shao Lin si,$ 29000000,$,29000000
+2969,Beyond the Black Rainbow,CAD 1100000,CAD,792000.0
+2970,Elysium,$ 115000000,$,115000000
+2971,Captain Phillips,$ 55000000,$,55000000
+2972,Hope Springs,$ 30000000,$,30000000
+2973,The Ledge,$ 10000000,$,10000000
+2974,Paranormal Activity 2,$ 3000000,$,3000000
+2975,The Mortal Instruments: City of Bones,$ 60000000,$,60000000
+2976,Blair Witch,$ 5000000,$,5000000
+2977,Playing for Keeps,$ 35000000,$,35000000
+2978,The Guard,$ 6000000,$,6000000
+2979,Flypaper,$ 5000000,$,5000000
+2980,127 Hours,$ 18000000,$,18000000
+2981,Vamps,$ 16000000,$,16000000
+2982,Judy Moody and the Not Bummer Summer,$ 20000000,$,20000000
+2983,Premium Rush,$ 35000000,$,35000000
+2984,Another Earth,$ 100000,$,100000
+2985,The Last Stand,$ 45000000,$,45000000
+2986,Country Strong,$ 15000000,$,15000000
+2987,Beautiful Creatures,$ 60000000,$,60000000
+2988,Zombieland: Double Tap,$ 42000000,$,42000000
+2989,The Master,$ 32000000,$,32000000
+2990,The Devil Inside,$ 1000000,$,1000000
+2991,Ra.One,$ 24000000,$,24000000
+2992,One Day,$ 15000000,$,15000000
+2993,Overboard,$ 12000000,$,12000000
+2994,Dolphin Tale,$ 37000000,$,37000000
+2995,Just Go with It,$ 80000000,$,80000000
+2996,Skyline,$ 10000000,$,10000000
+2997,Man on a Ledge,$ 42000000,$,42000000
+2998,The Girl with the Dragon Tattoo,$ 90000000,$,90000000
+2999,War Horse,$ 66000000,$,66000000
+3000,Kari-gurashi no Arietti,$ 23000000,$,23000000
+3001,"Crazy, Stupid, Love.",$ 50000000,$,50000000
+3002,Tiny Furniture,$ 65000,$,65000
+3003,A Dangerous Method,EUR 15000000,EUR,16500000.000000002
+3004,Mortal Engines,$ 100000000,$,100000000
+3005,The Good Doctor,$ 6000000,$,6000000
+3006,House at the End of the Street,$ 10000000,$,10000000
+3007,Larry Crowne,$ 30000000,$,30000000
+3008,G.I. Joe: Retaliation,$ 130000000,$,130000000
+3009,What to Expect When You're Expecting,$ 40000000,$,40000000
+3010,Maleficent,$ 180000000,$,180000000
+3011,Warm Bodies,$ 35000000,$,35000000
+3012,"Jeff, Who Lives at Home",$ 10000000,$,10000000
+3013,Sleeping Beauty,AUD 3000000,AUD,1950000.0
+3014,The Commuter,$ 30000000,$,30000000
+3015,Insidious,$ 1500000,$,1500000
+3016,Lockout,$ 20000000,$,20000000
+3017,The Innkeepers,$ 750000,$,750000
+3018,Norm of the North,$ 7000000,$,7000000
+3019,Fast Five,$ 125000000,$,125000000
+3020,Pawn Sacrifice,$ 19000000,$,19000000
+3021,Soul Surfer,$ 18000000,$,18000000
+3022,This Means War,$ 65000000,$,65000000
+3023,The Big Short,$ 28000000,$,28000000
+3024,The Woman in Black,$ 17000000,$,17000000
+3025,Z for Zachariah,$ 7500000,$,7500000
+3026,Contagion,$ 60000000,$,60000000
+3027,New Year's Eve,$ 56000000,$,56000000
+3028,One for the Money,$ 40000000,$,40000000
+3029,Safe House,$ 85000000,$,85000000
+3030,Abduction,$ 35000000,$,35000000
+3031,The Drop,$ 12600000,$,12600000
+3032,Les amours imaginaires,CAD 600000,CAD,432000.0
+3033,The Grey,$ 25000000,$,25000000
+3034,Only God Forgives,$ 4800000,$,4800000
+3035,Amour,$ 8900000,$,8900000
+3036,ATM,$ 3000000,$,3000000
+3037,Prom,$ 8000000,$,8000000
+3038,American Reunion,$ 50000000,$,50000000
+3039,Midnight in Paris,$ 17000000,$,17000000
+3040,A Good Day to Die Hard,$ 92000000,$,92000000
+3041,The Vow,$ 30000000,$,30000000
+3042,Zoolander 2,$ 50000000,$,50000000
+3043,Abraham Lincoln: Vampire Hunter,$ 69000000,$,69000000
+3044,Rubber,$ 500000,$,500000
+3045,Kon-Tiki,$ 16600000,$,16600000
+3046,Hodejegerne,NOK 30300000,NOK,30300000
+3047,Savages,$ 45000000,$,45000000
+3048,Margin Call,$ 3500000,$,3500000
+3049,The Foreigner,$ 35000000,$,35000000
+3050,Alvin and the Chipmunks: Chipwrecked,$ 75000000,$,75000000
+3051,J. Edgar,$ 35000000,$,35000000
+3052,Jupiter Ascending,$ 176000000,$,176000000
+3053,The Last Witch Hunter,$ 90000000,$,90000000
+3054,Jackie,$ 9000000,$,9000000
+3055,A Wrinkle in Time,$ 100000000,$,100000000
+3056,Bleed for This,$ 6000000,$,6000000
+3057,The Addams Family,$ 40000000,$,40000000
+3058,Free Birds,$ 55000000,$,55000000
+3059,Think Like a Man,$ 12000000,$,12000000
+3060,Cesar Chavez,$ 10000000,$,10000000
+3061,30 Minutes or Less,$ 28000000,$,28000000
+3062,Final Destination 5,$ 40000000,$,40000000
+3063,Oz the Great and Powerful,$ 215000000,$,215000000
+3064,ParaNorman,$ 60000000,$,60000000
+3065,Young Adult,$ 12000000,$,12000000
+3066,Touchback,$ 5000000,$,5000000
+3067,Independence Day: Resurgence,$ 165000000,$,165000000
+3068,Chasing Mavericks,$ 20000000,$,20000000
+3069,Courageous,$ 2000000,$,2000000
+3070,Edge of Tomorrow,$ 178000000,$,178000000
+3071,Friends with Benefits,$ 35000000,$,35000000
+3072,Shark Night 3D,$ 25000000,$,25000000
+3073,Johnny English Reborn,$ 45000000,$,45000000
+3074,Violet & Daisy,$ 8000000,$,8000000
+3075,Project X,$ 12000000,$,12000000
+3076,In Time,$ 40000000,$,40000000
+3077,Our Idiot Brother,$ 5000000,$,5000000
+3078,Ted,$ 50000000,$,50000000
+3079,The Man from U.N.C.L.E.,$ 75000000,$,75000000
+3080,Hobo with a Shotgun,$ 3000000,$,3000000
+3081,Jumping the Broom,$ 6600000,$,6600000
+3082,Rampart,$ 12000000,$,12000000
+3083,The Dictator,$ 65000000,$,65000000
+3084,How to Train Your Dragon 2,$ 145000000,$,145000000
+3085,Wrath of the Titans,$ 150000000,$,150000000
+3086,Million Dollar Arm,$ 25000000,$,25000000
+3087,Here Comes the Boom,$ 42000000,$,42000000
+3088,The Dark Tower,$ 60000000,$,60000000
+3089,Lo imposible,$ 45000000,$,45000000
+3090,[REC] 4: Apocalipsis,EUR 3000000,EUR,3300000.0000000005
+3091,[Rec]³: Génesis,$ 6400000,$,6400000
+3092,Diary of a Wimpy Kid: Rodrick Rules,$ 21000000,$,21000000
+3093,Super 8,$ 50000000,$,50000000
+3094,"Få meg på, for faen",NOK 17500000,NOK,17500000
+3095,Kick-Ass 2,$ 28000000,$,28000000
+3096,My Week with Marilyn,GBP 6400000,GBP,8064000.0
+3097,The Age of Adaline,$ 25000000,$,25000000
+3098,The Artist,$ 15000000,$,15000000
+3099,Stolen,$ 35000000,$,35000000
+3100,Safe,$ 30000000,$,30000000
+3101,The Decoy Bride,GBP 2500000,GBP,3150000.0
+3102,Colombiana,$ 40000000,$,40000000
+3103,The Perks of Being a Wallflower,$ 13000000,$,13000000
+3104,Cinderella,$ 95000000,$,95000000
+3105,Their Finest,EUR 10000000,EUR,11000000.0
+3106,Grudge Match,$ 40000000,$,40000000
+3107,Fun Size,$ 14000000,$,14000000
+3108,The Revenant,$ 135000000,$,135000000
+3109,Pacific Rim,$ 190000000,$,190000000
+3110,All Eyez on Me,$ 40000000,$,40000000
+3111,Vampires Suck,$ 20000000,$,20000000
+3112,The Duff,$ 8500000,$,8500000
+3113,Mirror Mirror,$ 85000000,$,85000000
+3114,Ice Age: Continental Drift,$ 95000000,$,95000000
+3115,Elle s'appelait Sarah,EUR 10000000,EUR,11000000.0
+3116,Now You See Me,$ 75000000,$,75000000
+3117,The Twilight Saga: Breaking Dawn - Part 2,$ 120000000,$,120000000
+3118,Entourage,$ 30000000,$,30000000
+3119,Trespass,$ 35000000,$,35000000
+3120,Take Shelter,$ 5000000,$,5000000
+3121,The Intouchables,EUR 9500000,EUR,10450000.0
+3122,Ready Player One,$ 175000000,$,175000000
+3123,Trolls,$ 125000000,$,125000000
+3124,Stoker,$ 12000000,$,12000000
+3125,Welcome to the Punch,$ 8500000,$,8500000
+3126,Long men fei jia,$ 35000000,$,35000000
+3127,Vampire Academy,$ 30000000,$,30000000
+3128,The Awakening,GBP 3000000,GBP,3780000.0
+3129,Despicable Me 2,$ 76000000,$,76000000
+3130,Before I Fall,$ 5000000,$,5000000
+3131,Planes,$ 50000000,$,50000000
+3132,Carnage,$ 25000000,$,25000000
+3133,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",$ 28000000,$,28000000
+3134,Sausage Party,$ 19000000,$,19000000
+3135,Safe Haven,$ 28000000,$,28000000
+3136,Chronicle,$ 12000000,$,12000000
+3137,Snowpiercer,$ 39200000,$,39200000
+3138,Every Thing Will Be Fine,$ 12000000,$,12000000
+3139,Les Misérables,$ 61000000,$,61000000
+3140,Lovely Molly,$ 1000000,$,1000000
+3141,The Last Days on Mars,GBP 7000000,GBP,8820000.0
+3142,Joyful Noise,$ 25000000,$,25000000
+3143,21 & Over,$ 13000000,$,13000000
+3144,Office Christmas Party,$ 45000000,$,45000000
+3145,Triple 9,$ 20000000,$,20000000
+3146,Piranha 3DD,$ 5000000,$,5000000
+3147,The Spectacular Now,$ 2500000,$,2500000
+3148,Weekend,GBP 120000,GBP,151200.0
+3149,Only Lovers Left Alive,$ 7000000,$,7000000
+3150,Anna,$ 7000000,$,7000000
+3151,The Inbetweeners Movie,GBP 3500000,GBP,4410000.0
+3152,October Baby,$ 1000000,$,1000000
+3153,We're the Millers,$ 37000000,$,37000000
+3154,Shame,$ 6500000,$,6500000
+3155,L!fe Happens,$ 930000,$,930000
+3156,Before I Go to Sleep,$ 22000000,$,22000000
+3157,Killer Joe,$ 11000000,$,11000000
+3158,The Way Way Back,$ 5000000,$,5000000
+3159,Scouts Guide to the Zombie Apocalypse,$ 15000000,$,15000000
+3160,Bohemian Rhapsody,$ 52000000,$,52000000
+3161,Bodyguard,INR 600000000,INR,7800000.0
+3162,The Zookeeper's Wife,$ 20000000,$,20000000
+3163,Ender's Game,$ 110000000,$,110000000
+3164,The Lords of Salem,$ 1500000,$,1500000
+3165,Barely Lethal,$ 15000000,$,15000000
+3166,Snow White and the Huntsman,$ 170000000,$,170000000
+3167,Trolljegeren,NOK 19900000,NOK,19900000
+3168,Secret in Their Eyes,$ 19500000,$,19500000
+3169,Jersey Boys,$ 40000000,$,40000000
+3170,I Don't Know How She Does It,$ 24000000,$,24000000
+3171,Blood Ties,$ 25500000,$,25500000
+3172,Moonrise Kingdom,$ 16000000,$,16000000
+3173,Red Lights,EUR 14000000,EUR,15400000.000000002
+3174,The Collection,$ 7500000,$,7500000
+3175,A Dog's Purpose,$ 22000000,$,22000000
+3176,Le Petit Prince,$ 81200000,$,81200000
+3177,Diana,$ 15000000,$,15000000
+3178,Like Crazy,$ 250000,$,250000
+3179,The To Do List,$ 1500000,$,1500000
+3180,The Snowman,$ 35000000,$,35000000
+3181,This Is 40,$ 35000000,$,35000000
+3182,Walking with Dinosaurs 3D,$ 80000000,$,80000000
+3183,No One Lives,$ 2900000,$,2900000
+3184,The First Time,$ 2000000,$,2000000
+3185,Arbitrage,$ 12000000,$,12000000
+3186,Killing Them Softly,$ 15000000,$,15000000
+3187,The Expendables 2,$ 100000000,$,100000000
+3188,Xin hai ge ming,$ 18000000,$,18000000
+3189,Apollo 18,$ 5000000,$,5000000
+3190,Danny Collins,$ 10000000,$,10000000
+3191,Wreck-It Ralph,$ 165000000,$,165000000
+3192,Paranormal Activity 3,$ 5000000,$,5000000
+3193,Aftershock,$ 2000000,$,2000000
+3194,Clown,$ 1500000,$,1500000
+3195,No Escape,$ 16200000,$,16200000
+3196,The Vault,$ 5000000,$,5000000
+3197,Madea's Big Happy Family,$ 25000000,$,25000000
+3198,Talaash,$ 7395080,$,7395080
+3199,Pirates of the Caribbean: Dead Men Tell No Tales,$ 230000000,$,230000000
+3200,The Maze Runner,$ 34000000,$,34000000
+3201,Zero Dark Thirty,$ 40000000,$,40000000
+3202,The Campaign,$ 95000000,$,95000000
+3203,Inherent Vice,$ 20000000,$,20000000
+3204,While We're Young,$ 10000000,$,10000000
+3205,Kokuriko-zaka kara,$ 22000000,$,22000000
+3206,Rudderless,$ 5000000,$,5000000
+3207,Bad Santa 2,$ 26000000,$,26000000
+3208,Southpaw,$ 30000000,$,30000000
+3209,Her,$ 23000000,$,23000000
+3210,American Hustle,$ 40000000,$,40000000
+3211,That Awkward Moment,$ 8000000,$,8000000
+3212,Gold,$ 20000000,$,20000000
+3213,Step Up Revolution,$ 33000000,$,33000000
+3214,Gotti,$ 10000000,$,10000000
+3215,Unbroken,$ 65000000,$,65000000
+3216,Little Boy,$ 20000000,$,20000000
+3217,After Earth,$ 130000000,$,130000000
+3218,Ernest et Célestine,EUR 9600000,EUR,10560000.0
+3219,The Place Beyond the Pines,$ 15000000,$,15000000
+3220,Nebraska,$ 12000000,$,12000000
+3221,The Congress,PLN 34148170,PLN,8195560.8
+3222,The Nut Job,$ 42000000,$,42000000
+3223,RED 2,$ 84000000,$,84000000
+3224,Annie,$ 65000000,$,65000000
+3225,Chappie,$ 49000000,$,49000000
+3226,Black Panther,$ 200000000,$,200000000
+3227,About Last Night,$ 12500000,$,12500000
+3228,Make Your Move,$ 15000000,$,15000000
+3229,Passion,$ 20000000,$,20000000
+3230,Jodaeiye Nader az Simin,$ 500000,$,500000
+3231,The Fifth Estate,$ 28000000,$,28000000
+3232,Winter's Tale,$ 60000000,$,60000000
+3233,The Truth About Emanuel,$ 1300000,$,1300000
+3234,Ruby Sparks,$ 8000000,$,8000000
+3235,Divergent,$ 85000000,$,85000000
+3236,Captain America: The Winter Soldier,$ 170000000,$,170000000
+3237,Hunter Killer,$ 40000000,$,40000000
+3238,Tomboy,EUR 1000000,EUR,1100000.0
+3239,The Loft,$ 14000000,$,14000000
+3240,Sisters,$ 30000000,$,30000000
+3241,Django Unchained,$ 100000000,$,100000000
+3242,You're Next,$ 1000000,$,1000000
+3243,Percy Jackson: Sea of Monsters,$ 90000000,$,90000000
+3244,End of Watch,$ 7000000,$,7000000
+3245,Resident Evil: Retribution,$ 65000000,$,65000000
+3246,Blade Runner 2049,$ 150000000,$,150000000
+3247,Bai she chuan shuo,HKD 200000000,HKD,26000000.0
+3248,To Rome with Love,EUR 17000000,EUR,18700000.0
+3249,Dirty Grandpa,$ 25000000,$,25000000
+3250,Turbo,$ 135000000,$,135000000
+3251,Deepwater Horizon,$ 110000000,$,110000000
+3252,Safety Not Guaranteed,$ 750000,$,750000
+3253,Song of the Sea,EUR 5300000,EUR,5830000.000000001
+3254,The East,$ 6500000,$,6500000
+3255,The Amazing Spider-Man 2,$ 200000000,$,200000000
+3256,The Judge,$ 50000000,$,50000000
+3257,Liberal Arts,$ 2000000,$,2000000
+3258,X-Men: Days of Future Past,$ 200000000,$,200000000
+3259,The Darkness,$ 4000000,$,4000000
+3260,The Edge of Seventeen,$ 9000000,$,9000000
+3261,Hummingbird,$ 20000000,$,20000000
+3262,How I Live Now,$ 8000000,$,8000000
+3263,Spotlight,$ 20000000,$,20000000
+3264,Serbuan Maut,$ 1100000,$,1100000
+3265,Parker,$ 35000000,$,35000000
+3266,Furious 6,$ 160000000,$,160000000
+3267,Flight,$ 31000000,$,31000000
+3268,The Call,$ 13000000,$,13000000
+3269,Penguins of Madagascar,$ 132000000,$,132000000
+3270,Magic Mike,$ 7000000,$,7000000
+3271,Bachelorette,$ 3000000,$,3000000
+3272,Pompeii,$ 100000000,$,100000000
+3273,Sinister,$ 3000000,$,3000000
+3274,La migliore offerta,EUR 13500000,EUR,14850000.000000002
+3275,Trance,$ 20000000,$,20000000
+3276,Let's Be Cops,$ 17000000,$,17000000
+3277,Heaven Is for Real,$ 12000000,$,12000000
+3278,The Big Wedding,$ 35000000,$,35000000
+3279,Seven Psychopaths,$ 15000000,$,15000000
+3280,What Maisie Knew,$ 6000000,$,6000000
+3281,Mud,$ 10000000,$,10000000
+3282,Miss Peregrine's Home for Peculiar Children,$ 110000000,$,110000000
+3283,Carrie,$ 30000000,$,30000000
+3284,About Cherry,$ 2500000,$,2500000
+3285,UglyDolls,$ 45000000,$,45000000
+3286,Ford v Ferrari,$ 97600000,$,97600000
+3287,The Immigrant,$ 16000000,$,16000000
+3288,The Hangover Part III,$ 103000000,$,103000000
+3289,The Hunger Games: Catching Fire,$ 130000000,$,130000000
+3290,The Hunger Games: Mockingjay - Part 1,$ 125000000,$,125000000
+3291,The Hunger Games: Mockingjay - Part 2,$ 160000000,$,160000000
+3292,Borgman,EUR 3100000,EUR,3410000.0000000005
+3293,Oh Boy,EUR 300000,EUR,330000.0
+3294,Sex Tape,$ 40000000,$,40000000
+3295,Noah,$ 125000000,$,125000000
+3296,The Hitman's Bodyguard,$ 30000000,$,30000000
+3297,American Assassin,$ 33000000,$,33000000
+3298,Tomorrowland,$ 190000000,$,190000000
+3299,Father Figures,$ 25000000,$,25000000
+3300,Stalingrad,$ 30000000,$,30000000
+3301,Labor Day,$ 18000000,$,18000000
+3302,The Comedian,$ 15000000,$,15000000
+3303,Infinitely Polar Bear,$ 6700000,$,6700000
+3304,A Most Wanted Man,$ 15000000,$,15000000
+3305,King Arthur: Legend of the Sword,$ 175000000,$,175000000
+3306,The Best of Me,$ 26000000,$,26000000
+3307,The Neon Demon,$ 7000000,$,7000000
+3308,Rules Don't Apply,$ 25000000,$,25000000
+3309,The Two Faces of January,$ 31000000,$,31000000
+3310,Victor Frankenstein,$ 65000000,$,65000000
+3311,Rush,$ 38000000,$,38000000
+3312,Toy Story 4,$ 200000000,$,200000000
+3313,The Good Dinosaur,$ 200000000,$,200000000
+3314,Pain & Gain,$ 26000000,$,26000000
+3315,Begin Again,$ 8000000,$,8000000
+3316,The Young and Prodigious T.S. Spivet,$ 33000000,$,33000000
+3317,Thor: The Dark World,$ 170000000,$,170000000
+3318,Geostorm,$ 120000000,$,120000000
+3319,Pitch Perfect,$ 17000000,$,17000000
+3320,Austenland,GBP 4900000,GBP,6174000.0
+3321,Angry Birds,$ 73000000,$,73000000
+3322,Cloudy with a Chance of Meatballs 2,$ 78000000,$,78000000
+3323,The Upside,$ 37500000,$,37500000
+3324,Robot & Frank,$ 2500000,$,2500000
+3325,"For a Good Time, Call...",$ 850000,$,850000
+3326,Hell Fest,$ 5500000,$,5500000
+3327,Machete Kills,$ 20000000,$,20000000
+3328,Neighbors,$ 18000000,$,18000000
+3329,War Dogs,$ 40000000,$,40000000
+3330,The 33,$ 26000000,$,26000000
+3331,No Good Deed,$ 13200000,$,13200000
+3332,Kaze tachinu,$ 30000000,$,30000000
+3333,Guardians of the Galaxy,$ 170000000,$,170000000
+3334,Man of Tai Chi,$ 25000000,$,25000000
+3335,The Smurfs 2,$ 105000000,$,105000000
+3336,All Is Lost,$ 9000000,$,9000000
+3337,Camille Claudel 1915,EUR 3200000,EUR,3520000.0000000005
+3338,Diary of a Wimpy Kid: Dog Days,$ 22000000,$,22000000
+3339,Mama,$ 15000000,$,15000000
+3340,Sightseers,GBP 1300000,GBP,1638000.0
+3341,Identity Thief,$ 35000000,$,35000000
+3342,Non-Stop,$ 50000000,$,50000000
+3343,12 Years a Slave,$ 20000000,$,20000000
+3344,The Finest Hours,$ 80000000,$,80000000
+3345,Laggies,$ 5000000,$,5000000
+3346,The Last Exorcism Part II,$ 5000000,$,5000000
+3347,The Great Wall,$ 150000000,$,150000000
+3348,Flatliners,$ 19000000,$,19000000
+3349,The Gambler,$ 25000000,$,25000000
+3350,Inside Llewyn Davis,$ 11000000,$,11000000
+3351,De rouille et d'os,EUR 15400000,EUR,16940000.0
+3352,Side Effects,$ 30000000,$,30000000
+3353,Eye in the Sky,$ 13000000,$,13000000
+3354,The Railway Man,$ 18000000,$,18000000
+3355,Point Break,$ 105000000,$,105000000
+3356,13 Sins,$ 4000000,$,4000000
+3357,Rocketman,$ 40000000,$,40000000
+3358,Sleepless,$ 30000000,$,30000000
+3359,Steve Jobs,$ 30000000,$,30000000
+3360,The Best Man Holiday,$ 17000000,$,17000000
+3361,Trouble with the Curve,$ 30000000,$,30000000
+3362,The Imitation Game,$ 14000000,$,14000000
+3363,Upstream Color,$ 50000,$,50000
+3364,Big Game,EUR 8500000,EUR,9350000.0
+3365,Captain Underpants: The First Epic Movie,$ 38000000,$,38000000
+3366,Promised Land,$ 15000000,$,15000000
+3367,Mr. Right,$ 8000000,$,8000000
+3368,Assassin's Creed,$ 125000000,$,125000000
+3369,Dumb and Dumber To,$ 40000000,$,40000000
+3370,Inside Out,$ 175000000,$,175000000
+3371,"McFarland, USA",$ 17000000,$,17000000
+3372,Dead Man Down,$ 30000000,$,30000000
+3373,Spring Breakers,$ 5000000,$,5000000
+3374,Maniac,$ 6000000,$,6000000
+3375,Tammy,$ 20000000,$,20000000
+3376,Dawn of the Planet of the Apes,$ 170000000,$,170000000
+3377,Into the Storm,$ 50000000,$,50000000
+3378,Jagten,$ 3800000,$,3800000
+3379,Paranormal Activity 4,$ 5000000,$,5000000
+3380,Transformers: Age of Extinction,$ 210000000,$,210000000
+3381,Hundraåringen som klev ut genom fönstret och försvann,SEK 63000000,SEK,6300000.0
+3382,Hacksaw Ridge,$ 40000000,$,40000000
+3383,The House with a Clock in Its Walls,$ 42000000,$,42000000
+3384,Pixels,$ 88000000,$,88000000
+3385,Beasts of the Southern Wild,$ 1800000,$,1800000
+3386,Collide,$ 21500000,$,21500000
+3387,San Andreas,$ 110000000,$,110000000
+3388,Second Act,$ 16000000,$,16000000
+3389,The Bling Ring,$ 8000000,$,8000000
+3390,Long Shot,$ 40000000,$,40000000
+3391,Saving Mr. Banks,$ 35000000,$,35000000
+3392,Self/less,$ 26000000,$,26000000
+3393,The Accountant,$ 44000000,$,44000000
+3394,The Current War,$ 30000000,$,30000000
+3395,Getaway,$ 18000000,$,18000000
+3396,Bad Words,$ 10000000,$,10000000
+3397,Horrible Bosses 2,$ 42000000,$,42000000
+3398,St. Vincent,$ 13000000,$,13000000
+3399,Maps to the Stars,$ 15000000,$,15000000
+3400,3 Days to Kill,$ 28000000,$,28000000
+3401,Metallica Through the Never,$ 18000000,$,18000000
+3402,The Monuments Men,$ 70000000,$,70000000
+3403,American Sniper,$ 58800000,$,58800000
+3404,Into the Woods,$ 50000000,$,50000000
+3405,Song One,$ 6000000,$,6000000
+3406,Earth to Echo,$ 13000000,$,13000000
+3407,The Purge,$ 3000000,$,3000000
+3408,Grown Ups 2,$ 80000000,$,80000000
+3409,The Counselor,$ 25000000,$,25000000
+3410,About Time,$ 12000000,$,12000000
+3411,Run All Night,$ 50000000,$,50000000
+3412,The Other Woman,$ 40000000,$,40000000
+3413,Before Midnight,$ 3000000,$,3000000
+3414,Transcendence,$ 100000000,$,100000000
+3415,Jimmy P.,$ 10000000,$,10000000
+3416,Madea's Witness Protection,$ 20000000,$,20000000
+3417,Louder Than Bombs,$ 11000000,$,11000000
+3418,Draft Day,$ 25000000,$,25000000
+3419,Home,$ 135000000,$,135000000
+3420,Insidious: Chapter 2,$ 5000000,$,5000000
+3421,The Mountain Between Us,$ 35000000,$,35000000
+3422,Don Jon,$ 3000000,$,3000000
+3423,Rampage,$ 120000000,$,120000000
+3424,The Internship,$ 58000000,$,58000000
+3425,The Quiet Ones,$ 200000,$,200000
+3426,Valerian and the City of a Thousand Planets,$ 177200000,$,177200000
+3427,Think Like a Man Too,$ 24000000,$,24000000
+3428,Money Monster,$ 27000000,$,27000000
+3429,A Haunted House,$ 2500000,$,2500000
+3430,Big Hero 6,$ 165000000,$,165000000
+3431,When the Game Stands Tall,$ 15000000,$,15000000
+3432,Spider-Man: Homecoming,$ 175000000,$,175000000
+3433,Ballerina,$ 30000000,$,30000000
+3434,The Book of Life,$ 50000000,$,50000000
+3435,Serbuan Maut 2: Berandal,$ 4500000,$,4500000
+3436,Kung Fu Panda 3,$ 145000000,$,145000000
+3437,Gone Girl,$ 61000000,$,61000000
+3438,Magic Mike XXL,$ 14800000,$,14800000
+3439,Hellboy,$ 50000000,$,50000000
+3440,Finding Dory,$ 200000000,$,200000000
+3441,The Grand Budapest Hotel,$ 25000000,$,25000000
+3442,La vie d'Adèle,EUR 4000000,EUR,4400000.0
+3443,Love the Coopers,$ 17000000,$,17000000
+3444,The SpongeBob Movie: Sponge Out of Water,$ 74000000,$,74000000
+3445,Muppets Most Wanted,$ 50000000,$,50000000
+3446,Men in Black: International,$ 110000000,$,110000000
+3447,Jumanji: Welcome to the Jungle,$ 90000000,$,90000000
+3448,Minions,$ 74000000,$,74000000
+3449,22 Jump Street,$ 50000000,$,50000000
+3450,Frozen,$ 150000000,$,150000000
+3451,Sherlock Gnomes,$ 59000000,$,59000000
+3452,Pieta,EUR 103000,EUR,113300.00000000001
+3453,La danza de la realidad,$ 3000000,$,3000000
+3454,Olympus Has Fallen,$ 70000000,$,70000000
+3455,Mandela: Long Walk to Freedom,$ 35000000,$,35000000
+3456,The 5th Wave,$ 38000000,$,38000000
+3457,Wild,$ 15000000,$,15000000
+3458,The Gallows,$ 100000,$,100000
+3459,The Hobbit: The Battle of the Five Armies,$ 250000000,$,250000000
+3460,Homefront,$ 22000000,$,22000000
+3461,Alien: Covenant,$ 97000000,$,97000000
+3462,Endless Love,$ 20000000,$,20000000
+3463,Hell Baby,$ 2500000,$,2500000
+3464,Ma vie de Courgette,EUR 6500000,EUR,7150000.000000001
+3465,The Babadook,$ 2000000,$,2000000
+3466,Fifty Shades of Grey,$ 40000000,$,40000000
+3467,Trudno byt bogom,$ 7000000,$,7000000
+3468,Mary Queen of Scots,$ 25000000,$,25000000
+3469,The Expendables 3,$ 90000000,$,90000000
+3470,The Zero Theorem,$ 8500000,$,8500000
+3471,Fruitvale Station,$ 900000,$,900000
+3472,Snatched,$ 42000000,$,42000000
+3473,Blue Jasmine,$ 18000000,$,18000000
+3474,White House Down,$ 150000000,$,150000000
+3475,The Woman in Black 2: Angel of Death,$ 15000000,$,15000000
+3476,Third Person,$ 28000000,$,28000000
+3477,Parkland,$ 10000000,$,10000000
+3478,The Rover,$ 12000000,$,12000000
+3479,The Mummy,$ 125000000,$,125000000
+3480,Silent Night,$ 5000000,$,5000000
+3481,Mississippi Grind,$ 6000000,$,6000000
+3482,Barefoot,$ 6000000,$,6000000
+3483,Jobs,$ 12000000,$,12000000
+3484,Rio 2,$ 103000000,$,103000000
+3485,La grande bellezza,EUR 9200000,EUR,10120000.0
+3486,Unfinished Business,$ 35000000,$,35000000
+3487,Blue Ruin,$ 420000,$,420000
+3488,Live by Night,$ 108000000,$,108000000
+3489,The Intern,$ 35000000,$,35000000
+3490,Gåten Ragnarok,NOK 38500000,NOK,38500000
+3491,Runner Runner,$ 30000000,$,30000000
+3492,"Where'd You Go, Bernadette",$ 20000000,$,20000000
+3493,Bastille Day,$ 20000000,$,20000000
+3494,Need for Speed,$ 66000000,$,66000000
+3495,Deliver Us from Evil,$ 30000000,$,30000000
+3496,No se aceptan devoluciones,$ 5000000,$,5000000
+3497,The Glass Castle,$ 9000000,$,9000000
+3498,Spectre,$ 245000000,$,245000000
+3499,Coco,$ 175000000,$,175000000
+3500,Brooklyn,$ 11000000,$,11000000
+3501,Mission: Impossible - Rogue Nation,$ 150000000,$,150000000
+3502,Focus,$ 50100000,$,50100000
+3503,The Huntsman: Winter's War,$ 115000000,$,115000000
+3504,Joe,$ 4000000,$,4000000
+3505,The Sacrament,$ 4000000,$,4000000
+3506,How to Train Your Dragon: The Hidden World,$ 129000000,$,129000000
+3507,Keeping Up with the Joneses,$ 40000000,$,40000000
+3508,Delivery Man,$ 26000000,$,26000000
+3509,Oculus,$ 5000000,$,5000000
+3510,Cheap Thrills,$ 200000,$,200000
+3511,Enough Said,$ 8000000,$,8000000
+3512,Avengers: Age of Ultron,$ 250000000,$,250000000
+3513,The Homesman,$ 16000000,$,16000000
+3514,Smurfs: The Lost Village,$ 60000000,$,60000000
+3515,Anomalisa,$ 8000000,$,8000000
+3516,Dark Places,$ 20000000,$,20000000
+3517,The November Man,$ 15000000,$,15000000
+3518,Carol,$ 11800000,$,11800000
+3519,The Green Inferno,$ 5000000,$,5000000
+3520,Belle,$ 10900000,$,10900000
+3521,Gods of Egypt,$ 140000000,$,140000000
+3522,The Family,$ 30000000,$,30000000
+3523,Woman in Gold,$ 11000000,$,11000000
+3524,The Magnificent Seven,$ 90000000,$,90000000
+3525,Le passé,$ 11000000,$,11000000
+3526,The Heat,$ 43000000,$,43000000
+3527,Atomic Blonde,$ 30000000,$,30000000
+3528,Open Windows,EUR 3000000,EUR,3300000.0000000005
+3529,Philomena,$ 12000000,$,12000000
+3530,Project Almanac,$ 12000000,$,12000000
+3531,Taken 3,$ 48000000,$,48000000
+3532,Joy,$ 60000000,$,60000000
+3533,The Peanuts Movie,$ 99000000,$,99000000
+3534,Isn't It Romantic,$ 31000000,$,31000000
+3535,Masterminds,$ 25000000,$,25000000
+3536,Hateship Loveship,$ 5000000,$,5000000
+3537,And So It Goes,$ 18000000,$,18000000
+3538,Il capitale umano,EUR 6000000,EUR,6600000.000000001
+3539,Left Behind,$ 16000000,$,16000000
+3540,Paranormal Activity: The Ghost Dimension,$ 10000000,$,10000000
+3541,Paranormal Activity: The Marked Ones,$ 5000000,$,5000000
+3542,Mr. Turner,GBP 8200000,GBP,10332000.0
+3543,The Last Five Years,$ 2000000,$,2000000
+3544,Star Wars: Episode VII - The Force Awakens,$ 245000000,$,245000000
+3545,Burnt,$ 20000000,$,20000000
+3546,Hotel Transylvania 2,$ 80000000,$,80000000
+3547,Billy Lynn's Long Halftime Walk,$ 40000000,$,40000000
+3548,Jauja,ARS 3000000,ARS,45000.0
+3549,Escobar: Paradise Lost,$ 17000000,$,17000000
+3550,The Gunman,$ 40000000,$,40000000
+3551,Viva la libertà,EUR 5000000,EUR,5500000.0
+3552,Star Wars: Episode VIII - The Last Jedi,$ 317000000,$,317000000
+3553,God's Not Dead,$ 2000000,$,2000000
+3554,Blockers,$ 21000000,$,21000000
+3555,Miekkailija,EUR 1605000,EUR,1765500.0000000002
+3556,Arrival,$ 47000000,$,47000000
+3557,Wonder,$ 20000000,$,20000000
+3558,The Light Between Oceans,$ 20000000,$,20000000
+3559,Crimson Peak,$ 55000000,$,55000000
+3560,The Second Best Exotic Marigold Hotel,$ 10000000,$,10000000
+3561,Pacific Rim: Uprising,$ 150000000,$,150000000
+3562,A Million Ways to Die in the West,$ 40000000,$,40000000
+3563,Get Hard,$ 40000000,$,40000000
+3564,Birdman or (The Unexpected Virtue of Ignorance),$ 18000000,$,18000000
+3565,Alice Through the Looking Glass,$ 170000000,$,170000000
+3566,Going in Style,$ 25000000,$,25000000
+3567,Kaguyahime no monogatari,JPY 5000000000,JPY,46499999.99999999
+3568,Life After Beth,$ 2400000,$,2400000
+3569,Me and Earl and the Dying Girl,$ 8000000,$,8000000
+3570,Shut In,$ 10000000,$,10000000
+3571,Hell or High Water,$ 12000000,$,12000000
+3572,Whiplash,$ 3300000,$,3300000
+3573,The Fault in Our Stars,$ 12000000,$,12000000
+3574,Resident Evil: The Final Chapter,$ 40000000,$,40000000
+3575,A Madea Christmas,$ 25000000,$,25000000
+3576,Step Up All In,$ 45000000,$,45000000
+3577,Ted 2,$ 68000000,$,68000000
+3578,Hot Tub Time Machine 2,$ 14000000,$,14000000
+3579,Ben-Hur,$ 100000000,$,100000000
+3580,Midnight Special,$ 18000000,$,18000000
+3581,The Good Lie,$ 20000000,$,20000000
+3582,Star Trek Beyond,$ 185000000,$,185000000
+3583,Fences,$ 24000000,$,24000000
+3584,Me Before You,$ 20000000,$,20000000
+3585,Churchill,$ 6400000,$,6400000
+3586,Hitman: Agent 47,$ 35000000,$,35000000
+3587,Night at the Museum: Secret of the Tomb,$ 127000000,$,127000000
+3588,Locke,$ 2000000,$,2000000
+3589,The Boss,$ 29000000,$,29000000
+3590,Game Night,$ 37000000,$,37000000
+3591,The Grinch,$ 75000000,$,75000000
+3592,The Secret Life of Pets,$ 75000000,$,75000000
+3593,Fury,$ 68000000,$,68000000
+3594,Blackhat,$ 70000000,$,70000000
+3595,Everest,$ 55000000,$,55000000
+3596,The Longest Ride,$ 34000000,$,34000000
+3597,"Deux jours, une nuit",EUR 7000000,EUR,7700000.000000001
+3598,Devil's Due,$ 7000000,$,7000000
+3599,Sinister 2,$ 10000000,$,10000000
+3600,The One I Love,$ 100000,$,100000
+3601,T2 Trainspotting,$ 18000000,$,18000000
+3602,Beauty and the Beast,$ 160000000,$,160000000
+3603,Veronica Mars,$ 6000000,$,6000000
+3604,Geung see,HKD 15000000,HKD,1950000.0
+3605,Thank You for Your Service,$ 20000000,$,20000000
+3606,The Interview,$ 44000000,$,44000000
+3607,Pete's Dragon,$ 65000000,$,65000000
+3608,Annihilation,$ 40000000,$,40000000
+3609,The Pyramid,$ 6500000,$,6500000
+3610,Kingsman: The Secret Service,$ 81000000,$,81000000
+3611,Furious Seven,$ 190000000,$,190000000
+3612,Rock Dog,$ 60000000,$,60000000
+3613,Mike and Dave Need Wedding Dates,$ 33000000,$,33000000
+3614,A Haunted House 2,$ 4000000,$,4000000
+3615,Død snø 2,NOK 35000000,NOK,35000000
+3616,Fehér isten,HUF 700000000,HUF,2170000.0
+3617,Pitch Perfect 2,$ 29000000,$,29000000
+3618,Tag,$ 28000000,$,28000000
+3619,Ratchet & Clank,$ 20000000,$,20000000
+3620,Coherence,$ 50000,$,50000
+3621,Ride Along 2,$ 40000000,$,40000000
+3622,"As Above, So Below",$ 5000000,$,5000000
+3623,Magic in the Moonlight,$ 16800000,$,16800000
+3624,The Shack,$ 20000000,$,20000000
+3625,Nightcrawler,$ 8500000,$,8500000
+3626,Lucy,$ 40000000,$,40000000
+3627,Shaun the Sheep Movie,$ 25000000,$,25000000
+3628,Red Sparrow,$ 69000000,$,69000000
+3629,Black or White,$ 9000000,$,9000000
+3630,Chef,$ 11000000,$,11000000
+3631,Macbeth,$ 15000000,$,15000000
+3632,99 Homes,$ 8000000,$,8000000
+3633,Manglehorn,$ 4000000,$,4000000
+3634,Insurgent,$ 110000000,$,110000000
+3635,My Old Lady,$ 5000000,$,5000000
+3636,Le dernier loup,$ 38000000,$,38000000
+3637,The Signal,$ 4000000,$,4000000
+3638,The Dressmaker,AUD 17000000,AUD,11050000.0
+3639,John Wick,$ 20000000,$,20000000
+3640,The Lazarus Effect,$ 3300000,$,3300000
+3641,47 Meters Down,$ 5300000,$,5300000
+3642,Far from the Madding Crowd,GBP 12000000,GBP,15120000.0
+3643,Ad Astra,$ 87500000,$,87500000
+3644,Everybody Wants Some!!,$ 10000000,$,10000000
+3645,A Most Violent Year,$ 20000000,$,20000000
+3646,The Transporter Refueled,$ 25000000,$,25000000
+3647,Zootopia,$ 150000000,$,150000000
+3648,Hot Pursuit,$ 35000000,$,35000000
+3649,Alvin and the Chipmunks: The Road Chip,$ 90000000,$,90000000
+3650,The Purge: Anarchy,$ 9000000,$,9000000
+3651,Batman v Superman: Dawn of Justice,$ 250000000,$,250000000
+3652,Term Life,$ 16500000,$,16500000
+3653,Dolphin Tale 2,$ 36000000,$,36000000
+3654,A Hologram for the King,$ 30000000,$,30000000
+3655,The Theory of Everything,$ 15000000,$,15000000
+3656,The Guest,$ 5000000,$,5000000
+3657,The Hundred-Foot Journey,$ 22000000,$,22000000
+3658,Planes: Fire & Rescue,$ 50000000,$,50000000
+3659,Mandariinid,EUR 650000,EUR,715000.0
+3660,Camp X-Ray,$ 1000000,$,1000000
+3661,The Water Diviner,$ 22500000,$,22500000
+3662,Relatos salvajes,$ 3300000,$,3300000
+3663,The Lego Ninjago Movie,$ 70000000,$,70000000
+3664,Moms' Night Out,$ 5000000,$,5000000
+3665,Criminal,$ 31500000,$,31500000
+3666,The Jungle Book,$ 175000000,$,175000000
+3667,Mortdecai,$ 60000000,$,60000000
+3668,Inferno,$ 75000000,$,75000000
+3669,Bad Grandpa,$ 15000000,$,15000000
+3670,The Conjuring 2,$ 40000000,$,40000000
+3671,Love & Friendship,$ 3000000,$,3000000
+3672,Hardcore Henry,$ 2000000,$,2000000
+3673,Creed,$ 35000000,$,35000000
+3674,Suffragette,$ 14000000,$,14000000
+3675,Spy,$ 65000000,$,65000000
+3676,Monster Trucks,$ 125000000,$,125000000
+3677,Tusk,$ 3000000,$,3000000
+3678,Crazy Rich Asians,$ 30000000,$,30000000
+3679,Now You See Me 2,$ 90000000,$,90000000
+3680,Beyond the Lights,$ 7000000,$,7000000
+3681,The Bookshop,$ 5400000,$,5400000
+3682,Desierto,$ 3000000,$,3000000
+3683,The House of Magic,$ 34000000,$,34000000
+3684,Trainwreck,$ 35000000,$,35000000
+3685,Rock the Kasbah,$ 15000000,$,15000000
+3686,Mr. Holmes,$ 10000000,$,10000000
+3687,Room,$ 13000000,$,13000000
+3688,The Diary of a Teenage Girl,$ 2000000,$,2000000
+3689,Honeymoon,$ 1000000,$,1000000
+3690,"Men, Women & Children",$ 16000000,$,16000000
+3691,The Boy Next Door,$ 4000000,$,4000000
+3692,Bitter Harvest,$ 20000000,$,20000000
+3693,Fantastic Beasts and Where to Find Them,$ 180000000,$,180000000
+3694,Insidious: Chapter 3,$ 10000000,$,10000000
+3695,Trumbo,$ 15000000,$,15000000
+3696,Slow West,$ 2000000,$,2000000
+3697,Son of God,$ 22000000,$,22000000
+3698,Incarnate,$ 5000000,$,5000000
+3699,Alléluia,EUR 2896000,EUR,3185600.0000000005
+3700,Risen,$ 20000000,$,20000000
+3701,It Follows,$ 1000000,$,1000000
+3702,Loving Vincent,EUR 5000000,EUR,5500000.0
+3703,Sully,$ 60000000,$,60000000
+3704,Creative Control,$ 1000000,$,1000000
+3705,Il racconto dei racconti - Tale of Tales,EUR 12000000,EUR,13200000.000000002
+3706,Welcome to Marwen,$ 39000000,$,39000000
+3707,Equals,$ 16000000,$,16000000
+3708,London Has Fallen,$ 60000000,$,60000000
+3709,Youth,EUR 12300000,EUR,13530000.000000002
+3710,Logan,$ 97000000,$,97000000
+3711,American Ultra,$ 28000000,$,28000000
+3712,Still Alice,$ 5000000,$,5000000
+3713,The Mercy,$ 32000000,$,32000000
+3714,Concussion,$ 35000000,$,35000000
+3715,Annabelle,$ 6500000,$,6500000
+3716,Pan,$ 150000000,$,150000000
+3717,Jigsaw,$ 10000000,$,10000000
+3718,Friend Request,$ 9900000,$,9900000
+3719,Tolkien,$ 20000000,$,20000000
+3720,Max,$ 20000000,$,20000000
+3721,Transformers: The Last Knight,$ 217000000,$,217000000
+3722,Grimsby,$ 35000000,$,35000000
+3723,X-Men: Apocalypse,$ 178000000,$,178000000
+3724,Stan & Ollie,$ 10000000,$,10000000
+3725,A United Kingdom,$ 14000000,$,14000000
+3726,Scary Stories to Tell in the Dark,$ 25000000,$,25000000
+3727,The Forest,$ 10000000,$,10000000
+3728,Jack Reacher: Never Go Back,$ 60000000,$,60000000
+3729,Sicario,$ 30000000,$,30000000
+3730,Samba,$ 20000000,$,20000000
+3731,Fist Fight,$ 22000000,$,22000000
+3732,Murder on the Orient Express,$ 55000000,$,55000000
+3733,Allegiant,$ 110000000,$,110000000
+3734,Ferdinand,$ 111000000,$,111000000
+3735,A Monster Calls,$ 43000000,$,43000000
+3736,What We Do in the Shadows,$ 1600000,$,1600000
+3737,Ice Age: Collision Course,$ 105000000,$,105000000
+3738,Avril et le monde truqué,$ 12400000,$,12400000
+3739,Cake,$ 7000000,$,7000000
+3740,Paul Blart: Mall Cop 2,$ 30000000,$,30000000
+3741,War for the Planet of the Apes,$ 150000000,$,150000000
+3742,The Hateful Eight,$ 44000000,$,44000000
+3743,Unforgettable,$ 12000000,$,12000000
+3744,The Lobster,EUR 4000000,EUR,4400000.0
+3745,Despicable Me 3,$ 80000000,$,80000000
+3746,Sing,$ 75000000,$,75000000
+3747,The Nut Job 2: Nutty by Nature,$ 40000000,$,40000000
+3748,The Walk,$ 35000000,$,35000000
+3749,Captain America: Civil War,$ 250000000,$,250000000
+3750,Race,$ 30000000,$,30000000
+3751,Thor: Ragnarok,$ 180000000,$,180000000
+3752,Ci ke Nie Yin Niang,$ 15000000,$,15000000
+3753,The Lego Movie 2: The Second Part,$ 99000000,$,99000000
+3754,The Disaster Artist,$ 10000000,$,10000000
+3755,Moana,$ 150000000,$,150000000
+3756,Mechanic: Resurrection,$ 40000000,$,40000000
+3757,The Night Before,$ 25000000,$,25000000
+3758,Nerve,$ 19000000,$,19000000
+3759,American Made,$ 50000000,$,50000000
+3760,Whiskey Tango Foxtrot,$ 35000000,$,35000000
+3761,Girls Trip,$ 19000000,$,19000000
+3762,The Visit,$ 5000000,$,5000000
+3763,Legend,$ 30000000,$,30000000
+3764,Not Cool,$ 800000,$,800000
+3765,Bilal: A New Breed of Hero,$ 30000000,$,30000000
+3766,Knock Knock,$ 2500000,$,2500000
+3767,Cars 3,$ 175000000,$,175000000
+3768,Incredibles 2,$ 200000000,$,200000000
+3769,A Street Cat Named Bob,$ 8000000,$,8000000
+3770,Jem and the Holograms,$ 5000000,$,5000000
+3771,Bølgen,EUR 6000000,EUR,6600000.000000001
+3772,Paper Towns,$ 12000000,$,12000000
+3773,Ricki and the Flash,$ 18000000,$,18000000
+3774,Barbershop: The Next Cut,$ 20000000,$,20000000
+3775,The Girl on the Train,$ 45000000,$,45000000
+3776,Allied,$ 85000000,$,85000000
+3777,The Martian,$ 108000000,$,108000000
+3778,Tian jiang xiong shi,$ 65000000,$,65000000
+3779,Bridge of Spies,$ 40000000,$,40000000
+3780,The BFG,$ 140000000,$,140000000
+3781,Remember,CAD 13000000,CAD,9360000.0
+3782,By the Sea,$ 10000000,$,10000000
+3783,Unfriended,$ 1000000,$,1000000
+3784,The Hollars,$ 3800000,$,3800000
+3785,Irrational Man,$ 11000000,$,11000000
+3786,Elle,EUR 9000000,EUR,9900000.0
+3787,Underworld: Blood Wars,$ 35000000,$,35000000
+3788,Power Rangers,$ 100000000,$,100000000
+3789,Maudie,EUR 4993020,EUR,5492322.0
+3790,The Lady in the Van,$ 6000000,$,6000000
+3791,Kong: Skull Island,$ 185000000,$,185000000
+3792,Godzilla: King of the Monsters,$ 170000000,$,170000000
+3793,Lion,$ 12000000,$,12000000
+3794,Rogue One,$ 200000000,$,200000000
+3795,My Big Fat Greek Wedding 2,$ 18000000,$,18000000
+3796,The Equalizer 2,$ 62000000,$,62000000
+3797,"Hello, My Name Is Doris",$ 1000000,$,1000000
+3798,Snowden,$ 40000000,$,40000000
+3799,Love,$ 3000000,$,3000000
+3800,Solo: A Star Wars Story,$ 275000000,$,275000000
+3801,La La Land,$ 30000000,$,30000000
+3802,We Are Your Friends,$ 2000000,$,2000000
+3803,Le tout nouveau testament,EUR 8555500,EUR,9411050.0
+3804,The Nice Guys,$ 50000000,$,50000000
+3805,Saul fia,EUR 1500000,EUR,1650000.0000000002
+3806,Tangerine,$ 100000,$,100000
+3807,The Predator,$ 88000000,$,88000000
+3808,Only the Brave,$ 38000000,$,38000000
+3809,War Room,$ 3000000,$,3000000
+3810,31,$ 1500000,$,1500000
+3811,Under sandet,DKK 35500000,DKK,5325000.0
+3812,Dope,$ 7000000,$,7000000
+3813,Krampus,$ 15000000,$,15000000
+3814,Dumbo,$ 170000000,$,170000000
+3815,The Perfect Guy,$ 12000000,$,12000000
+3816,Lazer Team,$ 2480421,$,2480421
+3817,The Goldfinch,$ 45000000,$,45000000
+3818,The Boss Baby,$ 125000000,$,125000000
+3819,Stronger,$ 30000000,$,30000000
+3820,The Boy,$ 10000000,$,10000000
+3821,Baby Driver,$ 34000000,$,34000000
+3822,Guardians of the Galaxy Vol. 2,$ 200000000,$,200000000
+3823,The Space Between Us,$ 30000000,$,30000000
+3824,Teenage Mutant Ninja Turtles: Out of the Shadows,$ 135000000,$,135000000
+3825,Popstar: Never Stop Never Stopping,$ 20000000,$,20000000
+3826,Mustang,EUR 1300000,EUR,1430000.0
+3827,The House That Jack Built,EUR 8700000,EUR,9570000.0
+3828,Colonia,$ 14000000,$,14000000
+3829,Saving Christmas,$ 500000,$,500000
+3830,Ah-ga-ssi,KRW 10000000000,KRW,8200000.0
+3831,The Bye Bye Man,$ 7400000,$,7400000
+3832,Manchester by the Sea,$ 9000000,$,9000000
+3833,Swiss Army Man,$ 3000000,$,3000000
+3834,The Death and Life of John F. Donovan,$ 35000000,$,35000000
+3835,Maze Runner: The Scorch Trials,$ 61000000,$,61000000
+3836,Toni Erdmann,EUR 3000000,EUR,3300000.0000000005
+3837,The Shallows,$ 17000000,$,17000000
+3838,Do You Believe?,$ 2300000,$,2300000
+3839,Green Room,$ 5000000,$,5000000
+3840,The Darkest Minds,$ 34000000,$,34000000
+3841,The Purge: Election Year,$ 10000000,$,10000000
+3842,Forever My Girl,$ 3500000,$,3500000
+3843,The Lego Batman Movie,$ 80000000,$,80000000
+3844,Fantastic Beasts: The Crimes of Grindelwald,$ 200000000,$,200000000
+3845,After,$ 14000000,$,14000000
+3846,My Little Pony: The Movie,$ 6500000,$,6500000
+3847,Florence Foster Jenkins,$ 29000000,$,29000000
+3848,Keanu,$ 15000000,$,15000000
+3849,Captain Marvel,$ 175000000,$,175000000
+3850,Avengers: Infinity War,$ 321000000,$,321000000
+3851,Avengers: Endgame,$ 356000000,$,356000000
+3852,Replicas,$ 30000000,$,30000000
+3853,Free Fire,GBP 5500000,GBP,6930000.0
+3854,3 Generations,$ 5000000,$,5000000
+3855,Don't Breathe,$ 9900000,$,9900000
+3856,13 Hours,$ 50000000,$,50000000
+3857,The Gift,$ 5000000,$,5000000
+3858,Woodlawn,$ 12000000,$,12000000
+3859,Meet the Blacks,$ 900000,$,900000
+3860,The Birth of a Nation,$ 8500000,$,8500000
+3861,Jason Bourne,$ 120000000,$,120000000
+3862,Mr. Church,$ 8000000,$,8000000
+3863,Molly's Game,$ 30000000,$,30000000
+3864,Gong fu yu jia,$ 65000000,$,65000000
+3865,Widows,$ 42000000,$,42000000
+3866,Alpha,$ 51000000,$,51000000
+3867,Miracles from Heaven,$ 13000000,$,13000000
+3868,Southside with You,$ 1500000,$,1500000
+3869,The VVitch: A New-England Folktale,$ 4000000,$,4000000
+3870,Grandma,$ 600000,$,600000
+3871,Xun long jue,$ 37000000,$,37000000
+3872,The Founder,$ 25000000,$,25000000
+3873,The Circle,$ 18000000,$,18000000
+3874,Lady Macbeth,GBP 500000,GBP,630000.0
+3875,Kubo and the Two Strings,$ 60000000,$,60000000
+3876,Julieta,EUR 1350000,EUR,1485000.0000000002
+3877,The Bad Batch,$ 6000000,$,6000000
+3878,90 Minutes in Heaven,$ 5000000,$,5000000
+3879,Queen of Katwe,$ 15000000,$,15000000
+3880,Ouija: Origin of Evil,$ 9000000,$,9000000
+3881,Sufat Chol,ILS 3850000,ILS,1116500.0
+3882,Les innocentes,EUR 6000000,EUR,6600000.000000001
+3883,Nine Lives,$ 30000000,$,30000000
+3884,20th Century Women,$ 7000000,$,7000000
+3885,John Wick: Chapter 2,$ 40000000,$,40000000
+3886,Bonjour Anne,$ 5000000,$,5000000
+3887,Neighbors 2: Sorority Rising,$ 35000000,$,35000000
+3888,Shaft,$ 30000000,$,30000000
+3889,Fifty Shades Darker,$ 55000000,$,55000000
+3890,Paddington 2,$ 40000000,$,40000000
+3891,Fifty Shades Freed,$ 55000000,$,55000000
+3892,Gifted,$ 7000000,$,7000000
+3893,The House,$ 40000000,$,40000000
+3894,All I See Is You,$ 30000000,$,30000000
+3895,Maze Runner: The Death Cure,$ 62000000,$,62000000
+3896,Why Him?,$ 38000000,$,38000000
+3897,The Prodigy,$ 6000000,$,6000000
+3898,Café Society,$ 30000000,$,30000000
+3899,Morgan,$ 8000000,$,8000000
+3900,Overlord,$ 38000000,$,38000000
+3901,Robin Hood,$ 100000000,$,100000000
+3902,White Boy Rick,$ 29000000,$,29000000
+3903,Finding Your Feet,GBP 5400000,GBP,6804000.0
+3904,Miss Sloane,$ 13000000,$,13000000
+3905,Nocturnal Animals,$ 22500000,$,22500000
+3906,Darkest Hour,$ 30000000,$,30000000
+3907,Mile 22,$ 50000000,$,50000000
+3908,Patriots Day,$ 45000000,$,45000000
+3909,The Book of Henry,$ 10000000,$,10000000
+3910,Sleight,$ 250000,$,250000
+3911,Christopher Robin,$ 75000000,$,75000000
+3912,The Star,$ 20000000,$,20000000
+3913,Can You Ever Forgive Me?,$ 10000000,$,10000000
+3914,La pazza gioia,EUR 15000000,EUR,16500000.000000002
+3915,Battle of the Sexes,$ 25000000,$,25000000
+3916,Storks,$ 70000000,$,70000000
+3917,The Fate of the Furious,$ 250000000,$,250000000
+3918,Spider-Man: Into the Spider-Verse,$ 90000000,$,90000000
+3919,Denial,$ 10000000,$,10000000
+3920,Harriet,$ 17000000,$,17000000
+3921,Almost Christmas,$ 17000000,$,17000000
+3922,Kingsman: The Golden Circle,$ 104000000,$,104000000
+3923,Bad Moms,$ 20000000,$,20000000
+3924,Fifty Shades of Black,$ 5000000,$,5000000
+3925,On the Basis of Sex,$ 20000000,$,20000000
+3926,Loving,$ 9000000,$,9000000
+3927,Colossal,$ 15000000,$,15000000
+3928,Tenemos la carne,$ 400000,$,400000
+3929,Collateral Beauty,$ 36000000,$,36000000
+3930,Loving Pablo,EUR 14582000,EUR,16040200.000000002
+3931,Tie dao fei hu,$ 50000000,$,50000000
+3932,It Comes at Night,$ 5000000,$,5000000
+3933,Bumblebee,$ 135000000,$,135000000
+3934,Mei ren yu,$ 60720000,$,60720000
+3935,Early Man,$ 50000000,$,50000000
+3936,Personal Shopper,$ 6000000,$,6000000
+3937,Robinson Crusoe,$ 13000000,$,13000000
+3938,A Cure for Wellness,$ 40000000,$,40000000
+3939,Unfriended: Dark Web,$ 1000000,$,1000000
+3940,Pitch Perfect 3,$ 45000000,$,45000000
+3941,The Promise,$ 90000000,$,90000000
+3942,Maleficent: Mistress of Evil,$ 185000000,$,185000000
+3943,LBJ,$ 26000000,$,26000000
+3944,The Meg,$ 130000000,$,130000000
+3945,Lights Out,$ 4900000,$,4900000
+3946,How to Be a Latin Lover,$ 10000000,$,10000000
+3947,Rough Night,$ 20000000,$,20000000
+3948,Midnight Sun,$ 2800000,$,2800000
+3949,Vuelven,MXN 26040000,MXN,1067640.0
+3950,Mother's Day,$ 25000000,$,25000000
+3951,God's Not Dead 2,$ 5000000,$,5000000
+3952,Good Time,$ 4500000,$,4500000
+3953,Hidden Figures,$ 25000000,$,25000000
+3954,The Emoji Movie,$ 50000000,$,50000000
+3955,Jurassic World: Fallen Kingdom,$ 170000000,$,170000000
+3956,Mission: Impossible - Fallout,$ 178000000,$,178000000
+3957,The Curse of La Llorona,$ 9000000,$,9000000
+3958,Mil-jeong,$ 8620000,$,8620000
+3959,Lady Bird,$ 10000000,$,10000000
+3960,Bacalaureat,$ 2000000,$,2000000
+3961,The Ottoman Lieutenant,$ 40000000,$,40000000
+3962,I'm Not Ashamed,$ 1500000,$,1500000
+3963,Grave,EUR 3500000,EUR,3850000.0000000005
+3964,Todos lo saben,EUR 10000000,EUR,11000000.0
+3965,Les frères Sisters,$ 38000000,$,38000000
+3966,Split,$ 9000000,$,9000000
+3967,Moonlight,$ 4000000,$,4000000
+3968,The Kid,$ 8000000,$,8000000
+3969,Middle School: The Worst Years of My Life,$ 8500000,$,8500000
+3970,"Everything, Everything",$ 10000000,$,10000000
+3971,"Psiconautas, los niños olvidados",EUR 1000000,EUR,1100000.0
+3972,Dunkirk,$ 100000000,$,100000000
+3973,"Three Billboards Outside Ebbing, Missouri",$ 15000000,$,15000000
+3974,Mary Poppins Returns,$ 130000000,$,130000000
+3975,Charlie's Angels,$ 48000000,$,48000000
+3976,Get Out,$ 4500000,$,4500000
+3977,Sicario: Day of the Soldado,$ 35000000,$,35000000
+3978,The Favourite,$ 15000000,$,15000000
+3979,Un sac de billes,$ 21400000,$,21400000
+3980,Ant-Man and the Wasp,$ 162000000,$,162000000
+3981,Mother!,$ 30000000,$,30000000
+3982,The Secret Life of Pets 2,$ 80000000,$,80000000
+3983,Peter Rabbit,$ 50000000,$,50000000
+3984,Poms,$ 10000000,$,10000000
+3985,Annabelle: Creation,$ 15000000,$,15000000
+3986,Ocean's Eight,$ 70000000,$,70000000
+3987,"Love, Simon",$ 17000000,$,17000000
+3988,The Girl in the Spider's Web,$ 43000000,$,43000000
+3989,Billionaire Boys Club,$ 15000000,$,15000000
+3990,Operation Finale,$ 24000000,$,24000000
+3991,Gok-seong,$ 6420000,$,6420000
+3992,Hotel Transylvania 3: Summer Vacation,$ 80000000,$,80000000
+3993,Chappaquiddick,$ 13000000,$,13000000
+3994,Journey to the West: Demon Chapter,$ 63300000,$,63300000
+3995,All the Money in the World,$ 50000000,$,50000000
+3996,Marshall,$ 12000000,$,12000000
+3997,Happy End,$ 13600000,$,13600000
+3998,Happy Death Day,$ 4800000,$,4800000
+3999,Kimi no na wa.,JPY 370000000,JPY,3440999.9999999995
+4000,Sgt. Stubby: An American Hero,$ 25000000,$,25000000
+4001,Wish Upon,$ 12000000,$,12000000
+4002,Boo! A Madea Halloween,$ 20000000,$,20000000
+4003,The Hurricane Heist,$ 35000000,$,35000000
+4004,Wind River,$ 11000000,$,11000000
+4005,Detroit,$ 34000000,$,34000000
+4006,Logan Lucky,$ 29000000,$,29000000
+4007,Life,$ 58000000,$,58000000
+4008,The Big Sick,$ 5000000,$,5000000
+4009,Deadpool 2,$ 110000000,$,110000000
+4010,Hostiles,$ 39000000,$,39000000
+4011,Hustlers,$ 20000000,$,20000000
+4012,The Nutcracker and the Four Realms,$ 120000000,$,120000000
+4013,"I, Tonya",$ 11000000,$,11000000
+4014,The Hate U Give,$ 23000000,$,23000000
+4015,The Shape of Water,$ 19400000,$,19400000
+4016,The Beguiled,$ 10500000,$,10500000
+4017,Doctor Sleep,$ 45000000,$,45000000
+4018,Tully,$ 13000000,$,13000000
+4019,Life of the Party,$ 30000000,$,30000000
+4020,Thoroughbreds,$ 6000000,$,6000000
+4021,The Florida Project,$ 2000000,$,2000000
+4022,Daddy's Home 2,$ 69000000,$,69000000
+4023,Goosebumps 2: Haunted Halloween,$ 35000000,$,35000000
+4024,Slender Man,$ 10000000,$,10000000
+4025,Ophelia,$ 12000000,$,12000000
+4026,Show Dogs,$ 5500000,$,5500000
+4027,Under the Silver Lake,$ 8500000,$,8500000
+4028,Busanhaeng,KRW 10000000000,KRW,8200000.0
+4029,A-X-L,$ 10000000,$,10000000
+4030,Film Stars Don't Die in Liverpool,$ 10000000,$,10000000
+4031,Home Again,$ 12000000,$,12000000
+4032,Cold Pursuit,$ 60000000,$,60000000
+4033,Just Getting Started,$ 22000000,$,22000000
+4034,Insidious: The Last Key,$ 10000000,$,10000000
+4035,Call Me by Your Name,EUR 4000000,EUR,4400000.0
+4036,Borg McEnroe,SEK 65000000,SEK,6500000.0
+4037,The Possession of Hannah Grace,$ 7700000,$,7700000
+4038,Skyscraper,$ 125000000,$,125000000
+4039,Phantom Thread,$ 35000000,$,35000000
+4040,The Nun,$ 22000000,$,22000000
+4041,Victoria & Abdul,$ 21000000,$,21000000
+4042,The Kitchen,$ 38000000,$,38000000
+4043,Wonder Wheel,$ 25000000,$,25000000
+4044,Hotel Artemis,$ 15000000,$,15000000
+4045,Ralph Breaks the Internet,$ 175000000,$,175000000
+4046,Le grand méchant renard et autres contes...,$ 3000000,$,3000000
+4047,Napszállta,EUR 8900000,EUR,9790000.0
+4048,Pokémon Detective Pikachu,$ 150000000,$,150000000
+4049,Escape Room,$ 9000000,$,9000000
+4050,Marrowbone,EUR 8000000,EUR,8800000.0
+4051,Estiu 1993,EUR 960000,EUR,1056000.0
+4052,Miss Bala,$ 15000000,$,15000000
+4053,Captive State,$ 25000000,$,25000000
+4054,Life Itself,$ 10000000,$,10000000
+4055,"Roman J. Israel, Esq.",$ 22000000,$,22000000
+4056,Diary of a Wimpy Kid: The Long Haul,$ 22000000,$,22000000
+4057,Kin,$ 30000000,$,30000000
+4058,Acrimony,$ 20000000,$,20000000
+4059,The Angry Birds Movie 2,$ 65000000,$,65000000
+4060,The Lion King,$ 260000000,$,260000000
+4061,Late Night,$ 4000000,$,4000000
+4062,Disobedience,$ 6000000,$,6000000
+4063,The Case for Christ,$ 5000000,$,5000000
+4064,The First Purge,$ 13000000,$,13000000
+4065,Aladdin,$ 183000000,$,183000000
+4066,John Wick: Chapter 3 - Parabellum,$ 75000000,$,75000000
+4067,November,EUR 1450000,EUR,1595000.0000000002
+4068,Smallfoot,$ 80000000,$,80000000
+4069,Angel Has Fallen,$ 40000000,$,40000000
+4070,Assassination Nation,$ 7000000,$,7000000
+4071,Tyler Perry's Boo 2! A Madea Halloween,$ 25000000,$,25000000
+4072,A Ghost Story,$ 100000,$,100000
+4073,Vice,$ 60000000,$,60000000
+4074,The Post,$ 50000000,$,50000000
+4075,Thelma,NOK 47500000,NOK,47500000
+4076,Adrift,$ 35000000,$,35000000
+4077,Spider-Man: Far from Home,$ 160000000,$,160000000
+4078,Abominable,$ 75000000,$,75000000
+4079,Creed II,$ 50000000,$,50000000
+4080,Missing Link,$ 100000000,$,100000000
+4081,A Bad Moms Christmas,$ 28000000,$,28000000
+4082,Downton Abbey,$ 20000000,$,20000000
+4083,Proud Mary,$ 14000000,$,14000000
+4084,The Sun Is Also a Star,$ 9000000,$,9000000
+4085,Wonder Park,$ 100000000,$,100000000
+4086,I Can Only Imagine,$ 7000000,$,7000000
+4087,Terminator: Dark Fate,$ 185000000,$,185000000
+4088,Five Feet Apart,$ 7000000,$,7000000
+4089,Serenity,$ 25000000,$,25000000
+4090,Upgrade,$ 5000000,$,5000000
+4091,The Beach Bum,$ 5000000,$,5000000
+4092,Fighting with My Family,$ 11000000,$,11000000
+4093,Skjelvet,NOK 52100000,NOK,52100000
+4094,Patrick,GBP 6000000,GBP,7560000.0
+4095,Zimna wojna,EUR 4300000,EUR,4730000.0
+4096,Dark Phoenix,$ 200000000,$,200000000
+4097,Phoenix Forgotten,$ 2800000,$,2800000
+4098,Bad Times at the El Royale,$ 32000000,$,32000000
+4099,Triple Threat,$ 10000000,$,10000000
+4100,A Quiet Place,$ 17000000,$,17000000
+4101,The Spy Who Dumped Me,$ 40000000,$,40000000
+4102,The Intruder,$ 8000000,$,8000000
+4103,Der Hauptmann,EUR 5800000,EUR,6380000.000000001
+4104,Truth or Dare,$ 3500000,$,3500000
+4105,Night School,$ 29000000,$,29000000
+4106,I Feel Pretty,$ 32000000,$,32000000
+4107,The 15:17 to Paris,$ 30000000,$,30000000
+4108,Fast & Furious Presents: Hobbs & Shaw,$ 200000000,$,200000000
+4109,The Kid Who Would Be King,$ 59000000,$,59000000
+4110,Arctic,$ 2000000,$,2000000
+4111,Glass,$ 20000000,$,20000000
+4112,Peppermint,$ 25000000,$,25000000
+4113,Us,$ 20000000,$,20000000
+4114,Book Club,$ 10000000,$,10000000
+4115,Mamma Mia! Here We Go Again,$ 75000000,$,75000000
+4116,Johnny English Strikes Again,$ 25000000,$,25000000
+4117,Midway,$ 100000000,$,100000000
+4118,Little Italy,CAD 8000000,CAD,5760000.0
+4119,Green Book,$ 23000000,$,23000000
+4120,Mandy,$ 6000000,$,6000000
+4121,Boy Erased,$ 11000000,$,11000000
+4122,Eighth Grade,$ 2000000,$,2000000
+4123,Every Day,$ 4900000,$,4900000
+4124,A Simple Favor,$ 20000000,$,20000000
+4125,L'insulte,$ 3000000,$,3000000
+4126,A Madea Family Funeral,$ 20000000,$,20000000
+4127,Breakthrough,$ 14000000,$,14000000
+4128,If Beale Street Could Talk,$ 12000000,$,12000000
+4129,Once Upon a Time... in Hollywood,$ 90000000,$,90000000
+4130,Destroyer,$ 9000000,$,9000000
+4131,Breaking In,$ 6000000,$,6000000
+4132,Unsane,$ 1500000,$,1500000
+4133,Blood Fest,$ 1200000,$,1200000
+4134,Hevi reissu,EUR 3000000,EUR,3300000.0000000005
+4135,Kona fer í stríð,EUR 2500000,EUR,2750000.0
+4136,Joker,$ 55000000,$,55000000
+4137,47 Meters Down: Uncaged,$ 12000000,$,12000000
+4138,Uncle Drew,$ 19000000,$,19000000
+4139,Good Boys,$ 20000000,$,20000000
+4140,BlacKkKlansman,$ 15000000,$,15000000
+4141,It Chapter Two,$ 79000000,$,79000000
+4142,Dog Days,$ 10000000,$,10000000
+4143,"Paul, Apostle of Christ",$ 5000000,$,5000000
+4144,Instant Family,$ 48000000,$,48000000
+4145,Teen Titans Go! To the Movies,$ 10000000,$,10000000
+4146,Anna,EUR 30690000,EUR,33759000.0
+4147,Ben Is Back,$ 13000000,$,13000000
+4148,Dora and the Lost City of Gold,$ 49000000,$,49000000
+4149,Liu lang di qiu,$ 48000000,$,48000000
+4150,A Dog's Way Home,$ 18000000,$,18000000
+4151,What Men Want,$ 20000000,$,20000000
+4152,Searching,$ 880000,$,880000
+4153,Superfly,$ 16000000,$,16000000
+4154,Stuber,$ 16000000,$,16000000
+4155,Brightburn,$ 6000000,$,6000000
+4156,Hereditary,$ 10000000,$,10000000
+4157,Ready or Not,$ 6000000,$,6000000
+4158,Kamera wo tomeruna!,JPY 3000000,JPY,27899.999999999996
+4159,Ma,$ 5000000,$,5000000
+4160,The Mule,$ 50000000,$,50000000
+4161,Doragon bôru chô: Burorî,$ 8500000,$,8500000
+4162,Yesterday,$ 26000000,$,26000000
+4163,Little,$ 20000000,$,20000000
+4164,Nobody's Fool,$ 19000000,$,19000000
+4165,Happy Death Day 2U,$ 9000000,$,9000000
+4166,Diqiu zuihou de yewan,CNY 100000000,CNY,14000000.000000002
+4167,Overcomer,$ 5000000,$,5000000
+4168,Blinded by the Light,$ 15000000,$,15000000
+4169,Capharnaüm,$ 4000000,$,4000000
+4170,Gongjak,KRW 19000000000,KRW,15580000.0
+4171,Annabelle Comes Home,$ 27000000,$,27000000
+4172,Climax,EUR 2600000,EUR,2860000.0
+4173,Crawl,$ 13500000,$,13500000
+4174,A Dog's Journey,$ 16000000,$,16000000
+4175,Last Christmas,$ 25000000,$,25000000
+4176,Child's Play,$ 10000000,$,10000000
+4177,Midsommar,$ 10000000,$,10000000
+4178,Unplanned,$ 6000000,$,6000000
+4179,Cold Blood Legacy,$ 2700000,$,2700000
+4180,Playing with Fire,$ 29900000,$,29900000
