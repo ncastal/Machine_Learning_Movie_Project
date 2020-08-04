@@ -1,4 +1,5 @@
-# final_project
+# Machine_Learning_Movie_Project
+
 
 IMDB Movies
 Using Machine Learning (ML) we've created several models to help predict and classify the success of movie.
